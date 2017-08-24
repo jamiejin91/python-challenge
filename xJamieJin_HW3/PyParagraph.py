@@ -17,8 +17,8 @@ with open(txtpath) as file:
 	avg_dss = sum([len(i) for i in data_sent_split])/len(data_sent_split)
 	print("\nParagraph Analysis")
 	print("-" * 50)
-	print("Approximate Word Count: " + str(len(data_word)))
-	print("Approximate Sentence Count: " + str(len(data_sent)))
-	print("Average Letter Count: " + str(avg_dwc))
-	print("Average Sentence Length: " + str(avg_dss) +"\n")
+	print("Approximate Word Count: {}".format(len(data_word)))
+	print("Approximate Sentence Count: {}".format(len(data_sent)))
+	print("Average Letter Count: {:.2f}".format(avg_dwc))
+	print("Average Sentence Length: {:.2f}\n".format(avg_dss))
 
