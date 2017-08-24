@@ -10,7 +10,7 @@ if not os.path.isfile(txtpath):
 with open(txtpath) as file:
 	data = file.read()
 	data_word = re.split('\s+', data)
-	data_sent = re.split('\.\s|\!\s|\?\s', data)
+	data_sent = re.split('\.\s|\!\s|\?\s|\.\"\s', data)
 	data_word_clean = [i for i in data_word]
 	data_sent_split = [re.split('\s+', i) for i in data_sent]
 	avg_dwc = sum([len(i) for i in data_word_clean])/len(data_word_clean)
