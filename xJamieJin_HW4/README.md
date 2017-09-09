@@ -47,6 +47,19 @@ dist_sum
 
 
 <div>
+<style>
+    .dataframe thead tr:only-child th {
+        text-align: right;
+    }
+
+    .dataframe thead th {
+        text-align: left;
+    }
+
+    .dataframe tbody tr th {
+        vertical-align: top;
+    }
+</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -106,1037 +119,188 @@ sch_sum_final
 
 
 
-
-        <style  type="text/css" >
-        
-        
-        </style>
-
-        <table id="T_d8f7651e_930c_11e7_9d84_b4b6765f9203" None>
-        
-
-        <thead>
-            
-            <tr>
-                
-                
-                <th class="blank level0" >
-                  
-                
-                
-                
-                <th class="col_heading level0 col0" colspan=1>
-                  School Type
-                
-                
-                
-                <th class="col_heading level0 col1" colspan=1>
-                  Total Students
-                
-                
-                
-                <th class="col_heading level0 col2" colspan=1>
-                  Total School Budget
-                
-                
-                
-                <th class="col_heading level0 col3" colspan=1>
-                  Per Student Budget
-                
-                
-                
-                <th class="col_heading level0 col4" colspan=1>
-                  Average Math Score
-                
-                
-                
-                <th class="col_heading level0 col5" colspan=1>
-                  Average Reading Score
-                
-                
-                
-                <th class="col_heading level0 col6" colspan=1>
-                  % Passing Math
-                
-                
-                
-                <th class="col_heading level0 col7" colspan=1>
-                  % Passing Reading
-                
-                
-                
-                <th class="col_heading level0 col8" colspan=1>
-                  % Overall Passing Rate
-                
-                
-            </tr>
-            
-        </thead>
-        <tbody>
-            
-            <tr>
-                
-                
-                <th id="T_d8f7651e_930c_11e7_9d84_b4b6765f9203"
-                 class="row_heading level0 row0" rowspan=1>
-                    Bailey High School
-                
-                
-                
-                <td id="T_d8f7651e_930c_11e7_9d84_b4b6765f9203row0_col0"
-                 class="data row0 col0" >
-                    District
-                
-                
-                
-                <td id="T_d8f7651e_930c_11e7_9d84_b4b6765f9203row0_col1"
-                 class="data row0 col1" >
-                    4976
-                
-                
-                
-                <td id="T_d8f7651e_930c_11e7_9d84_b4b6765f9203row0_col2"
-                 class="data row0 col2" >
-                    $3,124,928.00
-                
-                
-                
-                <td id="T_d8f7651e_930c_11e7_9d84_b4b6765f9203row0_col3"
-                 class="data row0 col3" >
-                    $628.00
-                
-                
-                
-                <td id="T_d8f7651e_930c_11e7_9d84_b4b6765f9203row0_col4"
-                 class="data row0 col4" >
-                    77.05
-                
-                
-                
-                <td id="T_d8f7651e_930c_11e7_9d84_b4b6765f9203row0_col5"
-                 class="data row0 col5" >
-                    81.03
-                
-                
-                
-                <td id="T_d8f7651e_930c_11e7_9d84_b4b6765f9203row0_col6"
-                 class="data row0 col6" >
-                    66.68%
-                
-                
-                
-                <td id="T_d8f7651e_930c_11e7_9d84_b4b6765f9203row0_col7"
-                 class="data row0 col7" >
-                    81.93%
-                
-                
-                
-                <td id="T_d8f7651e_930c_11e7_9d84_b4b6765f9203row0_col8"
-                 class="data row0 col8" >
-                    74.31%
-                
-                
-            </tr>
-            
-            <tr>
-                
-                
-                <th id="T_d8f7651e_930c_11e7_9d84_b4b6765f9203"
-                 class="row_heading level0 row1" rowspan=1>
-                    Cabrera High School
-                
-                
-                
-                <td id="T_d8f7651e_930c_11e7_9d84_b4b6765f9203row1_col0"
-                 class="data row1 col0" >
-                    Charter
-                
-                
-                
-                <td id="T_d8f7651e_930c_11e7_9d84_b4b6765f9203row1_col1"
-                 class="data row1 col1" >
-                    1858
-                
-                
-                
-                <td id="T_d8f7651e_930c_11e7_9d84_b4b6765f9203row1_col2"
-                 class="data row1 col2" >
-                    $1,081,356.00
-                
-                
-                
-                <td id="T_d8f7651e_930c_11e7_9d84_b4b6765f9203row1_col3"
-                 class="data row1 col3" >
-                    $582.00
-                
-                
-                
-                <td id="T_d8f7651e_930c_11e7_9d84_b4b6765f9203row1_col4"
-                 class="data row1 col4" >
-                    83.06
-                
-                
-                
-                <td id="T_d8f7651e_930c_11e7_9d84_b4b6765f9203row1_col5"
-                 class="data row1 col5" >
-                    83.98
-                
-                
-                
-                <td id="T_d8f7651e_930c_11e7_9d84_b4b6765f9203row1_col6"
-                 class="data row1 col6" >
-                    94.13%
-                
-                
-                
-                <td id="T_d8f7651e_930c_11e7_9d84_b4b6765f9203row1_col7"
-                 class="data row1 col7" >
-                    97.04%
-                
-                
-                
-                <td id="T_d8f7651e_930c_11e7_9d84_b4b6765f9203row1_col8"
-                 class="data row1 col8" >
-                    95.59%
-                
-                
-            </tr>
-            
-            <tr>
-                
-                
-                <th id="T_d8f7651e_930c_11e7_9d84_b4b6765f9203"
-                 class="row_heading level0 row2" rowspan=1>
-                    Figueroa High School
-                
-                
-                
-                <td id="T_d8f7651e_930c_11e7_9d84_b4b6765f9203row2_col0"
-                 class="data row2 col0" >
-                    District
-                
-                
-                
-                <td id="T_d8f7651e_930c_11e7_9d84_b4b6765f9203row2_col1"
-                 class="data row2 col1" >
-                    2949
-                
-                
-                
-                <td id="T_d8f7651e_930c_11e7_9d84_b4b6765f9203row2_col2"
-                 class="data row2 col2" >
-                    $1,884,411.00
-                
-                
-                
-                <td id="T_d8f7651e_930c_11e7_9d84_b4b6765f9203row2_col3"
-                 class="data row2 col3" >
-                    $639.00
-                
-                
-                
-                <td id="T_d8f7651e_930c_11e7_9d84_b4b6765f9203row2_col4"
-                 class="data row2 col4" >
-                    76.71
-                
-                
-                
-                <td id="T_d8f7651e_930c_11e7_9d84_b4b6765f9203row2_col5"
-                 class="data row2 col5" >
-                    81.16
-                
-                
-                
-                <td id="T_d8f7651e_930c_11e7_9d84_b4b6765f9203row2_col6"
-                 class="data row2 col6" >
-                    65.99%
-                
-                
-                
-                <td id="T_d8f7651e_930c_11e7_9d84_b4b6765f9203row2_col7"
-                 class="data row2 col7" >
-                    80.74%
-                
-                
-                
-                <td id="T_d8f7651e_930c_11e7_9d84_b4b6765f9203row2_col8"
-                 class="data row2 col8" >
-                    73.36%
-                
-                
-            </tr>
-            
-            <tr>
-                
-                
-                <th id="T_d8f7651e_930c_11e7_9d84_b4b6765f9203"
-                 class="row_heading level0 row3" rowspan=1>
-                    Ford High School
-                
-                
-                
-                <td id="T_d8f7651e_930c_11e7_9d84_b4b6765f9203row3_col0"
-                 class="data row3 col0" >
-                    District
-                
-                
-                
-                <td id="T_d8f7651e_930c_11e7_9d84_b4b6765f9203row3_col1"
-                 class="data row3 col1" >
-                    2739
-                
-                
-                
-                <td id="T_d8f7651e_930c_11e7_9d84_b4b6765f9203row3_col2"
-                 class="data row3 col2" >
-                    $1,763,916.00
-                
-                
-                
-                <td id="T_d8f7651e_930c_11e7_9d84_b4b6765f9203row3_col3"
-                 class="data row3 col3" >
-                    $644.00
-                
-                
-                
-                <td id="T_d8f7651e_930c_11e7_9d84_b4b6765f9203row3_col4"
-                 class="data row3 col4" >
-                    77.10
-                
-                
-                
-                <td id="T_d8f7651e_930c_11e7_9d84_b4b6765f9203row3_col5"
-                 class="data row3 col5" >
-                    80.75
-                
-                
-                
-                <td id="T_d8f7651e_930c_11e7_9d84_b4b6765f9203row3_col6"
-                 class="data row3 col6" >
-                    68.31%
-                
-                
-                
-                <td id="T_d8f7651e_930c_11e7_9d84_b4b6765f9203row3_col7"
-                 class="data row3 col7" >
-                    79.30%
-                
-                
-                
-                <td id="T_d8f7651e_930c_11e7_9d84_b4b6765f9203row3_col8"
-                 class="data row3 col8" >
-                    73.80%
-                
-                
-            </tr>
-            
-            <tr>
-                
-                
-                <th id="T_d8f7651e_930c_11e7_9d84_b4b6765f9203"
-                 class="row_heading level0 row4" rowspan=1>
-                    Griffin High School
-                
-                
-                
-                <td id="T_d8f7651e_930c_11e7_9d84_b4b6765f9203row4_col0"
-                 class="data row4 col0" >
-                    Charter
-                
-                
-                
-                <td id="T_d8f7651e_930c_11e7_9d84_b4b6765f9203row4_col1"
-                 class="data row4 col1" >
-                    1468
-                
-                
-                
-                <td id="T_d8f7651e_930c_11e7_9d84_b4b6765f9203row4_col2"
-                 class="data row4 col2" >
-                    $917,500.00
-                
-                
-                
-                <td id="T_d8f7651e_930c_11e7_9d84_b4b6765f9203row4_col3"
-                 class="data row4 col3" >
-                    $625.00
-                
-                
-                
-                <td id="T_d8f7651e_930c_11e7_9d84_b4b6765f9203row4_col4"
-                 class="data row4 col4" >
-                    83.35
-                
-                
-                
-                <td id="T_d8f7651e_930c_11e7_9d84_b4b6765f9203row4_col5"
-                 class="data row4 col5" >
-                    83.82
-                
-                
-                
-                <td id="T_d8f7651e_930c_11e7_9d84_b4b6765f9203row4_col6"
-                 class="data row4 col6" >
-                    93.39%
-                
-                
-                
-                <td id="T_d8f7651e_930c_11e7_9d84_b4b6765f9203row4_col7"
-                 class="data row4 col7" >
-                    97.14%
-                
-                
-                
-                <td id="T_d8f7651e_930c_11e7_9d84_b4b6765f9203row4_col8"
-                 class="data row4 col8" >
-                    95.27%
-                
-                
-            </tr>
-            
-            <tr>
-                
-                
-                <th id="T_d8f7651e_930c_11e7_9d84_b4b6765f9203"
-                 class="row_heading level0 row5" rowspan=1>
-                    Hernandez High School
-                
-                
-                
-                <td id="T_d8f7651e_930c_11e7_9d84_b4b6765f9203row5_col0"
-                 class="data row5 col0" >
-                    District
-                
-                
-                
-                <td id="T_d8f7651e_930c_11e7_9d84_b4b6765f9203row5_col1"
-                 class="data row5 col1" >
-                    4635
-                
-                
-                
-                <td id="T_d8f7651e_930c_11e7_9d84_b4b6765f9203row5_col2"
-                 class="data row5 col2" >
-                    $3,022,020.00
-                
-                
-                
-                <td id="T_d8f7651e_930c_11e7_9d84_b4b6765f9203row5_col3"
-                 class="data row5 col3" >
-                    $652.00
-                
-                
-                
-                <td id="T_d8f7651e_930c_11e7_9d84_b4b6765f9203row5_col4"
-                 class="data row5 col4" >
-                    77.29
-                
-                
-                
-                <td id="T_d8f7651e_930c_11e7_9d84_b4b6765f9203row5_col5"
-                 class="data row5 col5" >
-                    80.93
-                
-                
-                
-                <td id="T_d8f7651e_930c_11e7_9d84_b4b6765f9203row5_col6"
-                 class="data row5 col6" >
-                    66.75%
-                
-                
-                
-                <td id="T_d8f7651e_930c_11e7_9d84_b4b6765f9203row5_col7"
-                 class="data row5 col7" >
-                    80.86%
-                
-                
-                
-                <td id="T_d8f7651e_930c_11e7_9d84_b4b6765f9203row5_col8"
-                 class="data row5 col8" >
-                    73.81%
-                
-                
-            </tr>
-            
-            <tr>
-                
-                
-                <th id="T_d8f7651e_930c_11e7_9d84_b4b6765f9203"
-                 class="row_heading level0 row6" rowspan=1>
-                    Holden High School
-                
-                
-                
-                <td id="T_d8f7651e_930c_11e7_9d84_b4b6765f9203row6_col0"
-                 class="data row6 col0" >
-                    Charter
-                
-                
-                
-                <td id="T_d8f7651e_930c_11e7_9d84_b4b6765f9203row6_col1"
-                 class="data row6 col1" >
-                    427
-                
-                
-                
-                <td id="T_d8f7651e_930c_11e7_9d84_b4b6765f9203row6_col2"
-                 class="data row6 col2" >
-                    $248,087.00
-                
-                
-                
-                <td id="T_d8f7651e_930c_11e7_9d84_b4b6765f9203row6_col3"
-                 class="data row6 col3" >
-                    $581.00
-                
-                
-                
-                <td id="T_d8f7651e_930c_11e7_9d84_b4b6765f9203row6_col4"
-                 class="data row6 col4" >
-                    83.80
-                
-                
-                
-                <td id="T_d8f7651e_930c_11e7_9d84_b4b6765f9203row6_col5"
-                 class="data row6 col5" >
-                    83.81
-                
-                
-                
-                <td id="T_d8f7651e_930c_11e7_9d84_b4b6765f9203row6_col6"
-                 class="data row6 col6" >
-                    92.51%
-                
-                
-                
-                <td id="T_d8f7651e_930c_11e7_9d84_b4b6765f9203row6_col7"
-                 class="data row6 col7" >
-                    96.25%
-                
-                
-                
-                <td id="T_d8f7651e_930c_11e7_9d84_b4b6765f9203row6_col8"
-                 class="data row6 col8" >
-                    94.38%
-                
-                
-            </tr>
-            
-            <tr>
-                
-                
-                <th id="T_d8f7651e_930c_11e7_9d84_b4b6765f9203"
-                 class="row_heading level0 row7" rowspan=1>
-                    Huang High School
-                
-                
-                
-                <td id="T_d8f7651e_930c_11e7_9d84_b4b6765f9203row7_col0"
-                 class="data row7 col0" >
-                    District
-                
-                
-                
-                <td id="T_d8f7651e_930c_11e7_9d84_b4b6765f9203row7_col1"
-                 class="data row7 col1" >
-                    2917
-                
-                
-                
-                <td id="T_d8f7651e_930c_11e7_9d84_b4b6765f9203row7_col2"
-                 class="data row7 col2" >
-                    $1,910,635.00
-                
-                
-                
-                <td id="T_d8f7651e_930c_11e7_9d84_b4b6765f9203row7_col3"
-                 class="data row7 col3" >
-                    $655.00
-                
-                
-                
-                <td id="T_d8f7651e_930c_11e7_9d84_b4b6765f9203row7_col4"
-                 class="data row7 col4" >
-                    76.63
-                
-                
-                
-                <td id="T_d8f7651e_930c_11e7_9d84_b4b6765f9203row7_col5"
-                 class="data row7 col5" >
-                    81.18
-                
-                
-                
-                <td id="T_d8f7651e_930c_11e7_9d84_b4b6765f9203row7_col6"
-                 class="data row7 col6" >
-                    65.68%
-                
-                
-                
-                <td id="T_d8f7651e_930c_11e7_9d84_b4b6765f9203row7_col7"
-                 class="data row7 col7" >
-                    81.32%
-                
-                
-                
-                <td id="T_d8f7651e_930c_11e7_9d84_b4b6765f9203row7_col8"
-                 class="data row7 col8" >
-                    73.50%
-                
-                
-            </tr>
-            
-            <tr>
-                
-                
-                <th id="T_d8f7651e_930c_11e7_9d84_b4b6765f9203"
-                 class="row_heading level0 row8" rowspan=1>
-                    Johnson High School
-                
-                
-                
-                <td id="T_d8f7651e_930c_11e7_9d84_b4b6765f9203row8_col0"
-                 class="data row8 col0" >
-                    District
-                
-                
-                
-                <td id="T_d8f7651e_930c_11e7_9d84_b4b6765f9203row8_col1"
-                 class="data row8 col1" >
-                    4761
-                
-                
-                
-                <td id="T_d8f7651e_930c_11e7_9d84_b4b6765f9203row8_col2"
-                 class="data row8 col2" >
-                    $3,094,650.00
-                
-                
-                
-                <td id="T_d8f7651e_930c_11e7_9d84_b4b6765f9203row8_col3"
-                 class="data row8 col3" >
-                    $650.00
-                
-                
-                
-                <td id="T_d8f7651e_930c_11e7_9d84_b4b6765f9203row8_col4"
-                 class="data row8 col4" >
-                    77.07
-                
-                
-                
-                <td id="T_d8f7651e_930c_11e7_9d84_b4b6765f9203row8_col5"
-                 class="data row8 col5" >
-                    80.97
-                
-                
-                
-                <td id="T_d8f7651e_930c_11e7_9d84_b4b6765f9203row8_col6"
-                 class="data row8 col6" >
-                    66.06%
-                
-                
-                
-                <td id="T_d8f7651e_930c_11e7_9d84_b4b6765f9203row8_col7"
-                 class="data row8 col7" >
-                    81.22%
-                
-                
-                
-                <td id="T_d8f7651e_930c_11e7_9d84_b4b6765f9203row8_col8"
-                 class="data row8 col8" >
-                    73.64%
-                
-                
-            </tr>
-            
-            <tr>
-                
-                
-                <th id="T_d8f7651e_930c_11e7_9d84_b4b6765f9203"
-                 class="row_heading level0 row9" rowspan=1>
-                    Pena High School
-                
-                
-                
-                <td id="T_d8f7651e_930c_11e7_9d84_b4b6765f9203row9_col0"
-                 class="data row9 col0" >
-                    Charter
-                
-                
-                
-                <td id="T_d8f7651e_930c_11e7_9d84_b4b6765f9203row9_col1"
-                 class="data row9 col1" >
-                    962
-                
-                
-                
-                <td id="T_d8f7651e_930c_11e7_9d84_b4b6765f9203row9_col2"
-                 class="data row9 col2" >
-                    $585,858.00
-                
-                
-                
-                <td id="T_d8f7651e_930c_11e7_9d84_b4b6765f9203row9_col3"
-                 class="data row9 col3" >
-                    $609.00
-                
-                
-                
-                <td id="T_d8f7651e_930c_11e7_9d84_b4b6765f9203row9_col4"
-                 class="data row9 col4" >
-                    83.84
-                
-                
-                
-                <td id="T_d8f7651e_930c_11e7_9d84_b4b6765f9203row9_col5"
-                 class="data row9 col5" >
-                    84.04
-                
-                
-                
-                <td id="T_d8f7651e_930c_11e7_9d84_b4b6765f9203row9_col6"
-                 class="data row9 col6" >
-                    94.59%
-                
-                
-                
-                <td id="T_d8f7651e_930c_11e7_9d84_b4b6765f9203row9_col7"
-                 class="data row9 col7" >
-                    95.95%
-                
-                
-                
-                <td id="T_d8f7651e_930c_11e7_9d84_b4b6765f9203row9_col8"
-                 class="data row9 col8" >
-                    95.27%
-                
-                
-            </tr>
-            
-            <tr>
-                
-                
-                <th id="T_d8f7651e_930c_11e7_9d84_b4b6765f9203"
-                 class="row_heading level0 row10" rowspan=1>
-                    Rodriguez High School
-                
-                
-                
-                <td id="T_d8f7651e_930c_11e7_9d84_b4b6765f9203row10_col0"
-                 class="data row10 col0" >
-                    District
-                
-                
-                
-                <td id="T_d8f7651e_930c_11e7_9d84_b4b6765f9203row10_col1"
-                 class="data row10 col1" >
-                    3999
-                
-                
-                
-                <td id="T_d8f7651e_930c_11e7_9d84_b4b6765f9203row10_col2"
-                 class="data row10 col2" >
-                    $2,547,363.00
-                
-                
-                
-                <td id="T_d8f7651e_930c_11e7_9d84_b4b6765f9203row10_col3"
-                 class="data row10 col3" >
-                    $637.00
-                
-                
-                
-                <td id="T_d8f7651e_930c_11e7_9d84_b4b6765f9203row10_col4"
-                 class="data row10 col4" >
-                    76.84
-                
-                
-                
-                <td id="T_d8f7651e_930c_11e7_9d84_b4b6765f9203row10_col5"
-                 class="data row10 col5" >
-                    80.74
-                
-                
-                
-                <td id="T_d8f7651e_930c_11e7_9d84_b4b6765f9203row10_col6"
-                 class="data row10 col6" >
-                    66.37%
-                
-                
-                
-                <td id="T_d8f7651e_930c_11e7_9d84_b4b6765f9203row10_col7"
-                 class="data row10 col7" >
-                    80.22%
-                
-                
-                
-                <td id="T_d8f7651e_930c_11e7_9d84_b4b6765f9203row10_col8"
-                 class="data row10 col8" >
-                    73.29%
-                
-                
-            </tr>
-            
-            <tr>
-                
-                
-                <th id="T_d8f7651e_930c_11e7_9d84_b4b6765f9203"
-                 class="row_heading level0 row11" rowspan=1>
-                    Shelton High School
-                
-                
-                
-                <td id="T_d8f7651e_930c_11e7_9d84_b4b6765f9203row11_col0"
-                 class="data row11 col0" >
-                    Charter
-                
-                
-                
-                <td id="T_d8f7651e_930c_11e7_9d84_b4b6765f9203row11_col1"
-                 class="data row11 col1" >
-                    1761
-                
-                
-                
-                <td id="T_d8f7651e_930c_11e7_9d84_b4b6765f9203row11_col2"
-                 class="data row11 col2" >
-                    $1,056,600.00
-                
-                
-                
-                <td id="T_d8f7651e_930c_11e7_9d84_b4b6765f9203row11_col3"
-                 class="data row11 col3" >
-                    $600.00
-                
-                
-                
-                <td id="T_d8f7651e_930c_11e7_9d84_b4b6765f9203row11_col4"
-                 class="data row11 col4" >
-                    83.36
-                
-                
-                
-                <td id="T_d8f7651e_930c_11e7_9d84_b4b6765f9203row11_col5"
-                 class="data row11 col5" >
-                    83.73
-                
-                
-                
-                <td id="T_d8f7651e_930c_11e7_9d84_b4b6765f9203row11_col6"
-                 class="data row11 col6" >
-                    93.87%
-                
-                
-                
-                <td id="T_d8f7651e_930c_11e7_9d84_b4b6765f9203row11_col7"
-                 class="data row11 col7" >
-                    95.85%
-                
-                
-                
-                <td id="T_d8f7651e_930c_11e7_9d84_b4b6765f9203row11_col8"
-                 class="data row11 col8" >
-                    94.86%
-                
-                
-            </tr>
-            
-            <tr>
-                
-                
-                <th id="T_d8f7651e_930c_11e7_9d84_b4b6765f9203"
-                 class="row_heading level0 row12" rowspan=1>
-                    Thomas High School
-                
-                
-                
-                <td id="T_d8f7651e_930c_11e7_9d84_b4b6765f9203row12_col0"
-                 class="data row12 col0" >
-                    Charter
-                
-                
-                
-                <td id="T_d8f7651e_930c_11e7_9d84_b4b6765f9203row12_col1"
-                 class="data row12 col1" >
-                    1635
-                
-                
-                
-                <td id="T_d8f7651e_930c_11e7_9d84_b4b6765f9203row12_col2"
-                 class="data row12 col2" >
-                    $1,043,130.00
-                
-                
-                
-                <td id="T_d8f7651e_930c_11e7_9d84_b4b6765f9203row12_col3"
-                 class="data row12 col3" >
-                    $638.00
-                
-                
-                
-                <td id="T_d8f7651e_930c_11e7_9d84_b4b6765f9203row12_col4"
-                 class="data row12 col4" >
-                    83.42
-                
-                
-                
-                <td id="T_d8f7651e_930c_11e7_9d84_b4b6765f9203row12_col5"
-                 class="data row12 col5" >
-                    83.85
-                
-                
-                
-                <td id="T_d8f7651e_930c_11e7_9d84_b4b6765f9203row12_col6"
-                 class="data row12 col6" >
-                    93.27%
-                
-                
-                
-                <td id="T_d8f7651e_930c_11e7_9d84_b4b6765f9203row12_col7"
-                 class="data row12 col7" >
-                    97.31%
-                
-                
-                
-                <td id="T_d8f7651e_930c_11e7_9d84_b4b6765f9203row12_col8"
-                 class="data row12 col8" >
-                    95.29%
-                
-                
-            </tr>
-            
-            <tr>
-                
-                
-                <th id="T_d8f7651e_930c_11e7_9d84_b4b6765f9203"
-                 class="row_heading level0 row13" rowspan=1>
-                    Wilson High School
-                
-                
-                
-                <td id="T_d8f7651e_930c_11e7_9d84_b4b6765f9203row13_col0"
-                 class="data row13 col0" >
-                    Charter
-                
-                
-                
-                <td id="T_d8f7651e_930c_11e7_9d84_b4b6765f9203row13_col1"
-                 class="data row13 col1" >
-                    2283
-                
-                
-                
-                <td id="T_d8f7651e_930c_11e7_9d84_b4b6765f9203row13_col2"
-                 class="data row13 col2" >
-                    $1,319,574.00
-                
-                
-                
-                <td id="T_d8f7651e_930c_11e7_9d84_b4b6765f9203row13_col3"
-                 class="data row13 col3" >
-                    $578.00
-                
-                
-                
-                <td id="T_d8f7651e_930c_11e7_9d84_b4b6765f9203row13_col4"
-                 class="data row13 col4" >
-                    83.27
-                
-                
-                
-                <td id="T_d8f7651e_930c_11e7_9d84_b4b6765f9203row13_col5"
-                 class="data row13 col5" >
-                    83.99
-                
-                
-                
-                <td id="T_d8f7651e_930c_11e7_9d84_b4b6765f9203row13_col6"
-                 class="data row13 col6" >
-                    93.87%
-                
-                
-                
-                <td id="T_d8f7651e_930c_11e7_9d84_b4b6765f9203row13_col7"
-                 class="data row13 col7" >
-                    96.54%
-                
-                
-                
-                <td id="T_d8f7651e_930c_11e7_9d84_b4b6765f9203row13_col8"
-                 class="data row13 col8" >
-                    95.20%
-                
-                
-            </tr>
-            
-            <tr>
-                
-                
-                <th id="T_d8f7651e_930c_11e7_9d84_b4b6765f9203"
-                 class="row_heading level0 row14" rowspan=1>
-                    Wright High School
-                
-                
-                
-                <td id="T_d8f7651e_930c_11e7_9d84_b4b6765f9203row14_col0"
-                 class="data row14 col0" >
-                    Charter
-                
-                
-                
-                <td id="T_d8f7651e_930c_11e7_9d84_b4b6765f9203row14_col1"
-                 class="data row14 col1" >
-                    1800
-                
-                
-                
-                <td id="T_d8f7651e_930c_11e7_9d84_b4b6765f9203row14_col2"
-                 class="data row14 col2" >
-                    $1,049,400.00
-                
-                
-                
-                <td id="T_d8f7651e_930c_11e7_9d84_b4b6765f9203row14_col3"
-                 class="data row14 col3" >
-                    $583.00
-                
-                
-                
-                <td id="T_d8f7651e_930c_11e7_9d84_b4b6765f9203row14_col4"
-                 class="data row14 col4" >
-                    83.68
-                
-                
-                
-                <td id="T_d8f7651e_930c_11e7_9d84_b4b6765f9203row14_col5"
-                 class="data row14 col5" >
-                    83.95
-                
-                
-                
-                <td id="T_d8f7651e_930c_11e7_9d84_b4b6765f9203row14_col6"
-                 class="data row14 col6" >
-                    93.33%
-                
-                
-                
-                <td id="T_d8f7651e_930c_11e7_9d84_b4b6765f9203row14_col7"
-                 class="data row14 col7" >
-                    96.61%
-                
-                
-                
-                <td id="T_d8f7651e_930c_11e7_9d84_b4b6765f9203row14_col8"
-                 class="data row14 col8" >
-                    94.97%
-                
-                
-            </tr>
-            
-        </tbody>
-        </table>
-        
+<style  type="text/css" >
+</style>  
+<table id="T_57ed4b42_942d_11e7_9f3b_f48c5097b52f" > 
+<thead>    <tr> 
+        <th class="blank level0" ></th> 
+        <th class="col_heading level0 col0" >School Type</th> 
+        <th class="col_heading level0 col1" >Total Students</th> 
+        <th class="col_heading level0 col2" >Total School Budget</th> 
+        <th class="col_heading level0 col3" >Per Student Budget</th> 
+        <th class="col_heading level0 col4" >Average Math Score</th> 
+        <th class="col_heading level0 col5" >Average Reading Score</th> 
+        <th class="col_heading level0 col6" >% Passing Math</th> 
+        <th class="col_heading level0 col7" >% Passing Reading</th> 
+        <th class="col_heading level0 col8" >% Overall Passing Rate</th> 
+    </tr></thead> 
+<tbody>    <tr> 
+        <th id="T_57ed4b42_942d_11e7_9f3b_f48c5097b52flevel0_row0" class="row_heading level0 row0" >Bailey High School</th> 
+        <td id="T_57ed4b42_942d_11e7_9f3b_f48c5097b52frow0_col0" class="data row0 col0" >District</td> 
+        <td id="T_57ed4b42_942d_11e7_9f3b_f48c5097b52frow0_col1" class="data row0 col1" >4976</td> 
+        <td id="T_57ed4b42_942d_11e7_9f3b_f48c5097b52frow0_col2" class="data row0 col2" >$3,124,928.00</td> 
+        <td id="T_57ed4b42_942d_11e7_9f3b_f48c5097b52frow0_col3" class="data row0 col3" >$628.00</td> 
+        <td id="T_57ed4b42_942d_11e7_9f3b_f48c5097b52frow0_col4" class="data row0 col4" >77.05</td> 
+        <td id="T_57ed4b42_942d_11e7_9f3b_f48c5097b52frow0_col5" class="data row0 col5" >81.03</td> 
+        <td id="T_57ed4b42_942d_11e7_9f3b_f48c5097b52frow0_col6" class="data row0 col6" >66.68%</td> 
+        <td id="T_57ed4b42_942d_11e7_9f3b_f48c5097b52frow0_col7" class="data row0 col7" >81.93%</td> 
+        <td id="T_57ed4b42_942d_11e7_9f3b_f48c5097b52frow0_col8" class="data row0 col8" >74.31%</td> 
+    </tr>    <tr> 
+        <th id="T_57ed4b42_942d_11e7_9f3b_f48c5097b52flevel0_row1" class="row_heading level0 row1" >Cabrera High School</th> 
+        <td id="T_57ed4b42_942d_11e7_9f3b_f48c5097b52frow1_col0" class="data row1 col0" >Charter</td> 
+        <td id="T_57ed4b42_942d_11e7_9f3b_f48c5097b52frow1_col1" class="data row1 col1" >1858</td> 
+        <td id="T_57ed4b42_942d_11e7_9f3b_f48c5097b52frow1_col2" class="data row1 col2" >$1,081,356.00</td> 
+        <td id="T_57ed4b42_942d_11e7_9f3b_f48c5097b52frow1_col3" class="data row1 col3" >$582.00</td> 
+        <td id="T_57ed4b42_942d_11e7_9f3b_f48c5097b52frow1_col4" class="data row1 col4" >83.06</td> 
+        <td id="T_57ed4b42_942d_11e7_9f3b_f48c5097b52frow1_col5" class="data row1 col5" >83.98</td> 
+        <td id="T_57ed4b42_942d_11e7_9f3b_f48c5097b52frow1_col6" class="data row1 col6" >94.13%</td> 
+        <td id="T_57ed4b42_942d_11e7_9f3b_f48c5097b52frow1_col7" class="data row1 col7" >97.04%</td> 
+        <td id="T_57ed4b42_942d_11e7_9f3b_f48c5097b52frow1_col8" class="data row1 col8" >95.59%</td> 
+    </tr>    <tr> 
+        <th id="T_57ed4b42_942d_11e7_9f3b_f48c5097b52flevel0_row2" class="row_heading level0 row2" >Figueroa High School</th> 
+        <td id="T_57ed4b42_942d_11e7_9f3b_f48c5097b52frow2_col0" class="data row2 col0" >District</td> 
+        <td id="T_57ed4b42_942d_11e7_9f3b_f48c5097b52frow2_col1" class="data row2 col1" >2949</td> 
+        <td id="T_57ed4b42_942d_11e7_9f3b_f48c5097b52frow2_col2" class="data row2 col2" >$1,884,411.00</td> 
+        <td id="T_57ed4b42_942d_11e7_9f3b_f48c5097b52frow2_col3" class="data row2 col3" >$639.00</td> 
+        <td id="T_57ed4b42_942d_11e7_9f3b_f48c5097b52frow2_col4" class="data row2 col4" >76.71</td> 
+        <td id="T_57ed4b42_942d_11e7_9f3b_f48c5097b52frow2_col5" class="data row2 col5" >81.16</td> 
+        <td id="T_57ed4b42_942d_11e7_9f3b_f48c5097b52frow2_col6" class="data row2 col6" >65.99%</td> 
+        <td id="T_57ed4b42_942d_11e7_9f3b_f48c5097b52frow2_col7" class="data row2 col7" >80.74%</td> 
+        <td id="T_57ed4b42_942d_11e7_9f3b_f48c5097b52frow2_col8" class="data row2 col8" >73.36%</td> 
+    </tr>    <tr> 
+        <th id="T_57ed4b42_942d_11e7_9f3b_f48c5097b52flevel0_row3" class="row_heading level0 row3" >Ford High School</th> 
+        <td id="T_57ed4b42_942d_11e7_9f3b_f48c5097b52frow3_col0" class="data row3 col0" >District</td> 
+        <td id="T_57ed4b42_942d_11e7_9f3b_f48c5097b52frow3_col1" class="data row3 col1" >2739</td> 
+        <td id="T_57ed4b42_942d_11e7_9f3b_f48c5097b52frow3_col2" class="data row3 col2" >$1,763,916.00</td> 
+        <td id="T_57ed4b42_942d_11e7_9f3b_f48c5097b52frow3_col3" class="data row3 col3" >$644.00</td> 
+        <td id="T_57ed4b42_942d_11e7_9f3b_f48c5097b52frow3_col4" class="data row3 col4" >77.10</td> 
+        <td id="T_57ed4b42_942d_11e7_9f3b_f48c5097b52frow3_col5" class="data row3 col5" >80.75</td> 
+        <td id="T_57ed4b42_942d_11e7_9f3b_f48c5097b52frow3_col6" class="data row3 col6" >68.31%</td> 
+        <td id="T_57ed4b42_942d_11e7_9f3b_f48c5097b52frow3_col7" class="data row3 col7" >79.30%</td> 
+        <td id="T_57ed4b42_942d_11e7_9f3b_f48c5097b52frow3_col8" class="data row3 col8" >73.80%</td> 
+    </tr>    <tr> 
+        <th id="T_57ed4b42_942d_11e7_9f3b_f48c5097b52flevel0_row4" class="row_heading level0 row4" >Griffin High School</th> 
+        <td id="T_57ed4b42_942d_11e7_9f3b_f48c5097b52frow4_col0" class="data row4 col0" >Charter</td> 
+        <td id="T_57ed4b42_942d_11e7_9f3b_f48c5097b52frow4_col1" class="data row4 col1" >1468</td> 
+        <td id="T_57ed4b42_942d_11e7_9f3b_f48c5097b52frow4_col2" class="data row4 col2" >$917,500.00</td> 
+        <td id="T_57ed4b42_942d_11e7_9f3b_f48c5097b52frow4_col3" class="data row4 col3" >$625.00</td> 
+        <td id="T_57ed4b42_942d_11e7_9f3b_f48c5097b52frow4_col4" class="data row4 col4" >83.35</td> 
+        <td id="T_57ed4b42_942d_11e7_9f3b_f48c5097b52frow4_col5" class="data row4 col5" >83.82</td> 
+        <td id="T_57ed4b42_942d_11e7_9f3b_f48c5097b52frow4_col6" class="data row4 col6" >93.39%</td> 
+        <td id="T_57ed4b42_942d_11e7_9f3b_f48c5097b52frow4_col7" class="data row4 col7" >97.14%</td> 
+        <td id="T_57ed4b42_942d_11e7_9f3b_f48c5097b52frow4_col8" class="data row4 col8" >95.27%</td> 
+    </tr>    <tr> 
+        <th id="T_57ed4b42_942d_11e7_9f3b_f48c5097b52flevel0_row5" class="row_heading level0 row5" >Hernandez High School</th> 
+        <td id="T_57ed4b42_942d_11e7_9f3b_f48c5097b52frow5_col0" class="data row5 col0" >District</td> 
+        <td id="T_57ed4b42_942d_11e7_9f3b_f48c5097b52frow5_col1" class="data row5 col1" >4635</td> 
+        <td id="T_57ed4b42_942d_11e7_9f3b_f48c5097b52frow5_col2" class="data row5 col2" >$3,022,020.00</td> 
+        <td id="T_57ed4b42_942d_11e7_9f3b_f48c5097b52frow5_col3" class="data row5 col3" >$652.00</td> 
+        <td id="T_57ed4b42_942d_11e7_9f3b_f48c5097b52frow5_col4" class="data row5 col4" >77.29</td> 
+        <td id="T_57ed4b42_942d_11e7_9f3b_f48c5097b52frow5_col5" class="data row5 col5" >80.93</td> 
+        <td id="T_57ed4b42_942d_11e7_9f3b_f48c5097b52frow5_col6" class="data row5 col6" >66.75%</td> 
+        <td id="T_57ed4b42_942d_11e7_9f3b_f48c5097b52frow5_col7" class="data row5 col7" >80.86%</td> 
+        <td id="T_57ed4b42_942d_11e7_9f3b_f48c5097b52frow5_col8" class="data row5 col8" >73.81%</td> 
+    </tr>    <tr> 
+        <th id="T_57ed4b42_942d_11e7_9f3b_f48c5097b52flevel0_row6" class="row_heading level0 row6" >Holden High School</th> 
+        <td id="T_57ed4b42_942d_11e7_9f3b_f48c5097b52frow6_col0" class="data row6 col0" >Charter</td> 
+        <td id="T_57ed4b42_942d_11e7_9f3b_f48c5097b52frow6_col1" class="data row6 col1" >427</td> 
+        <td id="T_57ed4b42_942d_11e7_9f3b_f48c5097b52frow6_col2" class="data row6 col2" >$248,087.00</td> 
+        <td id="T_57ed4b42_942d_11e7_9f3b_f48c5097b52frow6_col3" class="data row6 col3" >$581.00</td> 
+        <td id="T_57ed4b42_942d_11e7_9f3b_f48c5097b52frow6_col4" class="data row6 col4" >83.80</td> 
+        <td id="T_57ed4b42_942d_11e7_9f3b_f48c5097b52frow6_col5" class="data row6 col5" >83.81</td> 
+        <td id="T_57ed4b42_942d_11e7_9f3b_f48c5097b52frow6_col6" class="data row6 col6" >92.51%</td> 
+        <td id="T_57ed4b42_942d_11e7_9f3b_f48c5097b52frow6_col7" class="data row6 col7" >96.25%</td> 
+        <td id="T_57ed4b42_942d_11e7_9f3b_f48c5097b52frow6_col8" class="data row6 col8" >94.38%</td> 
+    </tr>    <tr> 
+        <th id="T_57ed4b42_942d_11e7_9f3b_f48c5097b52flevel0_row7" class="row_heading level0 row7" >Huang High School</th> 
+        <td id="T_57ed4b42_942d_11e7_9f3b_f48c5097b52frow7_col0" class="data row7 col0" >District</td> 
+        <td id="T_57ed4b42_942d_11e7_9f3b_f48c5097b52frow7_col1" class="data row7 col1" >2917</td> 
+        <td id="T_57ed4b42_942d_11e7_9f3b_f48c5097b52frow7_col2" class="data row7 col2" >$1,910,635.00</td> 
+        <td id="T_57ed4b42_942d_11e7_9f3b_f48c5097b52frow7_col3" class="data row7 col3" >$655.00</td> 
+        <td id="T_57ed4b42_942d_11e7_9f3b_f48c5097b52frow7_col4" class="data row7 col4" >76.63</td> 
+        <td id="T_57ed4b42_942d_11e7_9f3b_f48c5097b52frow7_col5" class="data row7 col5" >81.18</td> 
+        <td id="T_57ed4b42_942d_11e7_9f3b_f48c5097b52frow7_col6" class="data row7 col6" >65.68%</td> 
+        <td id="T_57ed4b42_942d_11e7_9f3b_f48c5097b52frow7_col7" class="data row7 col7" >81.32%</td> 
+        <td id="T_57ed4b42_942d_11e7_9f3b_f48c5097b52frow7_col8" class="data row7 col8" >73.50%</td> 
+    </tr>    <tr> 
+        <th id="T_57ed4b42_942d_11e7_9f3b_f48c5097b52flevel0_row8" class="row_heading level0 row8" >Johnson High School</th> 
+        <td id="T_57ed4b42_942d_11e7_9f3b_f48c5097b52frow8_col0" class="data row8 col0" >District</td> 
+        <td id="T_57ed4b42_942d_11e7_9f3b_f48c5097b52frow8_col1" class="data row8 col1" >4761</td> 
+        <td id="T_57ed4b42_942d_11e7_9f3b_f48c5097b52frow8_col2" class="data row8 col2" >$3,094,650.00</td> 
+        <td id="T_57ed4b42_942d_11e7_9f3b_f48c5097b52frow8_col3" class="data row8 col3" >$650.00</td> 
+        <td id="T_57ed4b42_942d_11e7_9f3b_f48c5097b52frow8_col4" class="data row8 col4" >77.07</td> 
+        <td id="T_57ed4b42_942d_11e7_9f3b_f48c5097b52frow8_col5" class="data row8 col5" >80.97</td> 
+        <td id="T_57ed4b42_942d_11e7_9f3b_f48c5097b52frow8_col6" class="data row8 col6" >66.06%</td> 
+        <td id="T_57ed4b42_942d_11e7_9f3b_f48c5097b52frow8_col7" class="data row8 col7" >81.22%</td> 
+        <td id="T_57ed4b42_942d_11e7_9f3b_f48c5097b52frow8_col8" class="data row8 col8" >73.64%</td> 
+    </tr>    <tr> 
+        <th id="T_57ed4b42_942d_11e7_9f3b_f48c5097b52flevel0_row9" class="row_heading level0 row9" >Pena High School</th> 
+        <td id="T_57ed4b42_942d_11e7_9f3b_f48c5097b52frow9_col0" class="data row9 col0" >Charter</td> 
+        <td id="T_57ed4b42_942d_11e7_9f3b_f48c5097b52frow9_col1" class="data row9 col1" >962</td> 
+        <td id="T_57ed4b42_942d_11e7_9f3b_f48c5097b52frow9_col2" class="data row9 col2" >$585,858.00</td> 
+        <td id="T_57ed4b42_942d_11e7_9f3b_f48c5097b52frow9_col3" class="data row9 col3" >$609.00</td> 
+        <td id="T_57ed4b42_942d_11e7_9f3b_f48c5097b52frow9_col4" class="data row9 col4" >83.84</td> 
+        <td id="T_57ed4b42_942d_11e7_9f3b_f48c5097b52frow9_col5" class="data row9 col5" >84.04</td> 
+        <td id="T_57ed4b42_942d_11e7_9f3b_f48c5097b52frow9_col6" class="data row9 col6" >94.59%</td> 
+        <td id="T_57ed4b42_942d_11e7_9f3b_f48c5097b52frow9_col7" class="data row9 col7" >95.95%</td> 
+        <td id="T_57ed4b42_942d_11e7_9f3b_f48c5097b52frow9_col8" class="data row9 col8" >95.27%</td> 
+    </tr>    <tr> 
+        <th id="T_57ed4b42_942d_11e7_9f3b_f48c5097b52flevel0_row10" class="row_heading level0 row10" >Rodriguez High School</th> 
+        <td id="T_57ed4b42_942d_11e7_9f3b_f48c5097b52frow10_col0" class="data row10 col0" >District</td> 
+        <td id="T_57ed4b42_942d_11e7_9f3b_f48c5097b52frow10_col1" class="data row10 col1" >3999</td> 
+        <td id="T_57ed4b42_942d_11e7_9f3b_f48c5097b52frow10_col2" class="data row10 col2" >$2,547,363.00</td> 
+        <td id="T_57ed4b42_942d_11e7_9f3b_f48c5097b52frow10_col3" class="data row10 col3" >$637.00</td> 
+        <td id="T_57ed4b42_942d_11e7_9f3b_f48c5097b52frow10_col4" class="data row10 col4" >76.84</td> 
+        <td id="T_57ed4b42_942d_11e7_9f3b_f48c5097b52frow10_col5" class="data row10 col5" >80.74</td> 
+        <td id="T_57ed4b42_942d_11e7_9f3b_f48c5097b52frow10_col6" class="data row10 col6" >66.37%</td> 
+        <td id="T_57ed4b42_942d_11e7_9f3b_f48c5097b52frow10_col7" class="data row10 col7" >80.22%</td> 
+        <td id="T_57ed4b42_942d_11e7_9f3b_f48c5097b52frow10_col8" class="data row10 col8" >73.29%</td> 
+    </tr>    <tr> 
+        <th id="T_57ed4b42_942d_11e7_9f3b_f48c5097b52flevel0_row11" class="row_heading level0 row11" >Shelton High School</th> 
+        <td id="T_57ed4b42_942d_11e7_9f3b_f48c5097b52frow11_col0" class="data row11 col0" >Charter</td> 
+        <td id="T_57ed4b42_942d_11e7_9f3b_f48c5097b52frow11_col1" class="data row11 col1" >1761</td> 
+        <td id="T_57ed4b42_942d_11e7_9f3b_f48c5097b52frow11_col2" class="data row11 col2" >$1,056,600.00</td> 
+        <td id="T_57ed4b42_942d_11e7_9f3b_f48c5097b52frow11_col3" class="data row11 col3" >$600.00</td> 
+        <td id="T_57ed4b42_942d_11e7_9f3b_f48c5097b52frow11_col4" class="data row11 col4" >83.36</td> 
+        <td id="T_57ed4b42_942d_11e7_9f3b_f48c5097b52frow11_col5" class="data row11 col5" >83.73</td> 
+        <td id="T_57ed4b42_942d_11e7_9f3b_f48c5097b52frow11_col6" class="data row11 col6" >93.87%</td> 
+        <td id="T_57ed4b42_942d_11e7_9f3b_f48c5097b52frow11_col7" class="data row11 col7" >95.85%</td> 
+        <td id="T_57ed4b42_942d_11e7_9f3b_f48c5097b52frow11_col8" class="data row11 col8" >94.86%</td> 
+    </tr>    <tr> 
+        <th id="T_57ed4b42_942d_11e7_9f3b_f48c5097b52flevel0_row12" class="row_heading level0 row12" >Thomas High School</th> 
+        <td id="T_57ed4b42_942d_11e7_9f3b_f48c5097b52frow12_col0" class="data row12 col0" >Charter</td> 
+        <td id="T_57ed4b42_942d_11e7_9f3b_f48c5097b52frow12_col1" class="data row12 col1" >1635</td> 
+        <td id="T_57ed4b42_942d_11e7_9f3b_f48c5097b52frow12_col2" class="data row12 col2" >$1,043,130.00</td> 
+        <td id="T_57ed4b42_942d_11e7_9f3b_f48c5097b52frow12_col3" class="data row12 col3" >$638.00</td> 
+        <td id="T_57ed4b42_942d_11e7_9f3b_f48c5097b52frow12_col4" class="data row12 col4" >83.42</td> 
+        <td id="T_57ed4b42_942d_11e7_9f3b_f48c5097b52frow12_col5" class="data row12 col5" >83.85</td> 
+        <td id="T_57ed4b42_942d_11e7_9f3b_f48c5097b52frow12_col6" class="data row12 col6" >93.27%</td> 
+        <td id="T_57ed4b42_942d_11e7_9f3b_f48c5097b52frow12_col7" class="data row12 col7" >97.31%</td> 
+        <td id="T_57ed4b42_942d_11e7_9f3b_f48c5097b52frow12_col8" class="data row12 col8" >95.29%</td> 
+    </tr>    <tr> 
+        <th id="T_57ed4b42_942d_11e7_9f3b_f48c5097b52flevel0_row13" class="row_heading level0 row13" >Wilson High School</th> 
+        <td id="T_57ed4b42_942d_11e7_9f3b_f48c5097b52frow13_col0" class="data row13 col0" >Charter</td> 
+        <td id="T_57ed4b42_942d_11e7_9f3b_f48c5097b52frow13_col1" class="data row13 col1" >2283</td> 
+        <td id="T_57ed4b42_942d_11e7_9f3b_f48c5097b52frow13_col2" class="data row13 col2" >$1,319,574.00</td> 
+        <td id="T_57ed4b42_942d_11e7_9f3b_f48c5097b52frow13_col3" class="data row13 col3" >$578.00</td> 
+        <td id="T_57ed4b42_942d_11e7_9f3b_f48c5097b52frow13_col4" class="data row13 col4" >83.27</td> 
+        <td id="T_57ed4b42_942d_11e7_9f3b_f48c5097b52frow13_col5" class="data row13 col5" >83.99</td> 
+        <td id="T_57ed4b42_942d_11e7_9f3b_f48c5097b52frow13_col6" class="data row13 col6" >93.87%</td> 
+        <td id="T_57ed4b42_942d_11e7_9f3b_f48c5097b52frow13_col7" class="data row13 col7" >96.54%</td> 
+        <td id="T_57ed4b42_942d_11e7_9f3b_f48c5097b52frow13_col8" class="data row13 col8" >95.20%</td> 
+    </tr>    <tr> 
+        <th id="T_57ed4b42_942d_11e7_9f3b_f48c5097b52flevel0_row14" class="row_heading level0 row14" >Wright High School</th> 
+        <td id="T_57ed4b42_942d_11e7_9f3b_f48c5097b52frow14_col0" class="data row14 col0" >Charter</td> 
+        <td id="T_57ed4b42_942d_11e7_9f3b_f48c5097b52frow14_col1" class="data row14 col1" >1800</td> 
+        <td id="T_57ed4b42_942d_11e7_9f3b_f48c5097b52frow14_col2" class="data row14 col2" >$1,049,400.00</td> 
+        <td id="T_57ed4b42_942d_11e7_9f3b_f48c5097b52frow14_col3" class="data row14 col3" >$583.00</td> 
+        <td id="T_57ed4b42_942d_11e7_9f3b_f48c5097b52frow14_col4" class="data row14 col4" >83.68</td> 
+        <td id="T_57ed4b42_942d_11e7_9f3b_f48c5097b52frow14_col5" class="data row14 col5" >83.95</td> 
+        <td id="T_57ed4b42_942d_11e7_9f3b_f48c5097b52frow14_col6" class="data row14 col6" >93.33%</td> 
+        <td id="T_57ed4b42_942d_11e7_9f3b_f48c5097b52frow14_col7" class="data row14 col7" >96.61%</td> 
+        <td id="T_57ed4b42_942d_11e7_9f3b_f48c5097b52frow14_col8" class="data row14 col8" >94.97%</td> 
+    </tr></tbody> 
+</table> 
 
 
 
@@ -1154,397 +318,78 @@ top_sch
 
 
 
-
-        <style  type="text/css" >
-        
-        
-        </style>
-
-        <table id="T_d8fedf2e_930c_11e7_b4cf_b4b6765f9203" None>
-        
-
-        <thead>
-            
-            <tr>
-                
-                
-                <th class="blank level0" >
-                  
-                
-                
-                
-                <th class="col_heading level0 col0" colspan=1>
-                  School Type
-                
-                
-                
-                <th class="col_heading level0 col1" colspan=1>
-                  Total Students
-                
-                
-                
-                <th class="col_heading level0 col2" colspan=1>
-                  Total School Budget
-                
-                
-                
-                <th class="col_heading level0 col3" colspan=1>
-                  Per Student Budget
-                
-                
-                
-                <th class="col_heading level0 col4" colspan=1>
-                  Average Math Score
-                
-                
-                
-                <th class="col_heading level0 col5" colspan=1>
-                  Average Reading Score
-                
-                
-                
-                <th class="col_heading level0 col6" colspan=1>
-                  % Passing Math
-                
-                
-                
-                <th class="col_heading level0 col7" colspan=1>
-                  % Passing Reading
-                
-                
-                
-                <th class="col_heading level0 col8" colspan=1>
-                  % Overall Passing Rate
-                
-                
-            </tr>
-            
-        </thead>
-        <tbody>
-            
-            <tr>
-                
-                
-                <th id="T_d8fedf2e_930c_11e7_b4cf_b4b6765f9203"
-                 class="row_heading level0 row0" rowspan=1>
-                    Cabrera High School
-                
-                
-                
-                <td id="T_d8fedf2e_930c_11e7_b4cf_b4b6765f9203row0_col0"
-                 class="data row0 col0" >
-                    Charter
-                
-                
-                
-                <td id="T_d8fedf2e_930c_11e7_b4cf_b4b6765f9203row0_col1"
-                 class="data row0 col1" >
-                    1858
-                
-                
-                
-                <td id="T_d8fedf2e_930c_11e7_b4cf_b4b6765f9203row0_col2"
-                 class="data row0 col2" >
-                    $1,081,356.00
-                
-                
-                
-                <td id="T_d8fedf2e_930c_11e7_b4cf_b4b6765f9203row0_col3"
-                 class="data row0 col3" >
-                    $582.00
-                
-                
-                
-                <td id="T_d8fedf2e_930c_11e7_b4cf_b4b6765f9203row0_col4"
-                 class="data row0 col4" >
-                    83.06
-                
-                
-                
-                <td id="T_d8fedf2e_930c_11e7_b4cf_b4b6765f9203row0_col5"
-                 class="data row0 col5" >
-                    83.98
-                
-                
-                
-                <td id="T_d8fedf2e_930c_11e7_b4cf_b4b6765f9203row0_col6"
-                 class="data row0 col6" >
-                    94.13%
-                
-                
-                
-                <td id="T_d8fedf2e_930c_11e7_b4cf_b4b6765f9203row0_col7"
-                 class="data row0 col7" >
-                    97.04%
-                
-                
-                
-                <td id="T_d8fedf2e_930c_11e7_b4cf_b4b6765f9203row0_col8"
-                 class="data row0 col8" >
-                    95.59%
-                
-                
-            </tr>
-            
-            <tr>
-                
-                
-                <th id="T_d8fedf2e_930c_11e7_b4cf_b4b6765f9203"
-                 class="row_heading level0 row1" rowspan=1>
-                    Thomas High School
-                
-                
-                
-                <td id="T_d8fedf2e_930c_11e7_b4cf_b4b6765f9203row1_col0"
-                 class="data row1 col0" >
-                    Charter
-                
-                
-                
-                <td id="T_d8fedf2e_930c_11e7_b4cf_b4b6765f9203row1_col1"
-                 class="data row1 col1" >
-                    1635
-                
-                
-                
-                <td id="T_d8fedf2e_930c_11e7_b4cf_b4b6765f9203row1_col2"
-                 class="data row1 col2" >
-                    $1,043,130.00
-                
-                
-                
-                <td id="T_d8fedf2e_930c_11e7_b4cf_b4b6765f9203row1_col3"
-                 class="data row1 col3" >
-                    $638.00
-                
-                
-                
-                <td id="T_d8fedf2e_930c_11e7_b4cf_b4b6765f9203row1_col4"
-                 class="data row1 col4" >
-                    83.42
-                
-                
-                
-                <td id="T_d8fedf2e_930c_11e7_b4cf_b4b6765f9203row1_col5"
-                 class="data row1 col5" >
-                    83.85
-                
-                
-                
-                <td id="T_d8fedf2e_930c_11e7_b4cf_b4b6765f9203row1_col6"
-                 class="data row1 col6" >
-                    93.27%
-                
-                
-                
-                <td id="T_d8fedf2e_930c_11e7_b4cf_b4b6765f9203row1_col7"
-                 class="data row1 col7" >
-                    97.31%
-                
-                
-                
-                <td id="T_d8fedf2e_930c_11e7_b4cf_b4b6765f9203row1_col8"
-                 class="data row1 col8" >
-                    95.29%
-                
-                
-            </tr>
-            
-            <tr>
-                
-                
-                <th id="T_d8fedf2e_930c_11e7_b4cf_b4b6765f9203"
-                 class="row_heading level0 row2" rowspan=1>
-                    Pena High School
-                
-                
-                
-                <td id="T_d8fedf2e_930c_11e7_b4cf_b4b6765f9203row2_col0"
-                 class="data row2 col0" >
-                    Charter
-                
-                
-                
-                <td id="T_d8fedf2e_930c_11e7_b4cf_b4b6765f9203row2_col1"
-                 class="data row2 col1" >
-                    962
-                
-                
-                
-                <td id="T_d8fedf2e_930c_11e7_b4cf_b4b6765f9203row2_col2"
-                 class="data row2 col2" >
-                    $585,858.00
-                
-                
-                
-                <td id="T_d8fedf2e_930c_11e7_b4cf_b4b6765f9203row2_col3"
-                 class="data row2 col3" >
-                    $609.00
-                
-                
-                
-                <td id="T_d8fedf2e_930c_11e7_b4cf_b4b6765f9203row2_col4"
-                 class="data row2 col4" >
-                    83.84
-                
-                
-                
-                <td id="T_d8fedf2e_930c_11e7_b4cf_b4b6765f9203row2_col5"
-                 class="data row2 col5" >
-                    84.04
-                
-                
-                
-                <td id="T_d8fedf2e_930c_11e7_b4cf_b4b6765f9203row2_col6"
-                 class="data row2 col6" >
-                    94.59%
-                
-                
-                
-                <td id="T_d8fedf2e_930c_11e7_b4cf_b4b6765f9203row2_col7"
-                 class="data row2 col7" >
-                    95.95%
-                
-                
-                
-                <td id="T_d8fedf2e_930c_11e7_b4cf_b4b6765f9203row2_col8"
-                 class="data row2 col8" >
-                    95.27%
-                
-                
-            </tr>
-            
-            <tr>
-                
-                
-                <th id="T_d8fedf2e_930c_11e7_b4cf_b4b6765f9203"
-                 class="row_heading level0 row3" rowspan=1>
-                    Griffin High School
-                
-                
-                
-                <td id="T_d8fedf2e_930c_11e7_b4cf_b4b6765f9203row3_col0"
-                 class="data row3 col0" >
-                    Charter
-                
-                
-                
-                <td id="T_d8fedf2e_930c_11e7_b4cf_b4b6765f9203row3_col1"
-                 class="data row3 col1" >
-                    1468
-                
-                
-                
-                <td id="T_d8fedf2e_930c_11e7_b4cf_b4b6765f9203row3_col2"
-                 class="data row3 col2" >
-                    $917,500.00
-                
-                
-                
-                <td id="T_d8fedf2e_930c_11e7_b4cf_b4b6765f9203row3_col3"
-                 class="data row3 col3" >
-                    $625.00
-                
-                
-                
-                <td id="T_d8fedf2e_930c_11e7_b4cf_b4b6765f9203row3_col4"
-                 class="data row3 col4" >
-                    83.35
-                
-                
-                
-                <td id="T_d8fedf2e_930c_11e7_b4cf_b4b6765f9203row3_col5"
-                 class="data row3 col5" >
-                    83.82
-                
-                
-                
-                <td id="T_d8fedf2e_930c_11e7_b4cf_b4b6765f9203row3_col6"
-                 class="data row3 col6" >
-                    93.39%
-                
-                
-                
-                <td id="T_d8fedf2e_930c_11e7_b4cf_b4b6765f9203row3_col7"
-                 class="data row3 col7" >
-                    97.14%
-                
-                
-                
-                <td id="T_d8fedf2e_930c_11e7_b4cf_b4b6765f9203row3_col8"
-                 class="data row3 col8" >
-                    95.27%
-                
-                
-            </tr>
-            
-            <tr>
-                
-                
-                <th id="T_d8fedf2e_930c_11e7_b4cf_b4b6765f9203"
-                 class="row_heading level0 row4" rowspan=1>
-                    Wilson High School
-                
-                
-                
-                <td id="T_d8fedf2e_930c_11e7_b4cf_b4b6765f9203row4_col0"
-                 class="data row4 col0" >
-                    Charter
-                
-                
-                
-                <td id="T_d8fedf2e_930c_11e7_b4cf_b4b6765f9203row4_col1"
-                 class="data row4 col1" >
-                    2283
-                
-                
-                
-                <td id="T_d8fedf2e_930c_11e7_b4cf_b4b6765f9203row4_col2"
-                 class="data row4 col2" >
-                    $1,319,574.00
-                
-                
-                
-                <td id="T_d8fedf2e_930c_11e7_b4cf_b4b6765f9203row4_col3"
-                 class="data row4 col3" >
-                    $578.00
-                
-                
-                
-                <td id="T_d8fedf2e_930c_11e7_b4cf_b4b6765f9203row4_col4"
-                 class="data row4 col4" >
-                    83.27
-                
-                
-                
-                <td id="T_d8fedf2e_930c_11e7_b4cf_b4b6765f9203row4_col5"
-                 class="data row4 col5" >
-                    83.99
-                
-                
-                
-                <td id="T_d8fedf2e_930c_11e7_b4cf_b4b6765f9203row4_col6"
-                 class="data row4 col6" >
-                    93.87%
-                
-                
-                
-                <td id="T_d8fedf2e_930c_11e7_b4cf_b4b6765f9203row4_col7"
-                 class="data row4 col7" >
-                    96.54%
-                
-                
-                
-                <td id="T_d8fedf2e_930c_11e7_b4cf_b4b6765f9203row4_col8"
-                 class="data row4 col8" >
-                    95.20%
-                
-                
-            </tr>
-            
-        </tbody>
-        </table>
-        
+<style  type="text/css" >
+</style>  
+<table id="T_57f1b0e8_942d_11e7_b8d5_f48c5097b52f" > 
+<thead>    <tr> 
+        <th class="blank level0" ></th> 
+        <th class="col_heading level0 col0" >School Type</th> 
+        <th class="col_heading level0 col1" >Total Students</th> 
+        <th class="col_heading level0 col2" >Total School Budget</th> 
+        <th class="col_heading level0 col3" >Per Student Budget</th> 
+        <th class="col_heading level0 col4" >Average Math Score</th> 
+        <th class="col_heading level0 col5" >Average Reading Score</th> 
+        <th class="col_heading level0 col6" >% Passing Math</th> 
+        <th class="col_heading level0 col7" >% Passing Reading</th> 
+        <th class="col_heading level0 col8" >% Overall Passing Rate</th> 
+    </tr></thead> 
+<tbody>    <tr> 
+        <th id="T_57f1b0e8_942d_11e7_b8d5_f48c5097b52flevel0_row0" class="row_heading level0 row0" >Cabrera High School</th> 
+        <td id="T_57f1b0e8_942d_11e7_b8d5_f48c5097b52frow0_col0" class="data row0 col0" >Charter</td> 
+        <td id="T_57f1b0e8_942d_11e7_b8d5_f48c5097b52frow0_col1" class="data row0 col1" >1858</td> 
+        <td id="T_57f1b0e8_942d_11e7_b8d5_f48c5097b52frow0_col2" class="data row0 col2" >$1,081,356.00</td> 
+        <td id="T_57f1b0e8_942d_11e7_b8d5_f48c5097b52frow0_col3" class="data row0 col3" >$582.00</td> 
+        <td id="T_57f1b0e8_942d_11e7_b8d5_f48c5097b52frow0_col4" class="data row0 col4" >83.06</td> 
+        <td id="T_57f1b0e8_942d_11e7_b8d5_f48c5097b52frow0_col5" class="data row0 col5" >83.98</td> 
+        <td id="T_57f1b0e8_942d_11e7_b8d5_f48c5097b52frow0_col6" class="data row0 col6" >94.13%</td> 
+        <td id="T_57f1b0e8_942d_11e7_b8d5_f48c5097b52frow0_col7" class="data row0 col7" >97.04%</td> 
+        <td id="T_57f1b0e8_942d_11e7_b8d5_f48c5097b52frow0_col8" class="data row0 col8" >95.59%</td> 
+    </tr>    <tr> 
+        <th id="T_57f1b0e8_942d_11e7_b8d5_f48c5097b52flevel0_row1" class="row_heading level0 row1" >Thomas High School</th> 
+        <td id="T_57f1b0e8_942d_11e7_b8d5_f48c5097b52frow1_col0" class="data row1 col0" >Charter</td> 
+        <td id="T_57f1b0e8_942d_11e7_b8d5_f48c5097b52frow1_col1" class="data row1 col1" >1635</td> 
+        <td id="T_57f1b0e8_942d_11e7_b8d5_f48c5097b52frow1_col2" class="data row1 col2" >$1,043,130.00</td> 
+        <td id="T_57f1b0e8_942d_11e7_b8d5_f48c5097b52frow1_col3" class="data row1 col3" >$638.00</td> 
+        <td id="T_57f1b0e8_942d_11e7_b8d5_f48c5097b52frow1_col4" class="data row1 col4" >83.42</td> 
+        <td id="T_57f1b0e8_942d_11e7_b8d5_f48c5097b52frow1_col5" class="data row1 col5" >83.85</td> 
+        <td id="T_57f1b0e8_942d_11e7_b8d5_f48c5097b52frow1_col6" class="data row1 col6" >93.27%</td> 
+        <td id="T_57f1b0e8_942d_11e7_b8d5_f48c5097b52frow1_col7" class="data row1 col7" >97.31%</td> 
+        <td id="T_57f1b0e8_942d_11e7_b8d5_f48c5097b52frow1_col8" class="data row1 col8" >95.29%</td> 
+    </tr>    <tr> 
+        <th id="T_57f1b0e8_942d_11e7_b8d5_f48c5097b52flevel0_row2" class="row_heading level0 row2" >Pena High School</th> 
+        <td id="T_57f1b0e8_942d_11e7_b8d5_f48c5097b52frow2_col0" class="data row2 col0" >Charter</td> 
+        <td id="T_57f1b0e8_942d_11e7_b8d5_f48c5097b52frow2_col1" class="data row2 col1" >962</td> 
+        <td id="T_57f1b0e8_942d_11e7_b8d5_f48c5097b52frow2_col2" class="data row2 col2" >$585,858.00</td> 
+        <td id="T_57f1b0e8_942d_11e7_b8d5_f48c5097b52frow2_col3" class="data row2 col3" >$609.00</td> 
+        <td id="T_57f1b0e8_942d_11e7_b8d5_f48c5097b52frow2_col4" class="data row2 col4" >83.84</td> 
+        <td id="T_57f1b0e8_942d_11e7_b8d5_f48c5097b52frow2_col5" class="data row2 col5" >84.04</td> 
+        <td id="T_57f1b0e8_942d_11e7_b8d5_f48c5097b52frow2_col6" class="data row2 col6" >94.59%</td> 
+        <td id="T_57f1b0e8_942d_11e7_b8d5_f48c5097b52frow2_col7" class="data row2 col7" >95.95%</td> 
+        <td id="T_57f1b0e8_942d_11e7_b8d5_f48c5097b52frow2_col8" class="data row2 col8" >95.27%</td> 
+    </tr>    <tr> 
+        <th id="T_57f1b0e8_942d_11e7_b8d5_f48c5097b52flevel0_row3" class="row_heading level0 row3" >Griffin High School</th> 
+        <td id="T_57f1b0e8_942d_11e7_b8d5_f48c5097b52frow3_col0" class="data row3 col0" >Charter</td> 
+        <td id="T_57f1b0e8_942d_11e7_b8d5_f48c5097b52frow3_col1" class="data row3 col1" >1468</td> 
+        <td id="T_57f1b0e8_942d_11e7_b8d5_f48c5097b52frow3_col2" class="data row3 col2" >$917,500.00</td> 
+        <td id="T_57f1b0e8_942d_11e7_b8d5_f48c5097b52frow3_col3" class="data row3 col3" >$625.00</td> 
+        <td id="T_57f1b0e8_942d_11e7_b8d5_f48c5097b52frow3_col4" class="data row3 col4" >83.35</td> 
+        <td id="T_57f1b0e8_942d_11e7_b8d5_f48c5097b52frow3_col5" class="data row3 col5" >83.82</td> 
+        <td id="T_57f1b0e8_942d_11e7_b8d5_f48c5097b52frow3_col6" class="data row3 col6" >93.39%</td> 
+        <td id="T_57f1b0e8_942d_11e7_b8d5_f48c5097b52frow3_col7" class="data row3 col7" >97.14%</td> 
+        <td id="T_57f1b0e8_942d_11e7_b8d5_f48c5097b52frow3_col8" class="data row3 col8" >95.27%</td> 
+    </tr>    <tr> 
+        <th id="T_57f1b0e8_942d_11e7_b8d5_f48c5097b52flevel0_row4" class="row_heading level0 row4" >Wilson High School</th> 
+        <td id="T_57f1b0e8_942d_11e7_b8d5_f48c5097b52frow4_col0" class="data row4 col0" >Charter</td> 
+        <td id="T_57f1b0e8_942d_11e7_b8d5_f48c5097b52frow4_col1" class="data row4 col1" >2283</td> 
+        <td id="T_57f1b0e8_942d_11e7_b8d5_f48c5097b52frow4_col2" class="data row4 col2" >$1,319,574.00</td> 
+        <td id="T_57f1b0e8_942d_11e7_b8d5_f48c5097b52frow4_col3" class="data row4 col3" >$578.00</td> 
+        <td id="T_57f1b0e8_942d_11e7_b8d5_f48c5097b52frow4_col4" class="data row4 col4" >83.27</td> 
+        <td id="T_57f1b0e8_942d_11e7_b8d5_f48c5097b52frow4_col5" class="data row4 col5" >83.99</td> 
+        <td id="T_57f1b0e8_942d_11e7_b8d5_f48c5097b52frow4_col6" class="data row4 col6" >93.87%</td> 
+        <td id="T_57f1b0e8_942d_11e7_b8d5_f48c5097b52frow4_col7" class="data row4 col7" >96.54%</td> 
+        <td id="T_57f1b0e8_942d_11e7_b8d5_f48c5097b52frow4_col8" class="data row4 col8" >95.20%</td> 
+    </tr></tbody> 
+</table> 
 
 
 
@@ -1562,397 +407,78 @@ bot_sch
 
 
 
-
-        <style  type="text/css" >
-        
-        
-        </style>
-
-        <table id="T_d904365e_930c_11e7_ad0d_b4b6765f9203" None>
-        
-
-        <thead>
-            
-            <tr>
-                
-                
-                <th class="blank level0" >
-                  
-                
-                
-                
-                <th class="col_heading level0 col0" colspan=1>
-                  School Type
-                
-                
-                
-                <th class="col_heading level0 col1" colspan=1>
-                  Total Students
-                
-                
-                
-                <th class="col_heading level0 col2" colspan=1>
-                  Total School Budget
-                
-                
-                
-                <th class="col_heading level0 col3" colspan=1>
-                  Per Student Budget
-                
-                
-                
-                <th class="col_heading level0 col4" colspan=1>
-                  Average Math Score
-                
-                
-                
-                <th class="col_heading level0 col5" colspan=1>
-                  Average Reading Score
-                
-                
-                
-                <th class="col_heading level0 col6" colspan=1>
-                  % Passing Math
-                
-                
-                
-                <th class="col_heading level0 col7" colspan=1>
-                  % Passing Reading
-                
-                
-                
-                <th class="col_heading level0 col8" colspan=1>
-                  % Overall Passing Rate
-                
-                
-            </tr>
-            
-        </thead>
-        <tbody>
-            
-            <tr>
-                
-                
-                <th id="T_d904365e_930c_11e7_ad0d_b4b6765f9203"
-                 class="row_heading level0 row0" rowspan=1>
-                    Rodriguez High School
-                
-                
-                
-                <td id="T_d904365e_930c_11e7_ad0d_b4b6765f9203row0_col0"
-                 class="data row0 col0" >
-                    District
-                
-                
-                
-                <td id="T_d904365e_930c_11e7_ad0d_b4b6765f9203row0_col1"
-                 class="data row0 col1" >
-                    3999
-                
-                
-                
-                <td id="T_d904365e_930c_11e7_ad0d_b4b6765f9203row0_col2"
-                 class="data row0 col2" >
-                    $2,547,363.00
-                
-                
-                
-                <td id="T_d904365e_930c_11e7_ad0d_b4b6765f9203row0_col3"
-                 class="data row0 col3" >
-                    $637.00
-                
-                
-                
-                <td id="T_d904365e_930c_11e7_ad0d_b4b6765f9203row0_col4"
-                 class="data row0 col4" >
-                    76.84
-                
-                
-                
-                <td id="T_d904365e_930c_11e7_ad0d_b4b6765f9203row0_col5"
-                 class="data row0 col5" >
-                    80.74
-                
-                
-                
-                <td id="T_d904365e_930c_11e7_ad0d_b4b6765f9203row0_col6"
-                 class="data row0 col6" >
-                    66.37%
-                
-                
-                
-                <td id="T_d904365e_930c_11e7_ad0d_b4b6765f9203row0_col7"
-                 class="data row0 col7" >
-                    80.22%
-                
-                
-                
-                <td id="T_d904365e_930c_11e7_ad0d_b4b6765f9203row0_col8"
-                 class="data row0 col8" >
-                    73.29%
-                
-                
-            </tr>
-            
-            <tr>
-                
-                
-                <th id="T_d904365e_930c_11e7_ad0d_b4b6765f9203"
-                 class="row_heading level0 row1" rowspan=1>
-                    Figueroa High School
-                
-                
-                
-                <td id="T_d904365e_930c_11e7_ad0d_b4b6765f9203row1_col0"
-                 class="data row1 col0" >
-                    District
-                
-                
-                
-                <td id="T_d904365e_930c_11e7_ad0d_b4b6765f9203row1_col1"
-                 class="data row1 col1" >
-                    2949
-                
-                
-                
-                <td id="T_d904365e_930c_11e7_ad0d_b4b6765f9203row1_col2"
-                 class="data row1 col2" >
-                    $1,884,411.00
-                
-                
-                
-                <td id="T_d904365e_930c_11e7_ad0d_b4b6765f9203row1_col3"
-                 class="data row1 col3" >
-                    $639.00
-                
-                
-                
-                <td id="T_d904365e_930c_11e7_ad0d_b4b6765f9203row1_col4"
-                 class="data row1 col4" >
-                    76.71
-                
-                
-                
-                <td id="T_d904365e_930c_11e7_ad0d_b4b6765f9203row1_col5"
-                 class="data row1 col5" >
-                    81.16
-                
-                
-                
-                <td id="T_d904365e_930c_11e7_ad0d_b4b6765f9203row1_col6"
-                 class="data row1 col6" >
-                    65.99%
-                
-                
-                
-                <td id="T_d904365e_930c_11e7_ad0d_b4b6765f9203row1_col7"
-                 class="data row1 col7" >
-                    80.74%
-                
-                
-                
-                <td id="T_d904365e_930c_11e7_ad0d_b4b6765f9203row1_col8"
-                 class="data row1 col8" >
-                    73.36%
-                
-                
-            </tr>
-            
-            <tr>
-                
-                
-                <th id="T_d904365e_930c_11e7_ad0d_b4b6765f9203"
-                 class="row_heading level0 row2" rowspan=1>
-                    Huang High School
-                
-                
-                
-                <td id="T_d904365e_930c_11e7_ad0d_b4b6765f9203row2_col0"
-                 class="data row2 col0" >
-                    District
-                
-                
-                
-                <td id="T_d904365e_930c_11e7_ad0d_b4b6765f9203row2_col1"
-                 class="data row2 col1" >
-                    2917
-                
-                
-                
-                <td id="T_d904365e_930c_11e7_ad0d_b4b6765f9203row2_col2"
-                 class="data row2 col2" >
-                    $1,910,635.00
-                
-                
-                
-                <td id="T_d904365e_930c_11e7_ad0d_b4b6765f9203row2_col3"
-                 class="data row2 col3" >
-                    $655.00
-                
-                
-                
-                <td id="T_d904365e_930c_11e7_ad0d_b4b6765f9203row2_col4"
-                 class="data row2 col4" >
-                    76.63
-                
-                
-                
-                <td id="T_d904365e_930c_11e7_ad0d_b4b6765f9203row2_col5"
-                 class="data row2 col5" >
-                    81.18
-                
-                
-                
-                <td id="T_d904365e_930c_11e7_ad0d_b4b6765f9203row2_col6"
-                 class="data row2 col6" >
-                    65.68%
-                
-                
-                
-                <td id="T_d904365e_930c_11e7_ad0d_b4b6765f9203row2_col7"
-                 class="data row2 col7" >
-                    81.32%
-                
-                
-                
-                <td id="T_d904365e_930c_11e7_ad0d_b4b6765f9203row2_col8"
-                 class="data row2 col8" >
-                    73.50%
-                
-                
-            </tr>
-            
-            <tr>
-                
-                
-                <th id="T_d904365e_930c_11e7_ad0d_b4b6765f9203"
-                 class="row_heading level0 row3" rowspan=1>
-                    Johnson High School
-                
-                
-                
-                <td id="T_d904365e_930c_11e7_ad0d_b4b6765f9203row3_col0"
-                 class="data row3 col0" >
-                    District
-                
-                
-                
-                <td id="T_d904365e_930c_11e7_ad0d_b4b6765f9203row3_col1"
-                 class="data row3 col1" >
-                    4761
-                
-                
-                
-                <td id="T_d904365e_930c_11e7_ad0d_b4b6765f9203row3_col2"
-                 class="data row3 col2" >
-                    $3,094,650.00
-                
-                
-                
-                <td id="T_d904365e_930c_11e7_ad0d_b4b6765f9203row3_col3"
-                 class="data row3 col3" >
-                    $650.00
-                
-                
-                
-                <td id="T_d904365e_930c_11e7_ad0d_b4b6765f9203row3_col4"
-                 class="data row3 col4" >
-                    77.07
-                
-                
-                
-                <td id="T_d904365e_930c_11e7_ad0d_b4b6765f9203row3_col5"
-                 class="data row3 col5" >
-                    80.97
-                
-                
-                
-                <td id="T_d904365e_930c_11e7_ad0d_b4b6765f9203row3_col6"
-                 class="data row3 col6" >
-                    66.06%
-                
-                
-                
-                <td id="T_d904365e_930c_11e7_ad0d_b4b6765f9203row3_col7"
-                 class="data row3 col7" >
-                    81.22%
-                
-                
-                
-                <td id="T_d904365e_930c_11e7_ad0d_b4b6765f9203row3_col8"
-                 class="data row3 col8" >
-                    73.64%
-                
-                
-            </tr>
-            
-            <tr>
-                
-                
-                <th id="T_d904365e_930c_11e7_ad0d_b4b6765f9203"
-                 class="row_heading level0 row4" rowspan=1>
-                    Ford High School
-                
-                
-                
-                <td id="T_d904365e_930c_11e7_ad0d_b4b6765f9203row4_col0"
-                 class="data row4 col0" >
-                    District
-                
-                
-                
-                <td id="T_d904365e_930c_11e7_ad0d_b4b6765f9203row4_col1"
-                 class="data row4 col1" >
-                    2739
-                
-                
-                
-                <td id="T_d904365e_930c_11e7_ad0d_b4b6765f9203row4_col2"
-                 class="data row4 col2" >
-                    $1,763,916.00
-                
-                
-                
-                <td id="T_d904365e_930c_11e7_ad0d_b4b6765f9203row4_col3"
-                 class="data row4 col3" >
-                    $644.00
-                
-                
-                
-                <td id="T_d904365e_930c_11e7_ad0d_b4b6765f9203row4_col4"
-                 class="data row4 col4" >
-                    77.10
-                
-                
-                
-                <td id="T_d904365e_930c_11e7_ad0d_b4b6765f9203row4_col5"
-                 class="data row4 col5" >
-                    80.75
-                
-                
-                
-                <td id="T_d904365e_930c_11e7_ad0d_b4b6765f9203row4_col6"
-                 class="data row4 col6" >
-                    68.31%
-                
-                
-                
-                <td id="T_d904365e_930c_11e7_ad0d_b4b6765f9203row4_col7"
-                 class="data row4 col7" >
-                    79.30%
-                
-                
-                
-                <td id="T_d904365e_930c_11e7_ad0d_b4b6765f9203row4_col8"
-                 class="data row4 col8" >
-                    73.80%
-                
-                
-            </tr>
-            
-        </tbody>
-        </table>
-        
+<style  type="text/css" >
+</style>  
+<table id="T_57f75a0a_942d_11e7_93d3_f48c5097b52f" > 
+<thead>    <tr> 
+        <th class="blank level0" ></th> 
+        <th class="col_heading level0 col0" >School Type</th> 
+        <th class="col_heading level0 col1" >Total Students</th> 
+        <th class="col_heading level0 col2" >Total School Budget</th> 
+        <th class="col_heading level0 col3" >Per Student Budget</th> 
+        <th class="col_heading level0 col4" >Average Math Score</th> 
+        <th class="col_heading level0 col5" >Average Reading Score</th> 
+        <th class="col_heading level0 col6" >% Passing Math</th> 
+        <th class="col_heading level0 col7" >% Passing Reading</th> 
+        <th class="col_heading level0 col8" >% Overall Passing Rate</th> 
+    </tr></thead> 
+<tbody>    <tr> 
+        <th id="T_57f75a0a_942d_11e7_93d3_f48c5097b52flevel0_row0" class="row_heading level0 row0" >Rodriguez High School</th> 
+        <td id="T_57f75a0a_942d_11e7_93d3_f48c5097b52frow0_col0" class="data row0 col0" >District</td> 
+        <td id="T_57f75a0a_942d_11e7_93d3_f48c5097b52frow0_col1" class="data row0 col1" >3999</td> 
+        <td id="T_57f75a0a_942d_11e7_93d3_f48c5097b52frow0_col2" class="data row0 col2" >$2,547,363.00</td> 
+        <td id="T_57f75a0a_942d_11e7_93d3_f48c5097b52frow0_col3" class="data row0 col3" >$637.00</td> 
+        <td id="T_57f75a0a_942d_11e7_93d3_f48c5097b52frow0_col4" class="data row0 col4" >76.84</td> 
+        <td id="T_57f75a0a_942d_11e7_93d3_f48c5097b52frow0_col5" class="data row0 col5" >80.74</td> 
+        <td id="T_57f75a0a_942d_11e7_93d3_f48c5097b52frow0_col6" class="data row0 col6" >66.37%</td> 
+        <td id="T_57f75a0a_942d_11e7_93d3_f48c5097b52frow0_col7" class="data row0 col7" >80.22%</td> 
+        <td id="T_57f75a0a_942d_11e7_93d3_f48c5097b52frow0_col8" class="data row0 col8" >73.29%</td> 
+    </tr>    <tr> 
+        <th id="T_57f75a0a_942d_11e7_93d3_f48c5097b52flevel0_row1" class="row_heading level0 row1" >Figueroa High School</th> 
+        <td id="T_57f75a0a_942d_11e7_93d3_f48c5097b52frow1_col0" class="data row1 col0" >District</td> 
+        <td id="T_57f75a0a_942d_11e7_93d3_f48c5097b52frow1_col1" class="data row1 col1" >2949</td> 
+        <td id="T_57f75a0a_942d_11e7_93d3_f48c5097b52frow1_col2" class="data row1 col2" >$1,884,411.00</td> 
+        <td id="T_57f75a0a_942d_11e7_93d3_f48c5097b52frow1_col3" class="data row1 col3" >$639.00</td> 
+        <td id="T_57f75a0a_942d_11e7_93d3_f48c5097b52frow1_col4" class="data row1 col4" >76.71</td> 
+        <td id="T_57f75a0a_942d_11e7_93d3_f48c5097b52frow1_col5" class="data row1 col5" >81.16</td> 
+        <td id="T_57f75a0a_942d_11e7_93d3_f48c5097b52frow1_col6" class="data row1 col6" >65.99%</td> 
+        <td id="T_57f75a0a_942d_11e7_93d3_f48c5097b52frow1_col7" class="data row1 col7" >80.74%</td> 
+        <td id="T_57f75a0a_942d_11e7_93d3_f48c5097b52frow1_col8" class="data row1 col8" >73.36%</td> 
+    </tr>    <tr> 
+        <th id="T_57f75a0a_942d_11e7_93d3_f48c5097b52flevel0_row2" class="row_heading level0 row2" >Huang High School</th> 
+        <td id="T_57f75a0a_942d_11e7_93d3_f48c5097b52frow2_col0" class="data row2 col0" >District</td> 
+        <td id="T_57f75a0a_942d_11e7_93d3_f48c5097b52frow2_col1" class="data row2 col1" >2917</td> 
+        <td id="T_57f75a0a_942d_11e7_93d3_f48c5097b52frow2_col2" class="data row2 col2" >$1,910,635.00</td> 
+        <td id="T_57f75a0a_942d_11e7_93d3_f48c5097b52frow2_col3" class="data row2 col3" >$655.00</td> 
+        <td id="T_57f75a0a_942d_11e7_93d3_f48c5097b52frow2_col4" class="data row2 col4" >76.63</td> 
+        <td id="T_57f75a0a_942d_11e7_93d3_f48c5097b52frow2_col5" class="data row2 col5" >81.18</td> 
+        <td id="T_57f75a0a_942d_11e7_93d3_f48c5097b52frow2_col6" class="data row2 col6" >65.68%</td> 
+        <td id="T_57f75a0a_942d_11e7_93d3_f48c5097b52frow2_col7" class="data row2 col7" >81.32%</td> 
+        <td id="T_57f75a0a_942d_11e7_93d3_f48c5097b52frow2_col8" class="data row2 col8" >73.50%</td> 
+    </tr>    <tr> 
+        <th id="T_57f75a0a_942d_11e7_93d3_f48c5097b52flevel0_row3" class="row_heading level0 row3" >Johnson High School</th> 
+        <td id="T_57f75a0a_942d_11e7_93d3_f48c5097b52frow3_col0" class="data row3 col0" >District</td> 
+        <td id="T_57f75a0a_942d_11e7_93d3_f48c5097b52frow3_col1" class="data row3 col1" >4761</td> 
+        <td id="T_57f75a0a_942d_11e7_93d3_f48c5097b52frow3_col2" class="data row3 col2" >$3,094,650.00</td> 
+        <td id="T_57f75a0a_942d_11e7_93d3_f48c5097b52frow3_col3" class="data row3 col3" >$650.00</td> 
+        <td id="T_57f75a0a_942d_11e7_93d3_f48c5097b52frow3_col4" class="data row3 col4" >77.07</td> 
+        <td id="T_57f75a0a_942d_11e7_93d3_f48c5097b52frow3_col5" class="data row3 col5" >80.97</td> 
+        <td id="T_57f75a0a_942d_11e7_93d3_f48c5097b52frow3_col6" class="data row3 col6" >66.06%</td> 
+        <td id="T_57f75a0a_942d_11e7_93d3_f48c5097b52frow3_col7" class="data row3 col7" >81.22%</td> 
+        <td id="T_57f75a0a_942d_11e7_93d3_f48c5097b52frow3_col8" class="data row3 col8" >73.64%</td> 
+    </tr>    <tr> 
+        <th id="T_57f75a0a_942d_11e7_93d3_f48c5097b52flevel0_row4" class="row_heading level0 row4" >Ford High School</th> 
+        <td id="T_57f75a0a_942d_11e7_93d3_f48c5097b52frow4_col0" class="data row4 col0" >District</td> 
+        <td id="T_57f75a0a_942d_11e7_93d3_f48c5097b52frow4_col1" class="data row4 col1" >2739</td> 
+        <td id="T_57f75a0a_942d_11e7_93d3_f48c5097b52frow4_col2" class="data row4 col2" >$1,763,916.00</td> 
+        <td id="T_57f75a0a_942d_11e7_93d3_f48c5097b52frow4_col3" class="data row4 col3" >$644.00</td> 
+        <td id="T_57f75a0a_942d_11e7_93d3_f48c5097b52frow4_col4" class="data row4 col4" >77.10</td> 
+        <td id="T_57f75a0a_942d_11e7_93d3_f48c5097b52frow4_col5" class="data row4 col5" >80.75</td> 
+        <td id="T_57f75a0a_942d_11e7_93d3_f48c5097b52frow4_col6" class="data row4 col6" >68.31%</td> 
+        <td id="T_57f75a0a_942d_11e7_93d3_f48c5097b52frow4_col7" class="data row4 col7" >79.30%</td> 
+        <td id="T_57f75a0a_942d_11e7_93d3_f48c5097b52frow4_col8" class="data row4 col8" >73.80%</td> 
+    </tr></tbody> 
+</table> 
 
 
 
@@ -1980,562 +506,108 @@ math_gr
 
 
 
-
-        <style  type="text/css" >
-        
-        
-        </style>
-
-        <table id="T_d91d3c9e_930c_11e7_a5b9_b4b6765f9203" None>
-        
-
-        <thead>
-            
-            <tr>
-                
-                
-                <th class="blank level0" >
-                  
-                
-                
-                
-                <th class="col_heading level0 col0" colspan=1>
-                  9th
-                
-                
-                
-                <th class="col_heading level0 col1" colspan=1>
-                  10th
-                
-                
-                
-                <th class="col_heading level0 col2" colspan=1>
-                  11th
-                
-                
-                
-                <th class="col_heading level0 col3" colspan=1>
-                  12th
-                
-                
-            </tr>
-            
-        </thead>
-        <tbody>
-            
-            <tr>
-                
-                
-                <th id="T_d91d3c9e_930c_11e7_a5b9_b4b6765f9203"
-                 class="row_heading level0 row0" rowspan=1>
-                    Bailey High School
-                
-                
-                
-                <td id="T_d91d3c9e_930c_11e7_a5b9_b4b6765f9203row0_col0"
-                 class="data row0 col0" >
-                    77.08
-                
-                
-                
-                <td id="T_d91d3c9e_930c_11e7_a5b9_b4b6765f9203row0_col1"
-                 class="data row0 col1" >
-                    77.00
-                
-                
-                
-                <td id="T_d91d3c9e_930c_11e7_a5b9_b4b6765f9203row0_col2"
-                 class="data row0 col2" >
-                    77.52
-                
-                
-                
-                <td id="T_d91d3c9e_930c_11e7_a5b9_b4b6765f9203row0_col3"
-                 class="data row0 col3" >
-                    76.49
-                
-                
-            </tr>
-            
-            <tr>
-                
-                
-                <th id="T_d91d3c9e_930c_11e7_a5b9_b4b6765f9203"
-                 class="row_heading level0 row1" rowspan=1>
-                    Cabrera High School
-                
-                
-                
-                <td id="T_d91d3c9e_930c_11e7_a5b9_b4b6765f9203row1_col0"
-                 class="data row1 col0" >
-                    83.09
-                
-                
-                
-                <td id="T_d91d3c9e_930c_11e7_a5b9_b4b6765f9203row1_col1"
-                 class="data row1 col1" >
-                    83.15
-                
-                
-                
-                <td id="T_d91d3c9e_930c_11e7_a5b9_b4b6765f9203row1_col2"
-                 class="data row1 col2" >
-                    82.77
-                
-                
-                
-                <td id="T_d91d3c9e_930c_11e7_a5b9_b4b6765f9203row1_col3"
-                 class="data row1 col3" >
-                    83.28
-                
-                
-            </tr>
-            
-            <tr>
-                
-                
-                <th id="T_d91d3c9e_930c_11e7_a5b9_b4b6765f9203"
-                 class="row_heading level0 row2" rowspan=1>
-                    Figueroa High School
-                
-                
-                
-                <td id="T_d91d3c9e_930c_11e7_a5b9_b4b6765f9203row2_col0"
-                 class="data row2 col0" >
-                    76.40
-                
-                
-                
-                <td id="T_d91d3c9e_930c_11e7_a5b9_b4b6765f9203row2_col1"
-                 class="data row2 col1" >
-                    76.54
-                
-                
-                
-                <td id="T_d91d3c9e_930c_11e7_a5b9_b4b6765f9203row2_col2"
-                 class="data row2 col2" >
-                    76.88
-                
-                
-                
-                <td id="T_d91d3c9e_930c_11e7_a5b9_b4b6765f9203row2_col3"
-                 class="data row2 col3" >
-                    77.15
-                
-                
-            </tr>
-            
-            <tr>
-                
-                
-                <th id="T_d91d3c9e_930c_11e7_a5b9_b4b6765f9203"
-                 class="row_heading level0 row3" rowspan=1>
-                    Ford High School
-                
-                
-                
-                <td id="T_d91d3c9e_930c_11e7_a5b9_b4b6765f9203row3_col0"
-                 class="data row3 col0" >
-                    77.36
-                
-                
-                
-                <td id="T_d91d3c9e_930c_11e7_a5b9_b4b6765f9203row3_col1"
-                 class="data row3 col1" >
-                    77.67
-                
-                
-                
-                <td id="T_d91d3c9e_930c_11e7_a5b9_b4b6765f9203row3_col2"
-                 class="data row3 col2" >
-                    76.92
-                
-                
-                
-                <td id="T_d91d3c9e_930c_11e7_a5b9_b4b6765f9203row3_col3"
-                 class="data row3 col3" >
-                    76.18
-                
-                
-            </tr>
-            
-            <tr>
-                
-                
-                <th id="T_d91d3c9e_930c_11e7_a5b9_b4b6765f9203"
-                 class="row_heading level0 row4" rowspan=1>
-                    Griffin High School
-                
-                
-                
-                <td id="T_d91d3c9e_930c_11e7_a5b9_b4b6765f9203row4_col0"
-                 class="data row4 col0" >
-                    82.04
-                
-                
-                
-                <td id="T_d91d3c9e_930c_11e7_a5b9_b4b6765f9203row4_col1"
-                 class="data row4 col1" >
-                    84.23
-                
-                
-                
-                <td id="T_d91d3c9e_930c_11e7_a5b9_b4b6765f9203row4_col2"
-                 class="data row4 col2" >
-                    83.84
-                
-                
-                
-                <td id="T_d91d3c9e_930c_11e7_a5b9_b4b6765f9203row4_col3"
-                 class="data row4 col3" >
-                    83.36
-                
-                
-            </tr>
-            
-            <tr>
-                
-                
-                <th id="T_d91d3c9e_930c_11e7_a5b9_b4b6765f9203"
-                 class="row_heading level0 row5" rowspan=1>
-                    Hernandez High School
-                
-                
-                
-                <td id="T_d91d3c9e_930c_11e7_a5b9_b4b6765f9203row5_col0"
-                 class="data row5 col0" >
-                    77.44
-                
-                
-                
-                <td id="T_d91d3c9e_930c_11e7_a5b9_b4b6765f9203row5_col1"
-                 class="data row5 col1" >
-                    77.34
-                
-                
-                
-                <td id="T_d91d3c9e_930c_11e7_a5b9_b4b6765f9203row5_col2"
-                 class="data row5 col2" >
-                    77.14
-                
-                
-                
-                <td id="T_d91d3c9e_930c_11e7_a5b9_b4b6765f9203row5_col3"
-                 class="data row5 col3" >
-                    77.19
-                
-                
-            </tr>
-            
-            <tr>
-                
-                
-                <th id="T_d91d3c9e_930c_11e7_a5b9_b4b6765f9203"
-                 class="row_heading level0 row6" rowspan=1>
-                    Holden High School
-                
-                
-                
-                <td id="T_d91d3c9e_930c_11e7_a5b9_b4b6765f9203row6_col0"
-                 class="data row6 col0" >
-                    83.79
-                
-                
-                
-                <td id="T_d91d3c9e_930c_11e7_a5b9_b4b6765f9203row6_col1"
-                 class="data row6 col1" >
-                    83.43
-                
-                
-                
-                <td id="T_d91d3c9e_930c_11e7_a5b9_b4b6765f9203row6_col2"
-                 class="data row6 col2" >
-                    85.00
-                
-                
-                
-                <td id="T_d91d3c9e_930c_11e7_a5b9_b4b6765f9203row6_col3"
-                 class="data row6 col3" >
-                    82.86
-                
-                
-            </tr>
-            
-            <tr>
-                
-                
-                <th id="T_d91d3c9e_930c_11e7_a5b9_b4b6765f9203"
-                 class="row_heading level0 row7" rowspan=1>
-                    Huang High School
-                
-                
-                
-                <td id="T_d91d3c9e_930c_11e7_a5b9_b4b6765f9203row7_col0"
-                 class="data row7 col0" >
-                    77.03
-                
-                
-                
-                <td id="T_d91d3c9e_930c_11e7_a5b9_b4b6765f9203row7_col1"
-                 class="data row7 col1" >
-                    75.91
-                
-                
-                
-                <td id="T_d91d3c9e_930c_11e7_a5b9_b4b6765f9203row7_col2"
-                 class="data row7 col2" >
-                    76.45
-                
-                
-                
-                <td id="T_d91d3c9e_930c_11e7_a5b9_b4b6765f9203row7_col3"
-                 class="data row7 col3" >
-                    77.23
-                
-                
-            </tr>
-            
-            <tr>
-                
-                
-                <th id="T_d91d3c9e_930c_11e7_a5b9_b4b6765f9203"
-                 class="row_heading level0 row8" rowspan=1>
-                    Johnson High School
-                
-                
-                
-                <td id="T_d91d3c9e_930c_11e7_a5b9_b4b6765f9203row8_col0"
-                 class="data row8 col0" >
-                    77.19
-                
-                
-                
-                <td id="T_d91d3c9e_930c_11e7_a5b9_b4b6765f9203row8_col1"
-                 class="data row8 col1" >
-                    76.69
-                
-                
-                
-                <td id="T_d91d3c9e_930c_11e7_a5b9_b4b6765f9203row8_col2"
-                 class="data row8 col2" >
-                    77.49
-                
-                
-                
-                <td id="T_d91d3c9e_930c_11e7_a5b9_b4b6765f9203row8_col3"
-                 class="data row8 col3" >
-                    76.86
-                
-                
-            </tr>
-            
-            <tr>
-                
-                
-                <th id="T_d91d3c9e_930c_11e7_a5b9_b4b6765f9203"
-                 class="row_heading level0 row9" rowspan=1>
-                    Pena High School
-                
-                
-                
-                <td id="T_d91d3c9e_930c_11e7_a5b9_b4b6765f9203row9_col0"
-                 class="data row9 col0" >
-                    83.63
-                
-                
-                
-                <td id="T_d91d3c9e_930c_11e7_a5b9_b4b6765f9203row9_col1"
-                 class="data row9 col1" >
-                    83.37
-                
-                
-                
-                <td id="T_d91d3c9e_930c_11e7_a5b9_b4b6765f9203row9_col2"
-                 class="data row9 col2" >
-                    84.33
-                
-                
-                
-                <td id="T_d91d3c9e_930c_11e7_a5b9_b4b6765f9203row9_col3"
-                 class="data row9 col3" >
-                    84.12
-                
-                
-            </tr>
-            
-            <tr>
-                
-                
-                <th id="T_d91d3c9e_930c_11e7_a5b9_b4b6765f9203"
-                 class="row_heading level0 row10" rowspan=1>
-                    Rodriguez High School
-                
-                
-                
-                <td id="T_d91d3c9e_930c_11e7_a5b9_b4b6765f9203row10_col0"
-                 class="data row10 col0" >
-                    76.86
-                
-                
-                
-                <td id="T_d91d3c9e_930c_11e7_a5b9_b4b6765f9203row10_col1"
-                 class="data row10 col1" >
-                    76.61
-                
-                
-                
-                <td id="T_d91d3c9e_930c_11e7_a5b9_b4b6765f9203row10_col2"
-                 class="data row10 col2" >
-                    76.40
-                
-                
-                
-                <td id="T_d91d3c9e_930c_11e7_a5b9_b4b6765f9203row10_col3"
-                 class="data row10 col3" >
-                    77.69
-                
-                
-            </tr>
-            
-            <tr>
-                
-                
-                <th id="T_d91d3c9e_930c_11e7_a5b9_b4b6765f9203"
-                 class="row_heading level0 row11" rowspan=1>
-                    Shelton High School
-                
-                
-                
-                <td id="T_d91d3c9e_930c_11e7_a5b9_b4b6765f9203row11_col0"
-                 class="data row11 col0" >
-                    83.42
-                
-                
-                
-                <td id="T_d91d3c9e_930c_11e7_a5b9_b4b6765f9203row11_col1"
-                 class="data row11 col1" >
-                    82.92
-                
-                
-                
-                <td id="T_d91d3c9e_930c_11e7_a5b9_b4b6765f9203row11_col2"
-                 class="data row11 col2" >
-                    83.38
-                
-                
-                
-                <td id="T_d91d3c9e_930c_11e7_a5b9_b4b6765f9203row11_col3"
-                 class="data row11 col3" >
-                    83.78
-                
-                
-            </tr>
-            
-            <tr>
-                
-                
-                <th id="T_d91d3c9e_930c_11e7_a5b9_b4b6765f9203"
-                 class="row_heading level0 row12" rowspan=1>
-                    Thomas High School
-                
-                
-                
-                <td id="T_d91d3c9e_930c_11e7_a5b9_b4b6765f9203row12_col0"
-                 class="data row12 col0" >
-                    83.59
-                
-                
-                
-                <td id="T_d91d3c9e_930c_11e7_a5b9_b4b6765f9203row12_col1"
-                 class="data row12 col1" >
-                    83.09
-                
-                
-                
-                <td id="T_d91d3c9e_930c_11e7_a5b9_b4b6765f9203row12_col2"
-                 class="data row12 col2" >
-                    83.50
-                
-                
-                
-                <td id="T_d91d3c9e_930c_11e7_a5b9_b4b6765f9203row12_col3"
-                 class="data row12 col3" >
-                    83.50
-                
-                
-            </tr>
-            
-            <tr>
-                
-                
-                <th id="T_d91d3c9e_930c_11e7_a5b9_b4b6765f9203"
-                 class="row_heading level0 row13" rowspan=1>
-                    Wilson High School
-                
-                
-                
-                <td id="T_d91d3c9e_930c_11e7_a5b9_b4b6765f9203row13_col0"
-                 class="data row13 col0" >
-                    83.09
-                
-                
-                
-                <td id="T_d91d3c9e_930c_11e7_a5b9_b4b6765f9203row13_col1"
-                 class="data row13 col1" >
-                    83.72
-                
-                
-                
-                <td id="T_d91d3c9e_930c_11e7_a5b9_b4b6765f9203row13_col2"
-                 class="data row13 col2" >
-                    83.20
-                
-                
-                
-                <td id="T_d91d3c9e_930c_11e7_a5b9_b4b6765f9203row13_col3"
-                 class="data row13 col3" >
-                    83.04
-                
-                
-            </tr>
-            
-            <tr>
-                
-                
-                <th id="T_d91d3c9e_930c_11e7_a5b9_b4b6765f9203"
-                 class="row_heading level0 row14" rowspan=1>
-                    Wright High School
-                
-                
-                
-                <td id="T_d91d3c9e_930c_11e7_a5b9_b4b6765f9203row14_col0"
-                 class="data row14 col0" >
-                    83.26
-                
-                
-                
-                <td id="T_d91d3c9e_930c_11e7_a5b9_b4b6765f9203row14_col1"
-                 class="data row14 col1" >
-                    84.01
-                
-                
-                
-                <td id="T_d91d3c9e_930c_11e7_a5b9_b4b6765f9203row14_col2"
-                 class="data row14 col2" >
-                    83.84
-                
-                
-                
-                <td id="T_d91d3c9e_930c_11e7_a5b9_b4b6765f9203row14_col3"
-                 class="data row14 col3" >
-                    83.64
-                
-                
-            </tr>
-            
-        </tbody>
-        </table>
-        
+<style  type="text/css" >
+</style>  
+<table id="T_58097140_942d_11e7_9b5f_f48c5097b52f" > 
+<thead>    <tr> 
+        <th class="blank level0" ></th> 
+        <th class="col_heading level0 col0" >9th</th> 
+        <th class="col_heading level0 col1" >10th</th> 
+        <th class="col_heading level0 col2" >11th</th> 
+        <th class="col_heading level0 col3" >12th</th> 
+    </tr></thead> 
+<tbody>    <tr> 
+        <th id="T_58097140_942d_11e7_9b5f_f48c5097b52flevel0_row0" class="row_heading level0 row0" >Bailey High School</th> 
+        <td id="T_58097140_942d_11e7_9b5f_f48c5097b52frow0_col0" class="data row0 col0" >77.08</td> 
+        <td id="T_58097140_942d_11e7_9b5f_f48c5097b52frow0_col1" class="data row0 col1" >77.00</td> 
+        <td id="T_58097140_942d_11e7_9b5f_f48c5097b52frow0_col2" class="data row0 col2" >77.52</td> 
+        <td id="T_58097140_942d_11e7_9b5f_f48c5097b52frow0_col3" class="data row0 col3" >76.49</td> 
+    </tr>    <tr> 
+        <th id="T_58097140_942d_11e7_9b5f_f48c5097b52flevel0_row1" class="row_heading level0 row1" >Cabrera High School</th> 
+        <td id="T_58097140_942d_11e7_9b5f_f48c5097b52frow1_col0" class="data row1 col0" >83.09</td> 
+        <td id="T_58097140_942d_11e7_9b5f_f48c5097b52frow1_col1" class="data row1 col1" >83.15</td> 
+        <td id="T_58097140_942d_11e7_9b5f_f48c5097b52frow1_col2" class="data row1 col2" >82.77</td> 
+        <td id="T_58097140_942d_11e7_9b5f_f48c5097b52frow1_col3" class="data row1 col3" >83.28</td> 
+    </tr>    <tr> 
+        <th id="T_58097140_942d_11e7_9b5f_f48c5097b52flevel0_row2" class="row_heading level0 row2" >Figueroa High School</th> 
+        <td id="T_58097140_942d_11e7_9b5f_f48c5097b52frow2_col0" class="data row2 col0" >76.40</td> 
+        <td id="T_58097140_942d_11e7_9b5f_f48c5097b52frow2_col1" class="data row2 col1" >76.54</td> 
+        <td id="T_58097140_942d_11e7_9b5f_f48c5097b52frow2_col2" class="data row2 col2" >76.88</td> 
+        <td id="T_58097140_942d_11e7_9b5f_f48c5097b52frow2_col3" class="data row2 col3" >77.15</td> 
+    </tr>    <tr> 
+        <th id="T_58097140_942d_11e7_9b5f_f48c5097b52flevel0_row3" class="row_heading level0 row3" >Ford High School</th> 
+        <td id="T_58097140_942d_11e7_9b5f_f48c5097b52frow3_col0" class="data row3 col0" >77.36</td> 
+        <td id="T_58097140_942d_11e7_9b5f_f48c5097b52frow3_col1" class="data row3 col1" >77.67</td> 
+        <td id="T_58097140_942d_11e7_9b5f_f48c5097b52frow3_col2" class="data row3 col2" >76.92</td> 
+        <td id="T_58097140_942d_11e7_9b5f_f48c5097b52frow3_col3" class="data row3 col3" >76.18</td> 
+    </tr>    <tr> 
+        <th id="T_58097140_942d_11e7_9b5f_f48c5097b52flevel0_row4" class="row_heading level0 row4" >Griffin High School</th> 
+        <td id="T_58097140_942d_11e7_9b5f_f48c5097b52frow4_col0" class="data row4 col0" >82.04</td> 
+        <td id="T_58097140_942d_11e7_9b5f_f48c5097b52frow4_col1" class="data row4 col1" >84.23</td> 
+        <td id="T_58097140_942d_11e7_9b5f_f48c5097b52frow4_col2" class="data row4 col2" >83.84</td> 
+        <td id="T_58097140_942d_11e7_9b5f_f48c5097b52frow4_col3" class="data row4 col3" >83.36</td> 
+    </tr>    <tr> 
+        <th id="T_58097140_942d_11e7_9b5f_f48c5097b52flevel0_row5" class="row_heading level0 row5" >Hernandez High School</th> 
+        <td id="T_58097140_942d_11e7_9b5f_f48c5097b52frow5_col0" class="data row5 col0" >77.44</td> 
+        <td id="T_58097140_942d_11e7_9b5f_f48c5097b52frow5_col1" class="data row5 col1" >77.34</td> 
+        <td id="T_58097140_942d_11e7_9b5f_f48c5097b52frow5_col2" class="data row5 col2" >77.14</td> 
+        <td id="T_58097140_942d_11e7_9b5f_f48c5097b52frow5_col3" class="data row5 col3" >77.19</td> 
+    </tr>    <tr> 
+        <th id="T_58097140_942d_11e7_9b5f_f48c5097b52flevel0_row6" class="row_heading level0 row6" >Holden High School</th> 
+        <td id="T_58097140_942d_11e7_9b5f_f48c5097b52frow6_col0" class="data row6 col0" >83.79</td> 
+        <td id="T_58097140_942d_11e7_9b5f_f48c5097b52frow6_col1" class="data row6 col1" >83.43</td> 
+        <td id="T_58097140_942d_11e7_9b5f_f48c5097b52frow6_col2" class="data row6 col2" >85.00</td> 
+        <td id="T_58097140_942d_11e7_9b5f_f48c5097b52frow6_col3" class="data row6 col3" >82.86</td> 
+    </tr>    <tr> 
+        <th id="T_58097140_942d_11e7_9b5f_f48c5097b52flevel0_row7" class="row_heading level0 row7" >Huang High School</th> 
+        <td id="T_58097140_942d_11e7_9b5f_f48c5097b52frow7_col0" class="data row7 col0" >77.03</td> 
+        <td id="T_58097140_942d_11e7_9b5f_f48c5097b52frow7_col1" class="data row7 col1" >75.91</td> 
+        <td id="T_58097140_942d_11e7_9b5f_f48c5097b52frow7_col2" class="data row7 col2" >76.45</td> 
+        <td id="T_58097140_942d_11e7_9b5f_f48c5097b52frow7_col3" class="data row7 col3" >77.23</td> 
+    </tr>    <tr> 
+        <th id="T_58097140_942d_11e7_9b5f_f48c5097b52flevel0_row8" class="row_heading level0 row8" >Johnson High School</th> 
+        <td id="T_58097140_942d_11e7_9b5f_f48c5097b52frow8_col0" class="data row8 col0" >77.19</td> 
+        <td id="T_58097140_942d_11e7_9b5f_f48c5097b52frow8_col1" class="data row8 col1" >76.69</td> 
+        <td id="T_58097140_942d_11e7_9b5f_f48c5097b52frow8_col2" class="data row8 col2" >77.49</td> 
+        <td id="T_58097140_942d_11e7_9b5f_f48c5097b52frow8_col3" class="data row8 col3" >76.86</td> 
+    </tr>    <tr> 
+        <th id="T_58097140_942d_11e7_9b5f_f48c5097b52flevel0_row9" class="row_heading level0 row9" >Pena High School</th> 
+        <td id="T_58097140_942d_11e7_9b5f_f48c5097b52frow9_col0" class="data row9 col0" >83.63</td> 
+        <td id="T_58097140_942d_11e7_9b5f_f48c5097b52frow9_col1" class="data row9 col1" >83.37</td> 
+        <td id="T_58097140_942d_11e7_9b5f_f48c5097b52frow9_col2" class="data row9 col2" >84.33</td> 
+        <td id="T_58097140_942d_11e7_9b5f_f48c5097b52frow9_col3" class="data row9 col3" >84.12</td> 
+    </tr>    <tr> 
+        <th id="T_58097140_942d_11e7_9b5f_f48c5097b52flevel0_row10" class="row_heading level0 row10" >Rodriguez High School</th> 
+        <td id="T_58097140_942d_11e7_9b5f_f48c5097b52frow10_col0" class="data row10 col0" >76.86</td> 
+        <td id="T_58097140_942d_11e7_9b5f_f48c5097b52frow10_col1" class="data row10 col1" >76.61</td> 
+        <td id="T_58097140_942d_11e7_9b5f_f48c5097b52frow10_col2" class="data row10 col2" >76.40</td> 
+        <td id="T_58097140_942d_11e7_9b5f_f48c5097b52frow10_col3" class="data row10 col3" >77.69</td> 
+    </tr>    <tr> 
+        <th id="T_58097140_942d_11e7_9b5f_f48c5097b52flevel0_row11" class="row_heading level0 row11" >Shelton High School</th> 
+        <td id="T_58097140_942d_11e7_9b5f_f48c5097b52frow11_col0" class="data row11 col0" >83.42</td> 
+        <td id="T_58097140_942d_11e7_9b5f_f48c5097b52frow11_col1" class="data row11 col1" >82.92</td> 
+        <td id="T_58097140_942d_11e7_9b5f_f48c5097b52frow11_col2" class="data row11 col2" >83.38</td> 
+        <td id="T_58097140_942d_11e7_9b5f_f48c5097b52frow11_col3" class="data row11 col3" >83.78</td> 
+    </tr>    <tr> 
+        <th id="T_58097140_942d_11e7_9b5f_f48c5097b52flevel0_row12" class="row_heading level0 row12" >Thomas High School</th> 
+        <td id="T_58097140_942d_11e7_9b5f_f48c5097b52frow12_col0" class="data row12 col0" >83.59</td> 
+        <td id="T_58097140_942d_11e7_9b5f_f48c5097b52frow12_col1" class="data row12 col1" >83.09</td> 
+        <td id="T_58097140_942d_11e7_9b5f_f48c5097b52frow12_col2" class="data row12 col2" >83.50</td> 
+        <td id="T_58097140_942d_11e7_9b5f_f48c5097b52frow12_col3" class="data row12 col3" >83.50</td> 
+    </tr>    <tr> 
+        <th id="T_58097140_942d_11e7_9b5f_f48c5097b52flevel0_row13" class="row_heading level0 row13" >Wilson High School</th> 
+        <td id="T_58097140_942d_11e7_9b5f_f48c5097b52frow13_col0" class="data row13 col0" >83.09</td> 
+        <td id="T_58097140_942d_11e7_9b5f_f48c5097b52frow13_col1" class="data row13 col1" >83.72</td> 
+        <td id="T_58097140_942d_11e7_9b5f_f48c5097b52frow13_col2" class="data row13 col2" >83.20</td> 
+        <td id="T_58097140_942d_11e7_9b5f_f48c5097b52frow13_col3" class="data row13 col3" >83.04</td> 
+    </tr>    <tr> 
+        <th id="T_58097140_942d_11e7_9b5f_f48c5097b52flevel0_row14" class="row_heading level0 row14" >Wright High School</th> 
+        <td id="T_58097140_942d_11e7_9b5f_f48c5097b52frow14_col0" class="data row14 col0" >83.26</td> 
+        <td id="T_58097140_942d_11e7_9b5f_f48c5097b52frow14_col1" class="data row14 col1" >84.01</td> 
+        <td id="T_58097140_942d_11e7_9b5f_f48c5097b52frow14_col2" class="data row14 col2" >83.84</td> 
+        <td id="T_58097140_942d_11e7_9b5f_f48c5097b52frow14_col3" class="data row14 col3" >83.64</td> 
+    </tr></tbody> 
+</table> 
 
 
 
@@ -2563,562 +635,108 @@ read_gr
 
 
 
-
-        <style  type="text/css" >
-        
-        
-        </style>
-
-        <table id="T_d930767e_930c_11e7_9f9c_b4b6765f9203" None>
-        
-
-        <thead>
-            
-            <tr>
-                
-                
-                <th class="blank level0" >
-                  
-                
-                
-                
-                <th class="col_heading level0 col0" colspan=1>
-                  9th
-                
-                
-                
-                <th class="col_heading level0 col1" colspan=1>
-                  10th
-                
-                
-                
-                <th class="col_heading level0 col2" colspan=1>
-                  11th
-                
-                
-                
-                <th class="col_heading level0 col3" colspan=1>
-                  12th
-                
-                
-            </tr>
-            
-        </thead>
-        <tbody>
-            
-            <tr>
-                
-                
-                <th id="T_d930767e_930c_11e7_9f9c_b4b6765f9203"
-                 class="row_heading level0 row0" rowspan=1>
-                    Bailey High School
-                
-                
-                
-                <td id="T_d930767e_930c_11e7_9f9c_b4b6765f9203row0_col0"
-                 class="data row0 col0" >
-                    81.30
-                
-                
-                
-                <td id="T_d930767e_930c_11e7_9f9c_b4b6765f9203row0_col1"
-                 class="data row0 col1" >
-                    80.91
-                
-                
-                
-                <td id="T_d930767e_930c_11e7_9f9c_b4b6765f9203row0_col2"
-                 class="data row0 col2" >
-                    80.95
-                
-                
-                
-                <td id="T_d930767e_930c_11e7_9f9c_b4b6765f9203row0_col3"
-                 class="data row0 col3" >
-                    80.91
-                
-                
-            </tr>
-            
-            <tr>
-                
-                
-                <th id="T_d930767e_930c_11e7_9f9c_b4b6765f9203"
-                 class="row_heading level0 row1" rowspan=1>
-                    Cabrera High School
-                
-                
-                
-                <td id="T_d930767e_930c_11e7_9f9c_b4b6765f9203row1_col0"
-                 class="data row1 col0" >
-                    83.68
-                
-                
-                
-                <td id="T_d930767e_930c_11e7_9f9c_b4b6765f9203row1_col1"
-                 class="data row1 col1" >
-                    84.25
-                
-                
-                
-                <td id="T_d930767e_930c_11e7_9f9c_b4b6765f9203row1_col2"
-                 class="data row1 col2" >
-                    83.79
-                
-                
-                
-                <td id="T_d930767e_930c_11e7_9f9c_b4b6765f9203row1_col3"
-                 class="data row1 col3" >
-                    84.29
-                
-                
-            </tr>
-            
-            <tr>
-                
-                
-                <th id="T_d930767e_930c_11e7_9f9c_b4b6765f9203"
-                 class="row_heading level0 row2" rowspan=1>
-                    Figueroa High School
-                
-                
-                
-                <td id="T_d930767e_930c_11e7_9f9c_b4b6765f9203row2_col0"
-                 class="data row2 col0" >
-                    81.20
-                
-                
-                
-                <td id="T_d930767e_930c_11e7_9f9c_b4b6765f9203row2_col1"
-                 class="data row2 col1" >
-                    81.41
-                
-                
-                
-                <td id="T_d930767e_930c_11e7_9f9c_b4b6765f9203row2_col2"
-                 class="data row2 col2" >
-                    80.64
-                
-                
-                
-                <td id="T_d930767e_930c_11e7_9f9c_b4b6765f9203row2_col3"
-                 class="data row2 col3" >
-                    81.38
-                
-                
-            </tr>
-            
-            <tr>
-                
-                
-                <th id="T_d930767e_930c_11e7_9f9c_b4b6765f9203"
-                 class="row_heading level0 row3" rowspan=1>
-                    Ford High School
-                
-                
-                
-                <td id="T_d930767e_930c_11e7_9f9c_b4b6765f9203row3_col0"
-                 class="data row3 col0" >
-                    80.63
-                
-                
-                
-                <td id="T_d930767e_930c_11e7_9f9c_b4b6765f9203row3_col1"
-                 class="data row3 col1" >
-                    81.26
-                
-                
-                
-                <td id="T_d930767e_930c_11e7_9f9c_b4b6765f9203row3_col2"
-                 class="data row3 col2" >
-                    80.40
-                
-                
-                
-                <td id="T_d930767e_930c_11e7_9f9c_b4b6765f9203row3_col3"
-                 class="data row3 col3" >
-                    80.66
-                
-                
-            </tr>
-            
-            <tr>
-                
-                
-                <th id="T_d930767e_930c_11e7_9f9c_b4b6765f9203"
-                 class="row_heading level0 row4" rowspan=1>
-                    Griffin High School
-                
-                
-                
-                <td id="T_d930767e_930c_11e7_9f9c_b4b6765f9203row4_col0"
-                 class="data row4 col0" >
-                    83.37
-                
-                
-                
-                <td id="T_d930767e_930c_11e7_9f9c_b4b6765f9203row4_col1"
-                 class="data row4 col1" >
-                    83.71
-                
-                
-                
-                <td id="T_d930767e_930c_11e7_9f9c_b4b6765f9203row4_col2"
-                 class="data row4 col2" >
-                    84.29
-                
-                
-                
-                <td id="T_d930767e_930c_11e7_9f9c_b4b6765f9203row4_col3"
-                 class="data row4 col3" >
-                    84.01
-                
-                
-            </tr>
-            
-            <tr>
-                
-                
-                <th id="T_d930767e_930c_11e7_9f9c_b4b6765f9203"
-                 class="row_heading level0 row5" rowspan=1>
-                    Hernandez High School
-                
-                
-                
-                <td id="T_d930767e_930c_11e7_9f9c_b4b6765f9203row5_col0"
-                 class="data row5 col0" >
-                    80.87
-                
-                
-                
-                <td id="T_d930767e_930c_11e7_9f9c_b4b6765f9203row5_col1"
-                 class="data row5 col1" >
-                    80.66
-                
-                
-                
-                <td id="T_d930767e_930c_11e7_9f9c_b4b6765f9203row5_col2"
-                 class="data row5 col2" >
-                    81.40
-                
-                
-                
-                <td id="T_d930767e_930c_11e7_9f9c_b4b6765f9203row5_col3"
-                 class="data row5 col3" >
-                    80.86
-                
-                
-            </tr>
-            
-            <tr>
-                
-                
-                <th id="T_d930767e_930c_11e7_9f9c_b4b6765f9203"
-                 class="row_heading level0 row6" rowspan=1>
-                    Holden High School
-                
-                
-                
-                <td id="T_d930767e_930c_11e7_9f9c_b4b6765f9203row6_col0"
-                 class="data row6 col0" >
-                    83.68
-                
-                
-                
-                <td id="T_d930767e_930c_11e7_9f9c_b4b6765f9203row6_col1"
-                 class="data row6 col1" >
-                    83.32
-                
-                
-                
-                <td id="T_d930767e_930c_11e7_9f9c_b4b6765f9203row6_col2"
-                 class="data row6 col2" >
-                    83.82
-                
-                
-                
-                <td id="T_d930767e_930c_11e7_9f9c_b4b6765f9203row6_col3"
-                 class="data row6 col3" >
-                    84.70
-                
-                
-            </tr>
-            
-            <tr>
-                
-                
-                <th id="T_d930767e_930c_11e7_9f9c_b4b6765f9203"
-                 class="row_heading level0 row7" rowspan=1>
-                    Huang High School
-                
-                
-                
-                <td id="T_d930767e_930c_11e7_9f9c_b4b6765f9203row7_col0"
-                 class="data row7 col0" >
-                    81.29
-                
-                
-                
-                <td id="T_d930767e_930c_11e7_9f9c_b4b6765f9203row7_col1"
-                 class="data row7 col1" >
-                    81.51
-                
-                
-                
-                <td id="T_d930767e_930c_11e7_9f9c_b4b6765f9203row7_col2"
-                 class="data row7 col2" >
-                    81.42
-                
-                
-                
-                <td id="T_d930767e_930c_11e7_9f9c_b4b6765f9203row7_col3"
-                 class="data row7 col3" >
-                    80.31
-                
-                
-            </tr>
-            
-            <tr>
-                
-                
-                <th id="T_d930767e_930c_11e7_9f9c_b4b6765f9203"
-                 class="row_heading level0 row8" rowspan=1>
-                    Johnson High School
-                
-                
-                
-                <td id="T_d930767e_930c_11e7_9f9c_b4b6765f9203row8_col0"
-                 class="data row8 col0" >
-                    81.26
-                
-                
-                
-                <td id="T_d930767e_930c_11e7_9f9c_b4b6765f9203row8_col1"
-                 class="data row8 col1" >
-                    80.77
-                
-                
-                
-                <td id="T_d930767e_930c_11e7_9f9c_b4b6765f9203row8_col2"
-                 class="data row8 col2" >
-                    80.62
-                
-                
-                
-                <td id="T_d930767e_930c_11e7_9f9c_b4b6765f9203row8_col3"
-                 class="data row8 col3" >
-                    81.23
-                
-                
-            </tr>
-            
-            <tr>
-                
-                
-                <th id="T_d930767e_930c_11e7_9f9c_b4b6765f9203"
-                 class="row_heading level0 row9" rowspan=1>
-                    Pena High School
-                
-                
-                
-                <td id="T_d930767e_930c_11e7_9f9c_b4b6765f9203row9_col0"
-                 class="data row9 col0" >
-                    83.81
-                
-                
-                
-                <td id="T_d930767e_930c_11e7_9f9c_b4b6765f9203row9_col1"
-                 class="data row9 col1" >
-                    83.61
-                
-                
-                
-                <td id="T_d930767e_930c_11e7_9f9c_b4b6765f9203row9_col2"
-                 class="data row9 col2" >
-                    84.34
-                
-                
-                
-                <td id="T_d930767e_930c_11e7_9f9c_b4b6765f9203row9_col3"
-                 class="data row9 col3" >
-                    84.59
-                
-                
-            </tr>
-            
-            <tr>
-                
-                
-                <th id="T_d930767e_930c_11e7_9f9c_b4b6765f9203"
-                 class="row_heading level0 row10" rowspan=1>
-                    Rodriguez High School
-                
-                
-                
-                <td id="T_d930767e_930c_11e7_9f9c_b4b6765f9203row10_col0"
-                 class="data row10 col0" >
-                    80.99
-                
-                
-                
-                <td id="T_d930767e_930c_11e7_9f9c_b4b6765f9203row10_col1"
-                 class="data row10 col1" >
-                    80.63
-                
-                
-                
-                <td id="T_d930767e_930c_11e7_9f9c_b4b6765f9203row10_col2"
-                 class="data row10 col2" >
-                    80.86
-                
-                
-                
-                <td id="T_d930767e_930c_11e7_9f9c_b4b6765f9203row10_col3"
-                 class="data row10 col3" >
-                    80.38
-                
-                
-            </tr>
-            
-            <tr>
-                
-                
-                <th id="T_d930767e_930c_11e7_9f9c_b4b6765f9203"
-                 class="row_heading level0 row11" rowspan=1>
-                    Shelton High School
-                
-                
-                
-                <td id="T_d930767e_930c_11e7_9f9c_b4b6765f9203row11_col0"
-                 class="data row11 col0" >
-                    84.12
-                
-                
-                
-                <td id="T_d930767e_930c_11e7_9f9c_b4b6765f9203row11_col1"
-                 class="data row11 col1" >
-                    83.44
-                
-                
-                
-                <td id="T_d930767e_930c_11e7_9f9c_b4b6765f9203row11_col2"
-                 class="data row11 col2" >
-                    84.37
-                
-                
-                
-                <td id="T_d930767e_930c_11e7_9f9c_b4b6765f9203row11_col3"
-                 class="data row11 col3" >
-                    82.78
-                
-                
-            </tr>
-            
-            <tr>
-                
-                
-                <th id="T_d930767e_930c_11e7_9f9c_b4b6765f9203"
-                 class="row_heading level0 row12" rowspan=1>
-                    Thomas High School
-                
-                
-                
-                <td id="T_d930767e_930c_11e7_9f9c_b4b6765f9203row12_col0"
-                 class="data row12 col0" >
-                    83.73
-                
-                
-                
-                <td id="T_d930767e_930c_11e7_9f9c_b4b6765f9203row12_col1"
-                 class="data row12 col1" >
-                    84.25
-                
-                
-                
-                <td id="T_d930767e_930c_11e7_9f9c_b4b6765f9203row12_col2"
-                 class="data row12 col2" >
-                    83.59
-                
-                
-                
-                <td id="T_d930767e_930c_11e7_9f9c_b4b6765f9203row12_col3"
-                 class="data row12 col3" >
-                    83.83
-                
-                
-            </tr>
-            
-            <tr>
-                
-                
-                <th id="T_d930767e_930c_11e7_9f9c_b4b6765f9203"
-                 class="row_heading level0 row13" rowspan=1>
-                    Wilson High School
-                
-                
-                
-                <td id="T_d930767e_930c_11e7_9f9c_b4b6765f9203row13_col0"
-                 class="data row13 col0" >
-                    83.94
-                
-                
-                
-                <td id="T_d930767e_930c_11e7_9f9c_b4b6765f9203row13_col1"
-                 class="data row13 col1" >
-                    84.02
-                
-                
-                
-                <td id="T_d930767e_930c_11e7_9f9c_b4b6765f9203row13_col2"
-                 class="data row13 col2" >
-                    83.76
-                
-                
-                
-                <td id="T_d930767e_930c_11e7_9f9c_b4b6765f9203row13_col3"
-                 class="data row13 col3" >
-                    84.32
-                
-                
-            </tr>
-            
-            <tr>
-                
-                
-                <th id="T_d930767e_930c_11e7_9f9c_b4b6765f9203"
-                 class="row_heading level0 row14" rowspan=1>
-                    Wright High School
-                
-                
-                
-                <td id="T_d930767e_930c_11e7_9f9c_b4b6765f9203row14_col0"
-                 class="data row14 col0" >
-                    83.83
-                
-                
-                
-                <td id="T_d930767e_930c_11e7_9f9c_b4b6765f9203row14_col1"
-                 class="data row14 col1" >
-                    83.81
-                
-                
-                
-                <td id="T_d930767e_930c_11e7_9f9c_b4b6765f9203row14_col2"
-                 class="data row14 col2" >
-                    84.16
-                
-                
-                
-                <td id="T_d930767e_930c_11e7_9f9c_b4b6765f9203row14_col3"
-                 class="data row14 col3" >
-                    84.07
-                
-                
-            </tr>
-            
-        </tbody>
-        </table>
-        
+<style  type="text/css" >
+</style>  
+<table id="T_581a5d5a_942d_11e7_9093_f48c5097b52f" > 
+<thead>    <tr> 
+        <th class="blank level0" ></th> 
+        <th class="col_heading level0 col0" >9th</th> 
+        <th class="col_heading level0 col1" >10th</th> 
+        <th class="col_heading level0 col2" >11th</th> 
+        <th class="col_heading level0 col3" >12th</th> 
+    </tr></thead> 
+<tbody>    <tr> 
+        <th id="T_581a5d5a_942d_11e7_9093_f48c5097b52flevel0_row0" class="row_heading level0 row0" >Bailey High School</th> 
+        <td id="T_581a5d5a_942d_11e7_9093_f48c5097b52frow0_col0" class="data row0 col0" >81.30</td> 
+        <td id="T_581a5d5a_942d_11e7_9093_f48c5097b52frow0_col1" class="data row0 col1" >80.91</td> 
+        <td id="T_581a5d5a_942d_11e7_9093_f48c5097b52frow0_col2" class="data row0 col2" >80.95</td> 
+        <td id="T_581a5d5a_942d_11e7_9093_f48c5097b52frow0_col3" class="data row0 col3" >80.91</td> 
+    </tr>    <tr> 
+        <th id="T_581a5d5a_942d_11e7_9093_f48c5097b52flevel0_row1" class="row_heading level0 row1" >Cabrera High School</th> 
+        <td id="T_581a5d5a_942d_11e7_9093_f48c5097b52frow1_col0" class="data row1 col0" >83.68</td> 
+        <td id="T_581a5d5a_942d_11e7_9093_f48c5097b52frow1_col1" class="data row1 col1" >84.25</td> 
+        <td id="T_581a5d5a_942d_11e7_9093_f48c5097b52frow1_col2" class="data row1 col2" >83.79</td> 
+        <td id="T_581a5d5a_942d_11e7_9093_f48c5097b52frow1_col3" class="data row1 col3" >84.29</td> 
+    </tr>    <tr> 
+        <th id="T_581a5d5a_942d_11e7_9093_f48c5097b52flevel0_row2" class="row_heading level0 row2" >Figueroa High School</th> 
+        <td id="T_581a5d5a_942d_11e7_9093_f48c5097b52frow2_col0" class="data row2 col0" >81.20</td> 
+        <td id="T_581a5d5a_942d_11e7_9093_f48c5097b52frow2_col1" class="data row2 col1" >81.41</td> 
+        <td id="T_581a5d5a_942d_11e7_9093_f48c5097b52frow2_col2" class="data row2 col2" >80.64</td> 
+        <td id="T_581a5d5a_942d_11e7_9093_f48c5097b52frow2_col3" class="data row2 col3" >81.38</td> 
+    </tr>    <tr> 
+        <th id="T_581a5d5a_942d_11e7_9093_f48c5097b52flevel0_row3" class="row_heading level0 row3" >Ford High School</th> 
+        <td id="T_581a5d5a_942d_11e7_9093_f48c5097b52frow3_col0" class="data row3 col0" >80.63</td> 
+        <td id="T_581a5d5a_942d_11e7_9093_f48c5097b52frow3_col1" class="data row3 col1" >81.26</td> 
+        <td id="T_581a5d5a_942d_11e7_9093_f48c5097b52frow3_col2" class="data row3 col2" >80.40</td> 
+        <td id="T_581a5d5a_942d_11e7_9093_f48c5097b52frow3_col3" class="data row3 col3" >80.66</td> 
+    </tr>    <tr> 
+        <th id="T_581a5d5a_942d_11e7_9093_f48c5097b52flevel0_row4" class="row_heading level0 row4" >Griffin High School</th> 
+        <td id="T_581a5d5a_942d_11e7_9093_f48c5097b52frow4_col0" class="data row4 col0" >83.37</td> 
+        <td id="T_581a5d5a_942d_11e7_9093_f48c5097b52frow4_col1" class="data row4 col1" >83.71</td> 
+        <td id="T_581a5d5a_942d_11e7_9093_f48c5097b52frow4_col2" class="data row4 col2" >84.29</td> 
+        <td id="T_581a5d5a_942d_11e7_9093_f48c5097b52frow4_col3" class="data row4 col3" >84.01</td> 
+    </tr>    <tr> 
+        <th id="T_581a5d5a_942d_11e7_9093_f48c5097b52flevel0_row5" class="row_heading level0 row5" >Hernandez High School</th> 
+        <td id="T_581a5d5a_942d_11e7_9093_f48c5097b52frow5_col0" class="data row5 col0" >80.87</td> 
+        <td id="T_581a5d5a_942d_11e7_9093_f48c5097b52frow5_col1" class="data row5 col1" >80.66</td> 
+        <td id="T_581a5d5a_942d_11e7_9093_f48c5097b52frow5_col2" class="data row5 col2" >81.40</td> 
+        <td id="T_581a5d5a_942d_11e7_9093_f48c5097b52frow5_col3" class="data row5 col3" >80.86</td> 
+    </tr>    <tr> 
+        <th id="T_581a5d5a_942d_11e7_9093_f48c5097b52flevel0_row6" class="row_heading level0 row6" >Holden High School</th> 
+        <td id="T_581a5d5a_942d_11e7_9093_f48c5097b52frow6_col0" class="data row6 col0" >83.68</td> 
+        <td id="T_581a5d5a_942d_11e7_9093_f48c5097b52frow6_col1" class="data row6 col1" >83.32</td> 
+        <td id="T_581a5d5a_942d_11e7_9093_f48c5097b52frow6_col2" class="data row6 col2" >83.82</td> 
+        <td id="T_581a5d5a_942d_11e7_9093_f48c5097b52frow6_col3" class="data row6 col3" >84.70</td> 
+    </tr>    <tr> 
+        <th id="T_581a5d5a_942d_11e7_9093_f48c5097b52flevel0_row7" class="row_heading level0 row7" >Huang High School</th> 
+        <td id="T_581a5d5a_942d_11e7_9093_f48c5097b52frow7_col0" class="data row7 col0" >81.29</td> 
+        <td id="T_581a5d5a_942d_11e7_9093_f48c5097b52frow7_col1" class="data row7 col1" >81.51</td> 
+        <td id="T_581a5d5a_942d_11e7_9093_f48c5097b52frow7_col2" class="data row7 col2" >81.42</td> 
+        <td id="T_581a5d5a_942d_11e7_9093_f48c5097b52frow7_col3" class="data row7 col3" >80.31</td> 
+    </tr>    <tr> 
+        <th id="T_581a5d5a_942d_11e7_9093_f48c5097b52flevel0_row8" class="row_heading level0 row8" >Johnson High School</th> 
+        <td id="T_581a5d5a_942d_11e7_9093_f48c5097b52frow8_col0" class="data row8 col0" >81.26</td> 
+        <td id="T_581a5d5a_942d_11e7_9093_f48c5097b52frow8_col1" class="data row8 col1" >80.77</td> 
+        <td id="T_581a5d5a_942d_11e7_9093_f48c5097b52frow8_col2" class="data row8 col2" >80.62</td> 
+        <td id="T_581a5d5a_942d_11e7_9093_f48c5097b52frow8_col3" class="data row8 col3" >81.23</td> 
+    </tr>    <tr> 
+        <th id="T_581a5d5a_942d_11e7_9093_f48c5097b52flevel0_row9" class="row_heading level0 row9" >Pena High School</th> 
+        <td id="T_581a5d5a_942d_11e7_9093_f48c5097b52frow9_col0" class="data row9 col0" >83.81</td> 
+        <td id="T_581a5d5a_942d_11e7_9093_f48c5097b52frow9_col1" class="data row9 col1" >83.61</td> 
+        <td id="T_581a5d5a_942d_11e7_9093_f48c5097b52frow9_col2" class="data row9 col2" >84.34</td> 
+        <td id="T_581a5d5a_942d_11e7_9093_f48c5097b52frow9_col3" class="data row9 col3" >84.59</td> 
+    </tr>    <tr> 
+        <th id="T_581a5d5a_942d_11e7_9093_f48c5097b52flevel0_row10" class="row_heading level0 row10" >Rodriguez High School</th> 
+        <td id="T_581a5d5a_942d_11e7_9093_f48c5097b52frow10_col0" class="data row10 col0" >80.99</td> 
+        <td id="T_581a5d5a_942d_11e7_9093_f48c5097b52frow10_col1" class="data row10 col1" >80.63</td> 
+        <td id="T_581a5d5a_942d_11e7_9093_f48c5097b52frow10_col2" class="data row10 col2" >80.86</td> 
+        <td id="T_581a5d5a_942d_11e7_9093_f48c5097b52frow10_col3" class="data row10 col3" >80.38</td> 
+    </tr>    <tr> 
+        <th id="T_581a5d5a_942d_11e7_9093_f48c5097b52flevel0_row11" class="row_heading level0 row11" >Shelton High School</th> 
+        <td id="T_581a5d5a_942d_11e7_9093_f48c5097b52frow11_col0" class="data row11 col0" >84.12</td> 
+        <td id="T_581a5d5a_942d_11e7_9093_f48c5097b52frow11_col1" class="data row11 col1" >83.44</td> 
+        <td id="T_581a5d5a_942d_11e7_9093_f48c5097b52frow11_col2" class="data row11 col2" >84.37</td> 
+        <td id="T_581a5d5a_942d_11e7_9093_f48c5097b52frow11_col3" class="data row11 col3" >82.78</td> 
+    </tr>    <tr> 
+        <th id="T_581a5d5a_942d_11e7_9093_f48c5097b52flevel0_row12" class="row_heading level0 row12" >Thomas High School</th> 
+        <td id="T_581a5d5a_942d_11e7_9093_f48c5097b52frow12_col0" class="data row12 col0" >83.73</td> 
+        <td id="T_581a5d5a_942d_11e7_9093_f48c5097b52frow12_col1" class="data row12 col1" >84.25</td> 
+        <td id="T_581a5d5a_942d_11e7_9093_f48c5097b52frow12_col2" class="data row12 col2" >83.59</td> 
+        <td id="T_581a5d5a_942d_11e7_9093_f48c5097b52frow12_col3" class="data row12 col3" >83.83</td> 
+    </tr>    <tr> 
+        <th id="T_581a5d5a_942d_11e7_9093_f48c5097b52flevel0_row13" class="row_heading level0 row13" >Wilson High School</th> 
+        <td id="T_581a5d5a_942d_11e7_9093_f48c5097b52frow13_col0" class="data row13 col0" >83.94</td> 
+        <td id="T_581a5d5a_942d_11e7_9093_f48c5097b52frow13_col1" class="data row13 col1" >84.02</td> 
+        <td id="T_581a5d5a_942d_11e7_9093_f48c5097b52frow13_col2" class="data row13 col2" >83.76</td> 
+        <td id="T_581a5d5a_942d_11e7_9093_f48c5097b52frow13_col3" class="data row13 col3" >84.32</td> 
+    </tr>    <tr> 
+        <th id="T_581a5d5a_942d_11e7_9093_f48c5097b52flevel0_row14" class="row_heading level0 row14" >Wright High School</th> 
+        <td id="T_581a5d5a_942d_11e7_9093_f48c5097b52frow14_col0" class="data row14 col0" >83.83</td> 
+        <td id="T_581a5d5a_942d_11e7_9093_f48c5097b52frow14_col1" class="data row14 col1" >83.81</td> 
+        <td id="T_581a5d5a_942d_11e7_9093_f48c5097b52frow14_col2" class="data row14 col2" >84.16</td> 
+        <td id="T_581a5d5a_942d_11e7_9093_f48c5097b52frow14_col3" class="data row14 col3" >84.07</td> 
+    </tr></tbody> 
+</table> 
 
 
 
@@ -3147,251 +765,54 @@ sss_new
 
 
 
-
-        <style  type="text/css" >
-        
-        
-        </style>
-
-        <table id="T_d93c364c_930c_11e7_be6f_b4b6765f9203" None>
-        
-
-        <thead>
-            
-            <tr>
-                
-                
-                <th class="blank level0" >
-                  
-                
-                
-                
-                <th class="col_heading level0 col0" colspan=1>
-                  Average Math Score
-                
-                
-                
-                <th class="col_heading level0 col1" colspan=1>
-                  Average Reading Score
-                
-                
-                
-                <th class="col_heading level0 col2" colspan=1>
-                  % Passing Math
-                
-                
-                
-                <th class="col_heading level0 col3" colspan=1>
-                  % Passing Reading
-                
-                
-                
-                <th class="col_heading level0 col4" colspan=1>
-                  % Overall Passing Rate
-                
-                
-            </tr>
-            
-            <tr>
-                
-                
-                <th class="index_name level0" >
-                  Spending Ranges (Per Student)
-                
-                
-                
-                <th class="blank" >
-                  
-                
-                
-                
-                <th class="blank" >
-                  
-                
-                
-                
-                <th class="blank" >
-                  
-                
-                
-                
-                <th class="blank" >
-                  
-                
-                
-                
-                <th class="blank" >
-                  
-                
-                
-            </tr>
-            
-        </thead>
-        <tbody>
-            
-            <tr>
-                
-                
-                <th id="T_d93c364c_930c_11e7_be6f_b4b6765f9203"
-                 class="row_heading level0 row0" rowspan=1>
-                    <$585
-                
-                
-                
-                <td id="T_d93c364c_930c_11e7_be6f_b4b6765f9203row0_col0"
-                 class="data row0 col0" >
-                    83.46
-                
-                
-                
-                <td id="T_d93c364c_930c_11e7_be6f_b4b6765f9203row0_col1"
-                 class="data row0 col1" >
-                    83.93
-                
-                
-                
-                <td id="T_d93c364c_930c_11e7_be6f_b4b6765f9203row0_col2"
-                 class="data row0 col2" >
-                    93.46%
-                
-                
-                
-                <td id="T_d93c364c_930c_11e7_be6f_b4b6765f9203row0_col3"
-                 class="data row0 col3" >
-                    96.61%
-                
-                
-                
-                <td id="T_d93c364c_930c_11e7_be6f_b4b6765f9203row0_col4"
-                 class="data row0 col4" >
-                    95.04%
-                
-                
-            </tr>
-            
-            <tr>
-                
-                
-                <th id="T_d93c364c_930c_11e7_be6f_b4b6765f9203"
-                 class="row_heading level0 row1" rowspan=1>
-                    $585-615
-                
-                
-                
-                <td id="T_d93c364c_930c_11e7_be6f_b4b6765f9203row1_col0"
-                 class="data row1 col0" >
-                    83.60
-                
-                
-                
-                <td id="T_d93c364c_930c_11e7_be6f_b4b6765f9203row1_col1"
-                 class="data row1 col1" >
-                    83.89
-                
-                
-                
-                <td id="T_d93c364c_930c_11e7_be6f_b4b6765f9203row1_col2"
-                 class="data row1 col2" >
-                    94.23%
-                
-                
-                
-                <td id="T_d93c364c_930c_11e7_be6f_b4b6765f9203row1_col3"
-                 class="data row1 col3" >
-                    95.90%
-                
-                
-                
-                <td id="T_d93c364c_930c_11e7_be6f_b4b6765f9203row1_col4"
-                 class="data row1 col4" >
-                    95.07%
-                
-                
-            </tr>
-            
-            <tr>
-                
-                
-                <th id="T_d93c364c_930c_11e7_be6f_b4b6765f9203"
-                 class="row_heading level0 row2" rowspan=1>
-                    $615-645
-                
-                
-                
-                <td id="T_d93c364c_930c_11e7_be6f_b4b6765f9203row2_col0"
-                 class="data row2 col0" >
-                    79.08
-                
-                
-                
-                <td id="T_d93c364c_930c_11e7_be6f_b4b6765f9203row2_col1"
-                 class="data row2 col1" >
-                    81.89
-                
-                
-                
-                <td id="T_d93c364c_930c_11e7_be6f_b4b6765f9203row2_col2"
-                 class="data row2 col2" >
-                    75.67%
-                
-                
-                
-                <td id="T_d93c364c_930c_11e7_be6f_b4b6765f9203row2_col3"
-                 class="data row2 col3" >
-                    86.11%
-                
-                
-                
-                <td id="T_d93c364c_930c_11e7_be6f_b4b6765f9203row2_col4"
-                 class="data row2 col4" >
-                    80.89%
-                
-                
-            </tr>
-            
-            <tr>
-                
-                
-                <th id="T_d93c364c_930c_11e7_be6f_b4b6765f9203"
-                 class="row_heading level0 row3" rowspan=1>
-                    $645-675
-                
-                
-                
-                <td id="T_d93c364c_930c_11e7_be6f_b4b6765f9203row3_col0"
-                 class="data row3 col0" >
-                    77.00
-                
-                
-                
-                <td id="T_d93c364c_930c_11e7_be6f_b4b6765f9203row3_col1"
-                 class="data row3 col1" >
-                    81.03
-                
-                
-                
-                <td id="T_d93c364c_930c_11e7_be6f_b4b6765f9203row3_col2"
-                 class="data row3 col2" >
-                    66.16%
-                
-                
-                
-                <td id="T_d93c364c_930c_11e7_be6f_b4b6765f9203row3_col3"
-                 class="data row3 col3" >
-                    81.13%
-                
-                
-                
-                <td id="T_d93c364c_930c_11e7_be6f_b4b6765f9203row3_col4"
-                 class="data row3 col4" >
-                    73.65%
-                
-                
-            </tr>
-            
-        </tbody>
-        </table>
-        
+<style  type="text/css" >
+</style>  
+<table id="T_5822796e_942d_11e7_940f_f48c5097b52f" > 
+<thead>    <tr> 
+        <th class="blank level0" ></th> 
+        <th class="col_heading level0 col0" >Average Math Score</th> 
+        <th class="col_heading level0 col1" >Average Reading Score</th> 
+        <th class="col_heading level0 col2" >% Passing Math</th> 
+        <th class="col_heading level0 col3" >% Passing Reading</th> 
+        <th class="col_heading level0 col4" >% Overall Passing Rate</th> 
+    </tr>    <tr> 
+        <th class="index_name level0" >Spending Ranges (Per Student)</th> 
+        <th class="blank" ></th> 
+        <th class="blank" ></th> 
+        <th class="blank" ></th> 
+        <th class="blank" ></th> 
+        <th class="blank" ></th> 
+    </tr></thead> 
+<tbody>    <tr> 
+        <th id="T_5822796e_942d_11e7_940f_f48c5097b52flevel0_row0" class="row_heading level0 row0" ><$585</th> 
+        <td id="T_5822796e_942d_11e7_940f_f48c5097b52frow0_col0" class="data row0 col0" >83.46</td> 
+        <td id="T_5822796e_942d_11e7_940f_f48c5097b52frow0_col1" class="data row0 col1" >83.93</td> 
+        <td id="T_5822796e_942d_11e7_940f_f48c5097b52frow0_col2" class="data row0 col2" >93.46%</td> 
+        <td id="T_5822796e_942d_11e7_940f_f48c5097b52frow0_col3" class="data row0 col3" >96.61%</td> 
+        <td id="T_5822796e_942d_11e7_940f_f48c5097b52frow0_col4" class="data row0 col4" >95.04%</td> 
+    </tr>    <tr> 
+        <th id="T_5822796e_942d_11e7_940f_f48c5097b52flevel0_row1" class="row_heading level0 row1" >$585-615</th> 
+        <td id="T_5822796e_942d_11e7_940f_f48c5097b52frow1_col0" class="data row1 col0" >83.60</td> 
+        <td id="T_5822796e_942d_11e7_940f_f48c5097b52frow1_col1" class="data row1 col1" >83.89</td> 
+        <td id="T_5822796e_942d_11e7_940f_f48c5097b52frow1_col2" class="data row1 col2" >94.23%</td> 
+        <td id="T_5822796e_942d_11e7_940f_f48c5097b52frow1_col3" class="data row1 col3" >95.90%</td> 
+        <td id="T_5822796e_942d_11e7_940f_f48c5097b52frow1_col4" class="data row1 col4" >95.07%</td> 
+    </tr>    <tr> 
+        <th id="T_5822796e_942d_11e7_940f_f48c5097b52flevel0_row2" class="row_heading level0 row2" >$615-645</th> 
+        <td id="T_5822796e_942d_11e7_940f_f48c5097b52frow2_col0" class="data row2 col0" >79.08</td> 
+        <td id="T_5822796e_942d_11e7_940f_f48c5097b52frow2_col1" class="data row2 col1" >81.89</td> 
+        <td id="T_5822796e_942d_11e7_940f_f48c5097b52frow2_col2" class="data row2 col2" >75.67%</td> 
+        <td id="T_5822796e_942d_11e7_940f_f48c5097b52frow2_col3" class="data row2 col3" >86.11%</td> 
+        <td id="T_5822796e_942d_11e7_940f_f48c5097b52frow2_col4" class="data row2 col4" >80.89%</td> 
+    </tr>    <tr> 
+        <th id="T_5822796e_942d_11e7_940f_f48c5097b52flevel0_row3" class="row_heading level0 row3" >$645-675</th> 
+        <td id="T_5822796e_942d_11e7_940f_f48c5097b52frow3_col0" class="data row3 col0" >77.00</td> 
+        <td id="T_5822796e_942d_11e7_940f_f48c5097b52frow3_col1" class="data row3 col1" >81.03</td> 
+        <td id="T_5822796e_942d_11e7_940f_f48c5097b52frow3_col2" class="data row3 col2" >66.16%</td> 
+        <td id="T_5822796e_942d_11e7_940f_f48c5097b52frow3_col3" class="data row3 col3" >81.13%</td> 
+        <td id="T_5822796e_942d_11e7_940f_f48c5097b52frow3_col4" class="data row3 col4" >73.65%</td> 
+    </tr></tbody> 
+</table> 
 
 
 
@@ -3419,211 +840,47 @@ ssz_new
 
 
 
-
-        <style  type="text/css" >
-        
-        
-        </style>
-
-        <table id="T_d946e4ae_930c_11e7_ae1e_b4b6765f9203" None>
-        
-
-        <thead>
-            
-            <tr>
-                
-                
-                <th class="blank level0" >
-                  
-                
-                
-                
-                <th class="col_heading level0 col0" colspan=1>
-                  Average Math Score
-                
-                
-                
-                <th class="col_heading level0 col1" colspan=1>
-                  Average Reading Score
-                
-                
-                
-                <th class="col_heading level0 col2" colspan=1>
-                  % Passing Math
-                
-                
-                
-                <th class="col_heading level0 col3" colspan=1>
-                  % Passing Reading
-                
-                
-                
-                <th class="col_heading level0 col4" colspan=1>
-                  % Overall Passing Rate
-                
-                
-            </tr>
-            
-            <tr>
-                
-                
-                <th class="index_name level0" >
-                  School Size
-                
-                
-                
-                <th class="blank" >
-                  
-                
-                
-                
-                <th class="blank" >
-                  
-                
-                
-                
-                <th class="blank" >
-                  
-                
-                
-                
-                <th class="blank" >
-                  
-                
-                
-                
-                <th class="blank" >
-                  
-                
-                
-            </tr>
-            
-        </thead>
-        <tbody>
-            
-            <tr>
-                
-                
-                <th id="T_d946e4ae_930c_11e7_ae1e_b4b6765f9203"
-                 class="row_heading level0 row0" rowspan=1>
-                    Small (<1000)
-                
-                
-                
-                <td id="T_d946e4ae_930c_11e7_ae1e_b4b6765f9203row0_col0"
-                 class="data row0 col0" >
-                    83.82
-                
-                
-                
-                <td id="T_d946e4ae_930c_11e7_ae1e_b4b6765f9203row0_col1"
-                 class="data row0 col1" >
-                    83.93
-                
-                
-                
-                <td id="T_d946e4ae_930c_11e7_ae1e_b4b6765f9203row0_col2"
-                 class="data row0 col2" >
-                    93.55%
-                
-                
-                
-                <td id="T_d946e4ae_930c_11e7_ae1e_b4b6765f9203row0_col3"
-                 class="data row0 col3" >
-                    96.10%
-                
-                
-                
-                <td id="T_d946e4ae_930c_11e7_ae1e_b4b6765f9203row0_col4"
-                 class="data row0 col4" >
-                    94.82%
-                
-                
-            </tr>
-            
-            <tr>
-                
-                
-                <th id="T_d946e4ae_930c_11e7_ae1e_b4b6765f9203"
-                 class="row_heading level0 row1" rowspan=1>
-                    Medium (1000-2000)
-                
-                
-                
-                <td id="T_d946e4ae_930c_11e7_ae1e_b4b6765f9203row1_col0"
-                 class="data row1 col0" >
-                    83.37
-                
-                
-                
-                <td id="T_d946e4ae_930c_11e7_ae1e_b4b6765f9203row1_col1"
-                 class="data row1 col1" >
-                    83.86
-                
-                
-                
-                <td id="T_d946e4ae_930c_11e7_ae1e_b4b6765f9203row1_col2"
-                 class="data row1 col2" >
-                    93.60%
-                
-                
-                
-                <td id="T_d946e4ae_930c_11e7_ae1e_b4b6765f9203row1_col3"
-                 class="data row1 col3" >
-                    96.79%
-                
-                
-                
-                <td id="T_d946e4ae_930c_11e7_ae1e_b4b6765f9203row1_col4"
-                 class="data row1 col4" >
-                    95.20%
-                
-                
-            </tr>
-            
-            <tr>
-                
-                
-                <th id="T_d946e4ae_930c_11e7_ae1e_b4b6765f9203"
-                 class="row_heading level0 row2" rowspan=1>
-                    Large (2000-5000)
-                
-                
-                
-                <td id="T_d946e4ae_930c_11e7_ae1e_b4b6765f9203row2_col0"
-                 class="data row2 col0" >
-                    77.75
-                
-                
-                
-                <td id="T_d946e4ae_930c_11e7_ae1e_b4b6765f9203row2_col1"
-                 class="data row2 col1" >
-                    81.34
-                
-                
-                
-                <td id="T_d946e4ae_930c_11e7_ae1e_b4b6765f9203row2_col2"
-                 class="data row2 col2" >
-                    69.96%
-                
-                
-                
-                <td id="T_d946e4ae_930c_11e7_ae1e_b4b6765f9203row2_col3"
-                 class="data row2 col3" >
-                    82.77%
-                
-                
-                
-                <td id="T_d946e4ae_930c_11e7_ae1e_b4b6765f9203row2_col4"
-                 class="data row2 col4" >
-                    76.36%
-                
-                
-            </tr>
-            
-        </tbody>
-        </table>
-        
+<style  type="text/css" >
+</style>  
+<table id="T_582b8106_942d_11e7_8ba3_f48c5097b52f" > 
+<thead>    <tr> 
+        <th class="blank level0" ></th> 
+        <th class="col_heading level0 col0" >Average Math Score</th> 
+        <th class="col_heading level0 col1" >Average Reading Score</th> 
+        <th class="col_heading level0 col2" >% Passing Math</th> 
+        <th class="col_heading level0 col3" >% Passing Reading</th> 
+        <th class="col_heading level0 col4" >% Overall Passing Rate</th> 
+    </tr>    <tr> 
+        <th class="index_name level0" >School Size</th> 
+        <th class="blank" ></th> 
+        <th class="blank" ></th> 
+        <th class="blank" ></th> 
+        <th class="blank" ></th> 
+        <th class="blank" ></th> 
+    </tr></thead> 
+<tbody>    <tr> 
+        <th id="T_582b8106_942d_11e7_8ba3_f48c5097b52flevel0_row0" class="row_heading level0 row0" >Small (<1000)</th> 
+        <td id="T_582b8106_942d_11e7_8ba3_f48c5097b52frow0_col0" class="data row0 col0" >83.82</td> 
+        <td id="T_582b8106_942d_11e7_8ba3_f48c5097b52frow0_col1" class="data row0 col1" >83.93</td> 
+        <td id="T_582b8106_942d_11e7_8ba3_f48c5097b52frow0_col2" class="data row0 col2" >93.55%</td> 
+        <td id="T_582b8106_942d_11e7_8ba3_f48c5097b52frow0_col3" class="data row0 col3" >96.10%</td> 
+        <td id="T_582b8106_942d_11e7_8ba3_f48c5097b52frow0_col4" class="data row0 col4" >94.82%</td> 
+    </tr>    <tr> 
+        <th id="T_582b8106_942d_11e7_8ba3_f48c5097b52flevel0_row1" class="row_heading level0 row1" >Medium (1000-2000)</th> 
+        <td id="T_582b8106_942d_11e7_8ba3_f48c5097b52frow1_col0" class="data row1 col0" >83.37</td> 
+        <td id="T_582b8106_942d_11e7_8ba3_f48c5097b52frow1_col1" class="data row1 col1" >83.86</td> 
+        <td id="T_582b8106_942d_11e7_8ba3_f48c5097b52frow1_col2" class="data row1 col2" >93.60%</td> 
+        <td id="T_582b8106_942d_11e7_8ba3_f48c5097b52frow1_col3" class="data row1 col3" >96.79%</td> 
+        <td id="T_582b8106_942d_11e7_8ba3_f48c5097b52frow1_col4" class="data row1 col4" >95.20%</td> 
+    </tr>    <tr> 
+        <th id="T_582b8106_942d_11e7_8ba3_f48c5097b52flevel0_row2" class="row_heading level0 row2" >Large (2000-5000)</th> 
+        <td id="T_582b8106_942d_11e7_8ba3_f48c5097b52frow2_col0" class="data row2 col0" >77.75</td> 
+        <td id="T_582b8106_942d_11e7_8ba3_f48c5097b52frow2_col1" class="data row2 col1" >81.34</td> 
+        <td id="T_582b8106_942d_11e7_8ba3_f48c5097b52frow2_col2" class="data row2 col2" >69.96%</td> 
+        <td id="T_582b8106_942d_11e7_8ba3_f48c5097b52frow2_col3" class="data row2 col3" >82.77%</td> 
+        <td id="T_582b8106_942d_11e7_8ba3_f48c5097b52frow2_col4" class="data row2 col4" >76.36%</td> 
+    </tr></tbody> 
+</table> 
 
 
 
@@ -3644,171 +901,40 @@ sst_new
 
 
 
-
-        <style  type="text/css" >
-        
-        
-        </style>
-
-        <table id="T_d94b517e_930c_11e7_9973_b4b6765f9203" None>
-        
-
-        <thead>
-            
-            <tr>
-                
-                
-                <th class="blank level0" >
-                  
-                
-                
-                
-                <th class="col_heading level0 col0" colspan=1>
-                  Average Math Score
-                
-                
-                
-                <th class="col_heading level0 col1" colspan=1>
-                  Average Reading Score
-                
-                
-                
-                <th class="col_heading level0 col2" colspan=1>
-                  % Passing Math
-                
-                
-                
-                <th class="col_heading level0 col3" colspan=1>
-                  % Passing Reading
-                
-                
-                
-                <th class="col_heading level0 col4" colspan=1>
-                  % Overall Passing Rate
-                
-                
-            </tr>
-            
-            <tr>
-                
-                
-                <th class="index_name level0" >
-                  School Type
-                
-                
-                
-                <th class="blank" >
-                  
-                
-                
-                
-                <th class="blank" >
-                  
-                
-                
-                
-                <th class="blank" >
-                  
-                
-                
-                
-                <th class="blank" >
-                  
-                
-                
-                
-                <th class="blank" >
-                  
-                
-                
-            </tr>
-            
-        </thead>
-        <tbody>
-            
-            <tr>
-                
-                
-                <th id="T_d94b517e_930c_11e7_9973_b4b6765f9203"
-                 class="row_heading level0 row0" rowspan=1>
-                    Charter
-                
-                
-                
-                <td id="T_d94b517e_930c_11e7_9973_b4b6765f9203row0_col0"
-                 class="data row0 col0" >
-                    83.47
-                
-                
-                
-                <td id="T_d94b517e_930c_11e7_9973_b4b6765f9203row0_col1"
-                 class="data row0 col1" >
-                    83.90
-                
-                
-                
-                <td id="T_d94b517e_930c_11e7_9973_b4b6765f9203row0_col2"
-                 class="data row0 col2" >
-                    93.62%
-                
-                
-                
-                <td id="T_d94b517e_930c_11e7_9973_b4b6765f9203row0_col3"
-                 class="data row0 col3" >
-                    96.5865
-                
-                
-                
-                <td id="T_d94b517e_930c_11e7_9973_b4b6765f9203row0_col4"
-                 class="data row0 col4" >
-                    95.10%
-                
-                
-            </tr>
-            
-            <tr>
-                
-                
-                <th id="T_d94b517e_930c_11e7_9973_b4b6765f9203"
-                 class="row_heading level0 row1" rowspan=1>
-                    District
-                
-                
-                
-                <td id="T_d94b517e_930c_11e7_9973_b4b6765f9203row1_col0"
-                 class="data row1 col0" >
-                    76.96
-                
-                
-                
-                <td id="T_d94b517e_930c_11e7_9973_b4b6765f9203row1_col1"
-                 class="data row1 col1" >
-                    80.97
-                
-                
-                
-                <td id="T_d94b517e_930c_11e7_9973_b4b6765f9203row1_col2"
-                 class="data row1 col2" >
-                    66.55%
-                
-                
-                
-                <td id="T_d94b517e_930c_11e7_9973_b4b6765f9203row1_col3"
-                 class="data row1 col3" >
-                    80.7991
-                
-                
-                
-                <td id="T_d94b517e_930c_11e7_9973_b4b6765f9203row1_col4"
-                 class="data row1 col4" >
-                    73.67%
-                
-                
-            </tr>
-            
-        </tbody>
-        </table>
-        
+<style  type="text/css" >
+</style>  
+<table id="T_5830b3e4_942d_11e7_8710_f48c5097b52f" > 
+<thead>    <tr> 
+        <th class="blank level0" ></th> 
+        <th class="col_heading level0 col0" >Average Math Score</th> 
+        <th class="col_heading level0 col1" >Average Reading Score</th> 
+        <th class="col_heading level0 col2" >% Passing Math</th> 
+        <th class="col_heading level0 col3" >% Passing Reading</th> 
+        <th class="col_heading level0 col4" >% Overall Passing Rate</th> 
+    </tr>    <tr> 
+        <th class="index_name level0" >School Type</th> 
+        <th class="blank" ></th> 
+        <th class="blank" ></th> 
+        <th class="blank" ></th> 
+        <th class="blank" ></th> 
+        <th class="blank" ></th> 
+    </tr></thead> 
+<tbody>    <tr> 
+        <th id="T_5830b3e4_942d_11e7_8710_f48c5097b52flevel0_row0" class="row_heading level0 row0" >Charter</th> 
+        <td id="T_5830b3e4_942d_11e7_8710_f48c5097b52frow0_col0" class="data row0 col0" >83.47</td> 
+        <td id="T_5830b3e4_942d_11e7_8710_f48c5097b52frow0_col1" class="data row0 col1" >83.90</td> 
+        <td id="T_5830b3e4_942d_11e7_8710_f48c5097b52frow0_col2" class="data row0 col2" >93.62%</td> 
+        <td id="T_5830b3e4_942d_11e7_8710_f48c5097b52frow0_col3" class="data row0 col3" >96.5865</td> 
+        <td id="T_5830b3e4_942d_11e7_8710_f48c5097b52frow0_col4" class="data row0 col4" >95.10%</td> 
+    </tr>    <tr> 
+        <th id="T_5830b3e4_942d_11e7_8710_f48c5097b52flevel0_row1" class="row_heading level0 row1" >District</th> 
+        <td id="T_5830b3e4_942d_11e7_8710_f48c5097b52frow1_col0" class="data row1 col0" >76.96</td> 
+        <td id="T_5830b3e4_942d_11e7_8710_f48c5097b52frow1_col1" class="data row1 col1" >80.97</td> 
+        <td id="T_5830b3e4_942d_11e7_8710_f48c5097b52frow1_col2" class="data row1 col2" >66.55%</td> 
+        <td id="T_5830b3e4_942d_11e7_8710_f48c5097b52frow1_col3" class="data row1 col3" >80.7991</td> 
+        <td id="T_5830b3e4_942d_11e7_8710_f48c5097b52frow1_col4" class="data row1 col4" >73.67%</td> 
+    </tr></tbody> 
+</table> 
 
 
 
