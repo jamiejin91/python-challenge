@@ -17,7 +17,7 @@ analyzer = SentimentIntensityAnalyzer()
 # Setup Tweepy API Authentication
 auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
 auth.set_access_token(access_token, access_token_secret)
-api = tweepy.API(auth)
+api = tweepy.API(auth,parser=tweepy.parsers.JSONParser())
 
 # Target Account
 target_user = ["@bcc","@cbs","@cnn","@foxnews","@nytimes"]
