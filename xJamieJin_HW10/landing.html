@@ -4,9 +4,9 @@
 <head>
 
   <meta charset="UTF-8">
-  <title>Bootstrap Demo Buttons</title>
+  <title>WeatherPy WebSite</title>
 
-<!-- Bootstrap -->
+  <!-- Bootstrap -->
   <link href="css/bootstrap.min.css" rel="stylesheet">
 
       <!-- Latest compiled and minified CSS -->
@@ -30,33 +30,66 @@
 </head>
 
 <body>
-  <nav class="navbar navbar-default">
-    <div class="container-fluid">
-      <a class="navbar-brand" href="index.html" style="color: black; background-color: #AED6F1;">
-        <span class="nav-color">Latitude</span>
-      </a>
-      <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-    
-        <ul class="nav navbar-nav navbar-right">
-          <li class="dropdown">
-            <a class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Plots <span class="caret"></span></a>
-            <ul class="dropdown-menu">
-              <li><a href="temperature.html">Temperature</a></li>
-              <li><a href="humidity.html">Humidity</a></li>
-              <li><a href="cloud_cover.html">Cloud Cover</a></li>
-              <li><a href="wind_speed.html">Wind Speed</a></li>
+  <div class="container-fluid">
+    <div class="row">
+      <nav class="navbar navbar-default">
+        <div class="container-fluid">
+          <div class="col-md-1"></div>
+          <a class="navbar-brand" href="landing.html" style="color: black; background-color: #AED6F1;">
+            <span class="nav-color">Latitude</span>
+          </a>
+          <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+        
+            <ul class="nav navbar-nav navbar-right">
+              <li class="dropdown">
+                <a class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Plots <span class="caret"></span></a>
+                <ul class="dropdown-menu">
+                  <li><a href="temperature.html">Temperature</a></li>
+                  <li><a href="humidity.html">Humidity</a></li>
+                  <li><a href="cloud_cover.html">Cloud Cover</a></li>
+                  <li><a href="wind_speed.html">Wind Speed</a></li>
+                </ul>
+              </li>
+              <li><a href="comparisons.html">Comparisons</a></li>
+              <li><a href="data.html">Data</a></li>
+              
             </ul>
-          </li>
-          <li><a href="comparisons.html">Comparisons</a></li>
-          <li><a href="data.html">Data</a></li>
-          
-        </ul>
-      </div><!-- /.navbar-collapse -->
-    </div><!-- /.container-fluid -->
-  </nav>
+          </div><!-- /.navbar-collapse -->
+        </div><!-- /.container-fluid -->
+      </nav>
+      
+      <div class="col-md-8">
+        <h1>Summary: Latitude vs Max Temperature</h1>
+        <hr>
+        <a href="landing.html"><img img class="img-responsive" src="resources/1_LatvsTemp.png" alt=""></a>
+        <p>The purpose of this project was to analyze how weather changes as you get close to the equator. To accomplish this analysis, we first pulled data from the OpenWeatherMap API to assemble a dataset on over 500 cities.</p>
+        <p>After assembling the dataset, we used Matplotlib to plot various aspects of the weather versus latitude. Factors we looked at included:
+        temperature, cloudiness, wind speed, and humidity. This site provides the source data and visualizations created as part of the analysis, as well as explanations and descriptions of any trends and correlations witnessed.</p>
+      </div>
+        
+      <div class="col-md-4">
+        <h1>Visualizations</h1>
+        <hr>
+        <div class="row">
+          <div class="col-lg-6 col-md-6 col-sm-3 col-xs-3">
+            <a href="landing.html"><img class="img-responsive" src="resources/1_LatvsTemp.png" alt=""></a>
+          </div>
+          <div class="col-lg-6 col-md-6 col-sm-3 col-xs-3">
+            <a href="humidity.html"><img class="img-responsive" src="resources/2_LatvsHum.png" alt=""></a>
+          </div>
+          <div class="col-lg-6 col-md-6 col-sm-3 col-xs-3">
+              <a href="cloudiness.html"><img class="img-responsive" src="resources/3_LatvsCloud.png" alt=""></a>
+          </div>
+          <div class="col-lg-6 col-md-6 col-sm-3 col-xs-3">
+            <a href="windspeed.html"><img class="img-responsive" src="resources/4_LatvsWind.png" alt=""></a>
+          </div>
+      </div>
+    </div>
+  </div>
 
-<footer>
-  <p style = "text-align: center; color: black; background-color: #F7F9F9;"><i class="glyphicon glyphicon-copyright-mark">Copyright Xincheng Jamie Jin</i></p>
-</footer>
+  <footer>
+    <p style = "text-align: center; color: black; background-color: #F7F9F9;"><i class="glyphicon glyphicon-copyright-mark">Copyright Xincheng Jamie Jin</i></p>
+  </footer>
+
 </body>
 </html>
