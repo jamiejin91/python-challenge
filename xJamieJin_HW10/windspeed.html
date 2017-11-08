@@ -4,7 +4,7 @@
 <head>
 
   <meta charset="UTF-8">
-  <title>WeatherPy-Comparison</title>
+  <title>WeatherPy-Home</title>
 
   <!-- Bootstrap -->
   <link href="css/bootstrap.min.css" rel="stylesheet">
@@ -57,48 +57,37 @@
           </div><!-- /.navbar-collapse -->
         </div><!-- /.container-fluid -->
       </nav>
-
-  <div class="container-fluid" style="width:90%">
-    <div class="panel panel-default">
-      <div class="panel-body">
+      
+      <div class="col-md-8">
+        <h1>Summary: Latitude vs Wind Speed</h1>
+        <hr>
+        <a href="windspeed.html"><img img class="img-responsive" src="4_LatvsWind.png" alt=""></a>
+        <p>There is no strong relationship between latitude and wind speed, however in northern hemispheres there is a flurry of cities with over 20 mph of wind.</p>
+      </div>
+        
+      <div class="col-md-4">
+        <h1>Visualizations</h1>
+        <hr>
         <div class="row">
-          <div class="col-md-12 ">
-            <center><h2>Comparison: Latitude vs. X</h2></center>
-            <hr/>
-            <center><p>Click on any plot to get an in-depth analysis.</p></center>
+          <div class="col-lg-6 col-md-6 col-sm-3 col-xs-3">
+            <a href="temperature.html"><img class="img-responsive" src="resources/1_LatvsTemp.png" alt=""></a>
           </div>
-        </div>
-        <div class="row">
-          <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
-            <center><h4>vs. Max Temperature</h4></center>
-              <a href="temperature.html"><img class="img-responsive" src="resources/1_LatvsTemp.png"></a>
-              <div class="hidden-md hidden-lg"><hr></div>
-            </div>
-          <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
-            <center><h4>vs. Max Humidity</h4></center>
-            <a href="humidity.html"><img class="img-responsive" src="resources/2_LatvsHum.png"></a>
-            <div class="hidden-md hidden-lg"><hr></div>
-          </div>           
-        </div>
-        <div class="row">
-          <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
-            <center><h4>vs. Max Cloudiness</h4></center>
-            <a href="cloudiness.html"><img class="img-responsive" src="resources/3_LatvsCloud.png"></a>
-            <div class="hidden-md hidden-lg"><hr></div>
+          <div class="col-lg-6 col-md-6 col-sm-3 col-xs-3">
+            <a href="humidity.html"><img class="img-responsive" src="resources/2_LatvsHum.png" alt=""></a>
           </div>
-          <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
-            <center><h4>vs. Wind Speed</h4></center>
-            <a href="windspeed.html"><img class="img-responsive" src="resources/4_LatvsWind.png"></a>
+          <div class="col-lg-6 col-md-6 col-sm-3 col-xs-3">
+              <a href="cloudiness.html"><img class="img-responsive" src="resources/3_LatvsCloud.png" alt=""></a>
           </div>
-        </div>
+          <div class="col-lg-6 col-md-6 col-sm-3 col-xs-3">
+            <a href="windspeed.html"><img class="img-responsive" src="resources/4_LatvsWind.png" alt=""></a>
+          </div>
       </div>
     </div>
   </div>
-  </div>
-</div>
 
   <footer>
     <p style = "text-align: center; color: black; background-color: #F7F9F9;"><i class="glyphicon glyphicon-copyright-mark"><a href="http://www.linkedin.com/in/xinchengjamiejin.com">Copyright Xincheng Jamie Jin</a></i></p>
   </footer>
+
 </body>
 </html>
