@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<svg height="600" width="2000" style="background-color: lightblue">
+  <!-- RYU -->
+  <image xlink:href="ryu_hadoken_pose.webp" x="0" y="120" height="500px" width="500px"/>
+
+  <!-- Hadouken -->
+  <image xlink:href="hadouken.png" x="450" y="250" height="150px" width="150px">
+  	<animate attributeName="x" attributeType="XML"
+             from="450"  to="1300"
+             begin="0s" dur="3s"
+             fill="remove" repeatCount="indefinite"/>
+  </image>
+
+  <!-- CLOUDS -->
+  <ellipse cx="200" cy="50" rx="100" ry="30" style="fill:white">
+    <animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="5s" repeatCount="indefinite" />
+  </ellipse>
+
+  <ellipse cx="800" cy="50" rx="100" ry="30" style="fill:white">
+    <animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="5s" repeatCount="indefinite" />
+  </ellipse>
+
+  <ellipse cx="1700" cy="50" rx="100" ry="30" style="fill:white">
+    <animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="5s" repeatCount="indefinite" />
+  </ellipse>
+
+  <!-- BALL -->
+<!--   <circle cx="500" cy="100" r="25" style="stroke: white; fill: white;">
+    <animate attributeName="cx" attributeType="XML"
+             from="30"  to="470"
+             begin="0s" dur="5s"
+             fill="remove" repeatCount="indefinite"/>
+
+  </circle> -->
+
+  <!-- HEAD -->
+  <circle cx="1500" cy="150" r="50" stroke="black" stroke-width="3" fill="#ffcd94" />
+  <!-- EYES -->
+  <line x1="1485" y1="120" x2="1485" y2="150" style="stroke:black;stroke-width:5">
+   <animateTransform attributeName="transform"
+	      type="scale"
+	      from="1" to="1.01"
+	      begin="0s" dur="3s"
+	      repeatCount="indefinite"
+		/>
+	</line>
+
+  <line x1="1515" y1="120" x2="1515" y2="150" style="stroke:black;stroke-width:5">
+   <animateTransform attributeName="transform"
+	      type="scale"
+	      from="1" to="1.01"
+	      begin="0s" dur="3s"
+	      repeatCount="indefinite"
+		/>
+	</line>
+  <!-- MOUTH -->
+  <ellipse cx="1500" cy="175" rx="10" ry="5" style="stroke:black;fill:#fa8072">
+      <animateTransform attributeName="transform"
+	      type="scale"
+	      from="1" to="1.01"
+	      begin="0s" dur="3s"
+	      repeatCount="indefinite"
+		/>
+  </ellipse>
+  <!-- BODY -->
+  <line x1="1500" y1="200" x2="1500" y2="400" style="stroke:black;stroke-width:5" />
+  <!-- ARMS -->
+  <line x1="1500" y1="250" x2="1350" y2="200" style="stroke:black;stroke-width:5" />
+  <line x1="1500" y1="250" x2="1650" y2="200" style="stroke:black;stroke-width:5" />
+  <!-- LEGS -->
+  <line x1="1500" y1="400" x2="1400" y2="600" style="stroke:black;stroke-width:5" />
+  <line x1="1500" y1="400" x2="1600" y2="600" style="stroke:black;stroke-width:5" />
+</svg> 
+
+<svg width="2000" height="200">
+  <rect width="2000" height="200" style="fill:#654321;stroke-width:5;" />
+  
+</svg>
+
+</body>
+</html>
