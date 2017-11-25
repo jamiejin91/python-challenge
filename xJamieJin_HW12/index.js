@@ -1,18 +1,22 @@
+// Cleaning data
+function dataClean(){
+  for(i=0;i<dataSet.length; i++){
+    dataSet[i].country.toUpperCase();
+    dataSet[i].state.toUpperCase();
+  }
+};
+           
+dataClean();
+
 // All buttons & inputs
 var $tbody = document.querySelector("tbody");
 var $entries = document.querySelector("#pages");
 var $nextBtn = document.querySelector("#next");
 var $prevBtn = document.querySelector("#previous");
-var $dateInput = document.querySelector("#date");
-var $cityInput = document.querySelector("#city");
-var $stateInput = document.querySelector("#state");
-var $countryInput = document.querySelector("#country");
-var $shapeInput = document.querySelector("#shapeInput");
-var $filterBtn =  document.querySelector("#filter");
 
 // initial variables
 var dataSetFilter = dataSet.reverse();
-var dataLength = dataSet.length;
+var dataLength = dataSetFilter.length;
 var startIdx = 0;
 var endIdx = +$entries.value;
 
@@ -36,7 +40,7 @@ function renderTable() {
 }
 renderTable();
 
-// entries per page handler
+// Entries per page handler
 $entries.addEventListener("change",function(){
   startIdx = 0;
   endIdx = +$entries.value
@@ -71,26 +75,26 @@ $prevBtn.addEventListener("click", function(event){
 });
 
 // Filter
+var $filterBtn =  document.querySelector("#filter");
 $filterBtn.addEventListener("click", searchFilter)
 function searchFilter() {
-  var filterCity = $cityInput.value.trim().toLowerCase();
-  var filterState = $stateInput.value.trim().toLowerCase();
-  var filterCountry = $countryInput.value.trim().toLowerCase();
-  var filterShape = $shapeInput.value.trim().toLowerCase();
+  // var filterDate = $dateInput.value.trim().toLowerCase();
+  var filterCity = document.querySelector("#city").value.trim().toLowerCase();
+  var filterState = document.querySelector("#state").value.trim().toLowerCase();
+  var filterCountry = document.querySelector("#country").value.trim().toLowerCase();
+  var filterShape = document.querySelector("#shape").value.trim().toLowerCase();
 
-  dataSetFilter = dataSet.filter(function(data) {
-    var filterCityTemp = data.city.substring(0, filterCity.length).toLowerCase();
-    var filterStateTemp = data.state.substring(0, filterState.length).toLowerCase();
-    var filterCountryTemp = data.city.substring(0, filterCountry.length).toLowerCase();
-    var filterShapeTemp = data.state.substring(0, filterShape.length).toLowerCase();
+  dataSetFilter = dataSet.filter(function(dataTemp) {
+    // var filterDateTemp = dataTemp.city.substring(0, filterDate.length).toLowerCase();
+    var filterCityTemp = dataTemp.city.substring(0, filterCity.length).toLowerCase();
+    var filterStateTemp = dataTemp.state.substring(0, filterState.length).toLowerCase();
+    var filterCountryTemp = dataTemp.country.substring(0, filterCountry.length).toLowerCase();
+    var filterShapeTemp = dataTemp.shape.substring(0, filterShape.length).toLowerCase();
     
-    if (filterCityTemp === filterCity 
-      && filterStateTemp === filterState 
-      && filterCountryTemp === filterCountry 
-      && filterShapeTemp === filterShape) {
+    if (filterCityTemp === filterCity && filterStateTemp === filterState && filterCountryTemp === filterCountry && filterShapeTemp === filterShape) {
       return true;
     }
     return false;
   });
   renderTable();
-}
+};
