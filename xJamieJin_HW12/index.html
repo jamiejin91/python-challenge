@@ -10,41 +10,100 @@
   <script src="https://netdna.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
   <style>
     .jumbotron {
-    background-image: url("Aliens.jpg");
-    margin: 20px;
-    min-height: 50%;
-    background-repeat: no-repeat;
-    background-position: center;
+      background-image: url("imgs/ufo.png");
+      background-size: cover;
+      background-repeat: no-repeat;
+      background-position: center;
+      margin-top: 30px;
+      border: inset white 10px;
+    }
+    body {
+      background-image: url('imgs/bg.jpg');
+      background-size: cover;
+      background-repeat: no-repeat;
+      background-position: center;
     }
   </style>
 
 </head>
   
 <body>
-  <div class="container" style="width: 85%">
-    <div class="jumbotron" style="height: 400px">
-      <h1 style = "color: white; position: center;">Aliens-R-Real</h1>
-      <h4 style = "color: white; position: center;">STAY WOKE</h4>
-    </div>
-    
-    <div class="dropdown">
-      <button class="btn btn-primary dropdown-toggle" type="button" data-toggle="dropdown">Dropdown Example
-      <span class="caret"></span></button>
-      <ul class="dropdown-menu">
-        <li><a href="#">HTML</a></li>
-        <li><a href="#">CSS</a></li>
-        <li><a href="#">JavaScript</a></li>
-      </ul>
+  <div class="container" style = "width: 80%">
+    <div class="row">
+      <div class="jumbotron" style="position: relative; height: 400px";>
+        <h2 style = "color: white; position: absolute; top: 8px; left: 16px;";>Aliens-R-Real</h2>
+        <h2 style = "color: white; position: absolute; top: 8px; right: 16px;";>STAY-WOKE</h2>
+      </div>
     </div>
 
+    <div class="row">
+      <div class="panel panel-default" style="border: inset white 10px;">
+        <div class="panel-body">
+          <form class="form-inline">
+            <label>Show 
+              <select id = "pages">
+                <option value="10">10</option>
+                <option value="50">50</option>
+                <option value="100">100</option>
+              </select> entries
+            </label><br>
+            <div style = "text-align: center" class="col-md-10">
+              <div class="form-group">
+                <label for="date">Date: </label>
+                  <input type="date" class="form-control" id="date" placeholder="mm/dd/yyy">
+              </div>
+              <div class="form-group">
+                <label for="city">City: </label>
+                <input type="text" class="form-control" id="city" placeholder="City">
+              </div>
+              <div class="form-group">
+                <label for="state">State: </label>
+                <input type="text" class="form-control" id="state" placeholder="State">
+              </div>
+              <div class="form-group">
+                <label for="country">Country: </label>
+                <input type="text" class="form-control" id="country" placeholder="Country">
+              </div>
+              <div class="form-group">
+                <label for="shape">Shape: </label>
+                <input type="text" class="form-control" id="shape" placeholder="Shape">
+              </div>
+            </div>
+            <div style = "text-align: center" class="col-md-2">
+              <button type="submit" class="btn btn-default" id="filter">Filter</button>
+            </div>
+          </form>
+
+          <table class="table table-striped" id="myTable">
+            <thead>
+              <tr>
+                <th>Date</th>
+                <th>City</th>
+                <th>State</th>
+                <th>Country</th>
+                <th>Shape</th>
+                <th>Duration Witnessed</th>
+                <th>Comments</th>
+              </tr>
+            </thead>
+            <tbody></tbody>
+          </table>
+        </div>
+      </div>
+        <div class="row">
+          <div class="col-md-6 text-left">
+            <button id="previous" class="btn btn-default disabled"> < Previous</button>
+          </div> 
+          <div class="col-md-6 text-right"> 
+            <button id="next" class="btn btn-default">Next ></button>
+        </div>
+    </div>
   </div>
-
-
-
-
   <footer>
-    <p style = "text-align:center; color:black;"><i class="glyphicon glyphicon-copyright-mark"><a href="http://www.linkedin.com/in/xinchengjamiejin.com">Copyright Xincheng Jamie Jin</a></i></p>
+    <h5 style = "text-align:center; color:black;"><i class="glyphicon glyphicon-copyright-mark"><a href="http://www.linkedin.com/in/xinchengjamiejin.com"> Copyright Xincheng Jamie Jin</a></i></h5>
   </footer>
+  <script src="data.js" type="text/javascript"></script>
+  <script src="index.js" type="text/javascript"></script>
 
 </body>
 
