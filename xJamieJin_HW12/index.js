@@ -1,8 +1,9 @@
 // Cleaning data
 function dataClean(){
   for(i=0;i<dataSet.length; i++){
-    dataSet[i].country.toUpperCase();
-    dataSet[i].state.toUpperCase();
+    dataSet[i].city = dataSet[i].city.charAt(0).toUpperCase() + dataSet[i].city.slice(1);
+    dataSet[i].state = dataSet[i].state.toUpperCase();
+    dataSet[i].country = dataSet[i].country.toUpperCase();
   }
 };
            
