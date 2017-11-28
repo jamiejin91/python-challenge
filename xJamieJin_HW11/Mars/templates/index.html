@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Ode to Elon</title>
+  <link rel="stylesheet" media="screen" href="https://netdna.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
+  <script src="https://code.jquery.com/jquery.js"></script>
+  <script src="https://netdna.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+  <style>
+  .jumbotron {
+  	background-image: url('imgs/space.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: 30px;
+    border: inset orange 2px;
+    text-align: center;
+    color: white;
+    ;
+  }
+  .card {
+  	background-image: url('imgs/space.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+  	margin: 10px;
+    border: inset orange 2px;
+    background-color: white;
+    text-align: center;
+    color: white
+  }
+  body {
+    background-image: url('imgs/mars.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+  }
+  </style>
+</head>
+
+<body>
+	<div class="container">
+<!-- 0. Jumbotron -->
+		<div class="jumbotron">
+		  <h1>Mars, Best Planet</h1>
+		  <hr>
+		  <p>
+		    <a class="btn btn-warning btn-lg" href="#" role="button" style="color:black">Scrape New Data</a>
+		  </p>
+		</div>
+
+<!-- 1. Mars News -->
+		<div class="row">
+	    <div class="col-md-12">
+		    <div class="card">
+				  <div class="card-body">
+				  	<h3>Latest Mars News</h3>
+            <hr>
+				    <h4 class="card-title">{{dict.news_title}}</h4>
+				    <p class="card-text">{{dict.news_p}}</p>
+				  </div>
+				</div>
+	    </div>
+	  </div>
+
+<!-- 2. Mars Image -->
+	  <div class="row">
+	  	<div class="col-md-8">
+	  		<div class="card">
+	  			<h3>Featured Mars Image</h3>
+	  			<hr>
+				  <img class="card-img-top" src="{{dict.featured_image}}">
+				</div>
+	  	</div>
+	  
+
+<!-- 3. Mars Weather -->
+		  <div class="col-md-4">
+		  	<div class="card">
+				  <div class="card-body">
+				  	<h3>Current Weather on Mars</h3>
+            <hr>
+				    <p class="card-text">{{dict.mars_weather}}</p>
+				  </div>
+				</div>
+
+<!-- 4. Mars Facts -->
+				<div class="card">
+				  <div class="card-body">
+				  	<h3>Mars Facts</h3>
+            <hr>
+				    <p class="card-text">{{dict.facts_table | safe}}</p>
+				  </div>
+				</div>
+		  </div>
+		</div>
+
+<!-- 5. Mars Hemispheres -->
+		<div class="row">
+			<div class="col-md-12">
+				<div class="card">
+				  <div class="card-body">
+				  	<h3>Mars Hemispheres</h3>
+            <hr>
+            <div class="row">
+            	<div class="col-md-6">
+            		<div class="semi_card">
+					  			<h3>{{dict.hemisphere_images[0].title}}</h3>
+								  <img class="card-img-top" src="{{dict['hemisphere_images'][0]['img_url']}}">
+								</div>
+            	</div>
+            	<div class="col-md-6">
+            		<div class="semi_card">
+					  			<h3>{{dict.hemisphere_images[1].title}}</h3>
+								  <img class="card-img-top" src="{{dict['hemisphere_images'][1]['img_url']}}">
+								</div>
+            	</div>
+            </div>
+            <div class="row">
+            	<div class="col-md-6">
+            		<div class="semi_card">
+					  			<h3>{{dict.hemisphere_images[2].title}}</h3>
+								  <img class="card-img-top" src="{{dict['hemisphere_images'][2]['img_url']}}">
+								</div>
+            	</div>
+            	<div class="col-md-6">
+            		<div class="semi_card">
+					  			<h3>{{dict.hemisphere_images[3].title}}</h3>
+								  <img class="card-img-top" src="{{dict['hemisphere_images'][3]['img_url']}}">
+								</div>
+            	</div>
+            </div>
+				  </div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<footer>
+    <h5 style = "text-align:center; color:white;"><i class="glyphicon glyphicon-copyright-mark"><a href="http://www.linkedin.com/in/xinchengjamiejin.com" style = "text-align:center; color:white;"> Copyright Xincheng Jamie Jin</a></i></h5>
+  </footer>
+</body>
+</html>
