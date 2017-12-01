@@ -21,7 +21,7 @@ def scrape():
     url_2 = "https://www.jpl.nasa.gov/spaceimages/?search=&category=Mars"
     browser.visit(url_2)
     browser.click_link_by_partial_text('FULL IMAGE')
-    time.sleep(5)
+    time.sleep(2)
     browser.click_link_by_partial_text('more info')
     soup_2 = BeautifulSoup(browser.html, "html.parser")
     featured_image_url = "https://www.jpl.nasa.gov{}".format(soup_2.find('figure', class_='lede').a['href'])
@@ -56,7 +56,7 @@ def scrape():
     hemisphere_image_urls = []
     for hemi_link in hemi_links:
         browser.visit("https://astrogeology.usgs.gov" + hemi_link['href'])
-        time.sleep(5)
+        time.sleep(2)
         soup_5_temp = BeautifulSoup(browser.html, 'html.parser')
         hemi_title = soup_5_temp.find('h2', class_="title").text
         hemi_img = 'https://astrogeology.usgs.gov' + soup_5_temp.find('img',class_='wide-image').get('src')
