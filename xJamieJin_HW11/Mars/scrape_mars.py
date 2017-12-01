@@ -65,7 +65,6 @@ def scrape():
 
     # Creating and Returning Dictionary for API
     final = {
-        "id": 1,
         "news_title": news_title,
         "news_p": news_p,
         "featured_image": featured_image_url,
