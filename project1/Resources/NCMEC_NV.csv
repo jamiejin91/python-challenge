@@ -1,0 +1,63 @@
+name,age,gender,ethnicity,NCMEC_case#,case_type,birth_year,missing_year,missing_city,missing_county,missing_state
+ ,-1,female,white,1114321,unidentified,,,,,
+CHRISTIAN AMOS,16,male,black,1286948,endangeredRunaway,2001,2017,LAS VEGAS,Clark County,NV
+SAMUEL BOEHLKE,19,male,white,1055859,endangeredMissing,1998,2006,CRATER LAKE,Klamath,OR
+SIRENITY BRESSELSMITH,3,female,white,1277847,familyAbduct,2014,2016,LAS VEGAS,Clark,NV
+SANDRA BUTLER,55,female,white,765685,endangeredMissing,1962,1978,SPARKS,Washoe,NV
+EVERLYSE CABRERA,13,female,hispanic,1046382,endangeredMissing,2004,2006,NORTH LAS VEGAS,Clark,NV
+ISAIAH CARTER,13,male,biracial,1308558,endangeredRunaway,2004,2017,LAS VEGAS,Clark,NV
+KALESHA CONRADI,17,female,biracial,1300950,endangeredRunaway,2000,2017,LAS VEGAS,Clark,NV
+TAMERA CURTIS,17,female,black,1288033,endangeredRunaway,2000,2016,RENO,Washoe,NV
+JANE DOE1979,-1,female,white,1104104,unidentified,,,,,
+RANDI EVERS,28,male,white,765581,nonFamilyAbduct,1988,1992,LAS VEGAS,Clark,NV
+TENEYA FINLEY,17,female,black,1299405,endangeredRunaway,2000,2017,LAS VEGAS,Clark,NV
+AYA FOX-ABDALLA,11,female,white,1132860,familyAbduct,2006,2009,NORTH LAS VEGAS,Clark,NV
+ANTHONY FRANKO,45,male,white,601353,endangeredMissing,1972,1983,LEMMON VALLEY,Washoe,NV
+LEONARDO GALINDO,8,male,hispanic,1185438,familyAbduct,2009,2011,BATTLE MOUNTAIN,Lander,NV
+LEONARDO GALINDO,8,male,hispanic,1185438,familyAbduct,2009,2011,BATTLE MOUNTAIN,Lander,NV
+ARMANDO GUAJARDO-VALERIO,16,male,hispanic,1288256,endangeredRunaway,2001,2017,LAS VEGAS,Clark,NV
+ZAKQUERY HERNANDEZ,18,male,black,1302998,endangeredRunaway,1999,2017,LAS VEGAS,Clark,NV
+RACHEL HOFBERG,15,female,biracial,1036163,familyAbduct,2002,2005,NORTH LAS VEGAS,Clark,NV
+AALIYHA HOYT,17,female,black,1288031,endangeredRunaway,2000,2017,RENO,Washoe,NV
+SHANTELLE HUDSON,45,female,amInd,1113907,endangeredMissing,1972,1988,DAYTON,Lyon,NV
+STEPHANIE HUYNH,17,female,asian,1306531,endangeredRunaway,2000,2017,LAS VEGAS,Clark,NV
+JORDYN JAMES,16,female,black,1291014,endangeredRunaway,2001,2017,LAS VEGAS,Clark,NV
+KERRY JOHNSON,52,female,white,784470,endangeredMissing,1964,1982,RENO,Marion,NV
+LANDON LEAGUE,14,male,biracial,1099585,familyAbduct,2003,2008,LAS VEGAS,Clark,NV
+HEATHER LEWIS,27,female,white,961042,endangeredMissing,1989,2003,ELY,White Pine,NV
+SHERISE MAGEE,43,female,black,1140163,endangeredMissing,1973,1975,LAS VEGAS,Clark,NV
+JENNIFER MARTIN,41,female,white,601816,nonFamilyAbduct,1976,1987,RENO,,NV
+ANGELA MARTINEZ,17,female,hispanic,1274445,endangeredRunaway,2000,2016,LAS VEGAS,Clark,NV
+TAU JANAY MCDAVID,17,female,black,1296708,endangeredRunaway,2000,2017,LAS VEGAS,Clark,NV
+NANCY MONTELONGO,13,female,hispanic,1300986,endangeredRunaway,2003,2017,LAS VEGAS,Clark,NV
+KELSEY MOORE,17,female,white,1306799,endangeredRunaway,2000,2017,LAS VEGAS,Clark,NV
+TAELER MYLOTT,17,male,white,1305834,endangeredRunaway,2000,2017,LAS VEGAS,Clark County,NV
+TANIA OLMOS-LOPEZ,7,female,hispanic,1212806,familyAbduct,2009,2012,LAS VEGAS,Clark,NV
+ARYANNA PACHECO,16,female,biracial,1297639,endangeredRunaway,2001,2017,LAS VEGAS,Clark,NV
+JAZMYN PI,16,female,hispanic,1306178,endangeredRunaway,2001,2017,LAS VEGAS,Clark,NV
+FRANCILLON PIERRE,34,male,black,603393,nonFamilyAbduct,1982,1986,NORTH LAS VEGAS,Clark County,NV
+ANDREW PINEDO,16,male,hispanic,1300967,endangeredRunaway,2000,2017,CARSON CITY,Carson City,NV
+DEVINEE PINGUL,27,female,biracial,1131292,endangeredRunaway,1990,2007,LAS VEGAS,Clark,NV
+ZAILYA POCASANGRE,17,female,hispanic,1267828,endangeredRunaway,2000,2016,SPARKS,Washoe,NV
+GABRIEL RAMIREZ,16,male,biracial,1289437,endangeredRunaway,2001,2017,SUN VALLEY,Washoe,NV
+KARLA RODRIGUEZ,24,female,whiteHisp,873982,endangeredMissing,1992,1999,LAS VEGAS,Clark,NV
+JERIN ROMERO,16,male,hispanic,1284345,endangeredRunaway,2001,2016,LAS VEGAS,Clark,NV
+JERIN ROMERO,16,male,hispanic,1304399,endangeredRunaway,2001,2017,LAS VEGAS,Clark,NV
+ROBERT ROMERO,24,male,whiteHisp,887928,endangeredMissing,1993,2000,SANTA FE,,NM
+ANGELINA RUSSELL,16,female,biracial,1303654,familyAbduct,2001,2017,WASHOE VALLEY,Washoe,NV
+ANGELINA RUSSELL,16,female,biracial,1303654,familyAbduct,2001,2017,WASHOE VALLEY,Washoe,NV
+ANGELINA RUSSELL,16,female,biracial,1303654,familyAbduct,2001,2017,WASHOE VALLEY,Washoe,NV
+ANGELINA RUSSELL,16,female,biracial,1303654,familyAbduct,2001,2017,WASHOE VALLEY,Washoe,NV
+CARY SAYEGH,45,male,white,601891,nonFamilyAbduct,1971,1978,LAS VEGAS,,NV
+SABLE SCHILDER,18,female,white,1282581,endangeredRunaway,1999,2016,FALLON,Churchill,NV
+ALINA SETTLES,9,female,white,1237765,familyAbduct,2008,2013,HENDERSON,Clark,NV
+DEMIA SIMMONS- HAMPTONIE,17,female,biracial,1303614,endangeredRunaway,2000,2017,RENO,Washoe County,NV
+TERA SMITH,35,female,white,852270,endangeredMissing,1982,1998,REDDING,Shasta,CA
+"CIRENIO SOLIS, JR.",23,male,whiteHisp,98070301,familyAbduct,1994,1998,CARSON CITY,CARSON CITY,NV
+RYLAN UNTALASCO,17,male,asian,1128401,familyAbduct,2000,2009,LAS VEGAS,Clark,NV
+MIGUEL WALKER,16,male,black,1307798,endangeredRunaway,2001,2017,LAS VEGAS,Clark County,NV
+BRIANNA WARNES,24,female,white,856457,familyAbduct,1993,1996,HENDERSON,Clark,NV
+NICHOLAS WARREN,16,male,white,1308576,endangeredRunaway,2001,2017,LAS VEGAS,Clark,NV
+NATALIA WHARTON,19,female,biracial,1235975,endangeredRunaway,1998,2014,LAS VEGAS,Clark,NV
+MIA WILSON,2,female,white,1306121,familyAbduct,2015,2017,HENDERSON,Clark,NV
+BEATRIZ WOLF MARTINEZ,16,female,hispanic,1295625,endangeredRunaway,2001,2016,NORTH LAS VEGAS,Clark,NV

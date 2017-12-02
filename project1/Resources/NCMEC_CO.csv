@@ -1,0 +1,85 @@
+name,age,gender,ethnicity,NCMEC_case#,case_type,birth_year,missing_year,missing_city,missing_county,missing_state
+CHRISTOPHER ABEYTA,31,male,white,600552,endangeredMissing,1985,1986,COLORADO SPRINGS,,CO
+TIANNAH ANNIBAL,12,female,biracial,1213773,familyAbduct,2005,2013,LONGMONT,Boulder,CO
+HENNESZY ANTHONY,18,female,black,1292596,endangeredRunaway,1999,2017,DENVER,Adams,CO
+JUAN ARCHULETA,17,male,hispanic,1302682,endangeredRunaway,2000,2017,COLORADO SPRINGS,El Paso,CO
+ISABELLA BALAJONDA ANNIBAL,8,female,biracial,1214761,familyAbduct,2009,2013,DENVER,Denver,CO
+SHARON BALDEAGLE,45,female,amInd,600185,nonFamilyAbduct,1972,1984,EAGLE BUTTE,,SD
+AMARE BANKS,14,male,biracial,1304703,endangeredRunaway,2003,2017,AURORA,Arapahoe,CO
+ABBY BLAGG,22,female,white,924029,endangeredMissing,1995,2001,GRAND JUNCTION,Mesa,CO
+MARIE BLEE,53,female,white,1060777,endangeredMissing,1964,1979,CRAIG,Routt,CO
+ROBERT BOWLING,32,male,white,778686,endangeredMissing,1985,1985,PARKER,,CO
+AUSTIN BRYANT,21,male,white,1167616,endangeredMissing,1996,2001,MONUMENT,El Paso,CO
+AUSTIN BRYANT,21,male,white,1167616,endangeredMissing,1996,2001,MONUMENT,El Paso,CO
+OSCAR CASTANEDA-GONZALEZ,18,male,hispanic,1291628,endangeredRunaway,1999,2017,FORT COLLINS,Larimer,CO
+BREANNA CHAMPLAIN,17,female,white,1264578,endangeredRunaway,1999,2016,DENVER,Adams,CO
+MADELYN CLARK,16,female,white,1308790,endangeredRunaway,2001,2017,LITTLETON,Jefferson,CO
+HEATHER DAMON,15,female,white,1304950,endangeredRunaway,2002,2017,MORRISON,Jefferson,CO
+WENDY DAVIS SANDOVAL,15,female,white,1292017,endangeredRunaway,2002,2017,AURORA,Arapahoe,CO
+JANE DOE1993,-1,female,white,1106923,unidentified,,,,,
+JENNIFER DOUGLAS,50,female,white,601061,nonFamilyAbduct,1967,1984,DENVER,,CO
+ROMEY DUTTON,15,female,white,1301807,endangeredRunaway,2002,2017,ALAMOSA,Alamosa,CO
+BOBBY ELDRIDGE,16,male,white,1290732,endangeredRunaway,2001,2017,AURORA,Arapahoe,CO
+ROGER ELLISON,54,male,white,601166,nonFamilyAbduct,1963,1981,CEDAREDGE,Delta,CO
+MARIA EMETERIO,18,female,hispanic,1199353,endangeredRunaway,1998,2012,DENVER,Denver,CO
+RHIANNON FIELDS,17,female,white,1296519,endangeredRunaway,1999,2017,LAKEWOOD,Jefferson County,CO
+THANIA GARCIA,17,female,hispanic,1261327,endangeredRunaway,2000,2015,LAFAYETTE,,CO
+MIRANDA GILL,15,female,white,1299965,endangeredRunaway,2001,2017,DENVER,Adams,CO
+DEJA GLEASON,14,female,white,1272485,endangeredRunaway,2002,2016,THORNTON,Adams,CO
+DAVID GOSNELL,22,male,whiteHisp,858017,familyAbduct,1994,1998,FONTANA,San Bernardino,CA
+ERICA HALMICH,16,female,white,1293696,endangeredRunaway,2000,2017,SEDALIA,Douglas,CO
+ISAAC HAMILTON,15,male,biracial,1299290,endangeredRunaway,2002,2017,DENVER,Jefferson,CO
+CHRISTOPHER HARVEY,48,male,white,603350,nonFamilyAbduct,1969,1984,HINSDALE COUNTY,Hinsdale,CO
+JACKIE HAY,41,female,white,601673,nonFamilyAbduct,1976,1981,SHAWNEE COUNTY,,KS
+JON HAYNES,54,male,white,1158608,missing,1962,1981,NEDERLAND,Boulder,CO
+KATHLEEN HERNANDEZ,17,female,biracial,1279831,endangeredRunaway,2000,2016,DENVER,Denver,CO
+ALONDRA HORNE,17,female,hispanic,1299749,endangeredRunaway,1999,2017,COLORADO SPRINGS,El Paso,CO
+CHASITY JACOBS,17,female,white,1307211,endangeredRunaway,2000,2017,FORT COLLINS,Larimer,CO
+JASMINE JOHNSON,16,female,biracial,1307295,endangeredRunaway,2000,2017,COMMERCE CITY,Adams,CO
+RAYANNAH JONES,16,female,white,1265450,endangeredRunaway,2000,2015,LITTLETON,Arapahoe,CO
+JAMES KNOX,16,male,white,1304729,endangeredRunaway,2001,2017,FOUNTAIN,El Paso,CO
+SUMMER LARNED-DURAN,20,female,biracial,1238094,endangeredRunaway,1997,2014,DENVER,Adams,CO
+MAURICE LEDAY,17,male,biracial,1302982,endangeredRunaway,1999,2017,WATKINS,Arapahoe,CO
+BRIANNA LEE,15,female,white,1306758,endangeredRunaway,2002,2017,CENTENNIAL,Arapahoe,CO
+ASHLEI LIVERS,17,female,white,1292024,endangeredRunaway,1999,2016,LAS ANIMAS,Bent,CO
+SERGIO LOPEZ,17,male,hispanic,1292002,endangeredRunaway,1999,2016,PUEBLO,Pueblo,CO
+TRUE LOVE,17,male,black,1287272,endangeredRunaway,1999,2017,DENVER,Denver,CO
+PHILLIP LUMPKIN,16,male,white,1307333,endangeredRunaway,2000,2017,CASTLE ROCK,Douglas,CO
+MASTER MARTIN,17,male,black,1284083,endangeredRunaway,2000,2016,COLORADO SPRINGS,El Paso,CO
+LUIS MARTINEZ,17,male,hispanic,1307417,endangeredRunaway,1999,2017,FORT COLLINS,Larimer,CO
+JONELLE MATTHEWS,45,female,white,601837,nonFamilyAbduct,1972,1984,GREELEY,,CO
+SYDNEY MCCOLLUM,17,female,white,1270480,endangeredRunaway,2000,2016,COMMERCE CITY,Adams,CO
+SELENA MEDINA,16,female,hispanic,1295290,endangeredRunaway,2001,2017,COLORADO SPRINGS,El Paso,CO
+LUIS MENDOZA AVINA,16,male,hispanic,1299990,endangeredRunaway,2000,2017,BRIGHTON,Weld,CO
+ELIZABETH MILLER,48,female,white,603363,nonFamilyAbduct,1969,1983,IDAHO SPRINGS,Clear Creek,CO
+JONATHAN MITCHELL,15,male,white,1284163,endangeredRunaway,2001,2016,AURORA,Arapahoe County,CO
+DAVIAN MONTOYA,15,male,hispanic,1306836,endangeredRunaway,2001,2017,DENVER,Denver,CO
+ANTOINETTE MORALES,15,female,biracial,1306700,endangeredRunaway,2001,2017,DENVER,Denver,CO
+ANTHONY MOYA,30,male,hispanic,603375,nonFamilyAbduct,1987,1989,DENVER,Denver,CO
+MICHAEL NELSON,15,male,biracial,1307209,endangeredRunaway,2001,2017,EVANS,Weld,CO
+CULLEN OMORA,16,male,white,1306098,endangeredRunaway,2001,2017,GOLDEN,Jefferson,CO
+AARSHIYA PATIL,10,female,asian,1192589,familyAbduct,2007,2010,THORNTON,Adams,CO
+AARSHIYA PATIL,10,female,asian,1192589,familyAbduct,2007,2010,THORNTON,Adams,CO
+ROBERT PILLSEN-RAHIER,42,male,white,741528,endangeredMissing,1974,1990,COLORADO SPRINGS,El Paso,CO
+DIANA PORTILLO,19,female,hispanic,1153064,familyAbduct,1998,2010,DENVER,Denver,CO
+JULIAN REVOLIE,17,male,biracial,1276521,endangeredRunaway,1999,2016,DENVER,,CO
+IAN RICHARDSON,41,male,white,941508,endangeredMissing,1976,1992,DENVER,Denver,CO
+GAEL ROMERO-MARTINEZ,14,male,hispanic,1304917,endangeredRunaway,2002,2017,DENVER,Denver,CO
+EVELYN RUELAS,16,female,hispanic,1297131,endangeredRunaway,2000,2017,FORT COLLINS,Larimer,CO
+BELLA SAENZ,14,female,hispanic,1296965,endangeredRunaway,2003,2017,PUEBLO,Pueblo,CO
+ROCIO SALAS,15,female,hispanic,1303167,endangeredRunaway,2002,2017,DENVER,Denver,CO
+K-LYNNE SALAZAR,17,female,white,1305201,endangeredRunaway,2000,2017,SAN LUIS,Costilla,CO
+KELSIE SCHELLING,26,female,white,1225732,endangeredMissing,1991,2013,PUEBLO,"City of Pueblo, CO",CO
+NICOLE SILVERS,20,female,white,1231723,endangeredRunaway,1997,2014,LONGMONT,Boulder,CO
+SARAH SKIBA,28,female,white,860296,endangeredMissing,1989,1999,GRANBY,Grand,CO
+LASHAYA STINE,17,female,black,1272949,endangeredMissing,2000,2016,AURORA,Arapahoe,CO
+ALEXANDER TALAMANTES-BOURG,18,male,hispanic,901836,familyAbduct,1999,2000,DENVER,Jefferson,CO
+JOSE TORRES,16,male,hispanic,1305875,endangeredRunaway,2000,2017,DENVER,Denver,CO
+KATRINA TREACY,15,female,white,1284602,endangeredRunaway,2002,2016,CRAIG,Moffat,CO
+LIGIA URIBE-RAMOS,16,female,hispanic,975938,familyAbduct,2001,2002,DENVER,Denver,CO
+LIGIA URIBE-RAMOS,16,female,hispanic,975938,familyAbduct,2001,2002,DENVER,Denver,CO
+CHRISTOPHER VIGIL,49,male,white,1183718,endangeredMissing,1968,1978,POUDRE PARK,Larimer,CO
+GRAYCEN WAGNER,18,female,white,1271818,endangeredRunaway,1999,2016,DENVER,Arapahoe,CO
+TATYANA WHITE,17,female,black,1304734,endangeredRunaway,2000,2017,AURORA,Arapahoe,CO
+ISIS WHITMIER,17,female,black,1287974,endangeredRunaway,2000,2017,AURORA,Arapahoe,CO
+SHYLA WYMER,16,female,white,1308294,endangeredRunaway,2001,2017,DENVER,Denver,CO

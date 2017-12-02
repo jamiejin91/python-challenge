@@ -1,0 +1,32 @@
+name,age,gender,ethnicity,NCMEC_case#,case_type,birth_year,missing_year,missing_city,missing_county,missing_state
+WILDA BENOIT,39,female,white,770743,endangeredMissing,1978,1992,CREOLE,,LA
+ROY CLARK,30,male,white,1028738,endangeredMissing,1987,2005,PORT EADS,,LA
+ELBERT COMEAUX,17,male,black,1306748,endangeredRunaway,2000,2017,GRETNA,Jefferson,LA
+NAR'QUISIA DODSON,17,female,black,1275336,endangeredRunaway,1999,2016,BAKER,East Baton Rouge,LA
+JANE DOE1980,-1,female,white,1184278,unidentified,,,,,
+JOHN DOE1982,-1,male,white,1184274,unidentified,,,,,
+JANE DOE1997,-1,female,black,1184553,unidentified,,,,,
+JANE DOE2007,-1,female,black,1184275,unidentified,,,,,
+ELMER ECHEVERRIA,17,male,hispanic,1264191,endangeredRunaway,1999,2016,SLIDELL,Saint Tammany,LA
+BRIANNA EVANS,18,female,white,1276362,endangeredRunaway,1999,2016,NEW ORLEANS,Orleans,LA
+KEIOSHA FELIX,20,female,black,1193817,nonFamilyAbduct,1997,2012,DUSON,Lafayette,LA
+MATTHEW FONTENOT,17,male,white,1263094,endangeredRunaway,2000,2016,GRETNA,Orleans,LA
+COREY GILBERT,38,male,black,754452,endangeredMissing,1978,1984,JEFFERSON,Jefferson,LA
+BRIANNA HAYCRAFT,17,female,white,1297003,endangeredRunaway,2000,2017,NATCHITOCHES,Natchitoches,LA
+RAYLENE HELSLEY,46,female,white,601681,nonFamilyAbduct,1970,1983,RUSTON,,LA
+SEAN JONES,17,male,black,1306153,endangeredRunaway,2000,2017,NEW ORLEANS,Orleans Parish,LA
+T'MAYIA KINNEY,17,female,black,1290354,endangeredRunaway,2000,2017,BOSSIER CITY,Bossier,LA
+NADIE LACROIX,16,female,black,1306747,endangeredRunaway,2001,2017,NEW ORLEANS,Orleans,LA
+CASSANDRA LALONDE,45,female,white,1235746,endangeredMissing,1972,1988,WESTWEGO,Jefferson,LA
+DAVID LI,8,male,asian,1208137,familyAbduct,2009,2012,METAIRIE,Jefferson,LA
+BESSY MAZARIEGOS PEREIRA,20,female,hispanic,1239317,endangeredRunaway,1997,2014,SLIDELL,Saint Tammany,LA
+ELLA MINEAU,17,female,white,1279366,endangeredRunaway,2000,2016,SHREVEPORT,Caddo,LA
+WESLEY MORGAN,18,male,white,912370,endangeredMissing,1999,2001,CLINTON,East Feliciana,LA
+EMANUEL POLK,25,male,black,1162932,endangeredMissing,1991,2008,METAIRIE,Jefferson,LA
+DENISE PRAK,16,female,asian,1303002,endangeredRunaway,2001,2017,NEW IBERIA,Iberia,LA
+TARANIKA RAYMOND,35,female,black,815318,endangeredRunaway,1982,1995,NEW ORLEANS,Orleans,LA
+TAVIS ROBERTSON,18,male,black,1265622,endangeredRunaway,1999,2016,GRETNA,Jefferson,LA
+MARY RODERMUND,55,female,white,1229982,endangeredMissing,1962,1978,MORGAN CITY,Saint Mary,LA
+ALEXXUS SNYDER,20,female,biracial,1226973,endangeredRunaway,1996,2013,NATCHITOCHES,Natchitoches,LA
+HOLLY TRICHEL,25,female,white,1119177,endangeredRunaway,1992,2009,BATON ROUGE,East Baton Rouge,LA
+RENATA WHITEHEAD,36,female,black,1158708,endangeredRunaway,1981,1996,JONESVILLE,Catahoula,LA

@@ -1,0 +1,42 @@
+name,age,gender,ethnicity,NCMEC_case#,case_type,birth_year,missing_year,missing_city,missing_county,missing_state
+JEREMY BALDONADO-HAWTHORN,17,male,hispanic,1290817,endangeredRunaway,2000,2017,CLOVIS,Curry,NM
+ESTANISLADO CARDENAS RAMIREZ,17,male,hispanic,1286551,endangeredRunaway,2000,2017,RIO RANCHO,Sandoval,NM
+JOSE CARDENAS RAMIREZ,16,male,hispanic,1292431,endangeredRunaway,2001,2017,ALBUQUERQUE,Bernalillo,NM
+ANTHONETTE CAYEDITO,40,female,biracial,600709,nonFamilyAbduct,1976,1986,GALLUP,,NM
+PATRICIA CHESHER,60,female,white,1141054,endangeredRunaway,1957,1969,ALBUQUERQUE,Bernalillo,NM
+RACHEL DENNISON,14,female,white,1289364,endangeredRunaway,2003,2017,ALBUQUERQUE,Bernalillo,NM
+ANIKA DESCHARME,14,female,amInd,1308389,endangeredRunaway,2003,2017,ALBUQUERQUE,Bernalillo,NM
+JANE DOE1985,-1,female,white,1184548,unidentified,,,,,
+JANE DOE1990,-1,female,hispanic,1184511,unidentified,,,,,
+JANE DOE1996,-1,female,white,1184306,unidentified,,,,,
+REYLYNN FIERRO,17,female,hispanic,1299347,endangeredRunaway,2000,2017,LAS CRUCES,Dona Ana,NM
+RANDALL GAMBOA,15,male,hispanic,1304832,endangeredRunaway,2002,2017,ALBUQUERQUE,Bernalillo,NM
+MARYJANE GONZALEZ,16,female,hispanic,1299808,endangeredRunaway,2001,2016,HOBBS,Lea,NM
+CHARLES HEAL,17,male,white,1303893,endangeredRunaway,1999,2017,LAS CRUCES,Dona Ana,NM
+BARRY KEPHART,47,male,white,778439,endangeredMissing,1970,1981,ALBUQUERQUE,Bernalillo,NM
+MARJORIE KNOX,44,female,biracial,706298,endangeredMissing,1973,1987,CHAPARRAL,Dona Ana,NM
+SKYLA MARBURGER,22,female,white,812912,endangeredMissing,1995,1995,SANTA FE,,NM
+ENRIQUE MEDEL,20,male,hispanic,1171047,endangeredRunaway,1997,2011,ALBUQUERQUE,Bernalillo,NM
+DAVID MIERA,50,male,white,1107558,endangeredMissing,1967,1970,DIXON,Rio Arriba,NM
+DOMENIC MORA,14,male,hispanic,1303782,endangeredRunaway,2003,2017,ALBUQUERQUE,Bernalillo,NM
+ALEXA MURILLO,15,female,hispanic,1302559,endangeredRunaway,2002,2017,ROSWELL,Chaves,NM
+DAVID ORTIZ,25,male,hispanic,1168354,missing,1991,2010,SILVER CITY,Grant,NM
+JOLENE PACHECO,16,female,hispanic,1307255,endangeredRunaway,2001,2017,ALBUQUERQUE,Bernalillo,NM
+MARICELA PERALTA,17,female,white,1280411,endangeredRunaway,2000,2016,HOBBS,Lea,NM
+MANUEL PEREA,15,male,hispanic,1296622,endangeredRunaway,2002,2017,DEMING,Luna,NM
+JOEL RAMIREZ,15,male,hispanic,1307544,endangeredRunaway,2002,2017,ALBUQUERQUE,Bernalillo,NM
+TIFFANY REID,29,female,amInd,990719,endangeredMissing,1987,2004,SHIPROCK,San Juan,NM
+CINDY RIVERA,24,female,hispanic,1219282,missing,1993,2012,LAS VEGAS,San Miguel,NM
+KINGSTON RODRIGUEZ,6,male,hispanic,1300481,familyAbduct,2011,2016,TAOS,Taos,NM
+ROBERT ROMERO,24,male,whiteHisp,887928,endangeredMissing,1993,2000,SANTA FE,,NM
+ARIEL RUYBAL,17,female,hispanic,1251080,endangeredRunaway,1999,2015,BELEN,Valencia,NM
+CHARLOTTE SALYERS,16,female,white,1272176,endangeredRunaway,2001,2016,RIO RANCHO,Sandoval,NM
+BILLY SENA,50,male,hispanic,603133,nonFamilyAbduct,1967,1979,ALBUQUERQUE,Bernalillo,NM
+BILLY SENA,50,male,hispanic,603133,nonFamilyAbduct,1967,1979,ALBUQUERQUE,Bernalillo,NM
+NICHOLAS SMITH,38,male,white,760608,endangeredMissing,1979,1991,LAS CRUCES,,NM
+CAROLINE TEAGUE,20,female,white,951425,familyAbduct,1997,2002,ALAMOGORDO,Otero,NM
+LEROY TORRES,16,male,hispanic,1299803,endangeredRunaway,2000,2017,ALBUQUERQUE,Bernalillo,NM
+VICTOR TREJO,45,male,hispanic,604701,endangeredMissing,1972,1986,LAS CRUCES,Dona Ana,NM
+ESTHER VALDEZ,50,female,hispanic,1086978,endangeredMissing,1967,1984,CHAMA,Rio Arriba,NM
+APRIL WILLIAMS,14,female,hispanic,1290539,endangeredRunaway,2003,2017,BELEN,Valencia,NM
+APRIL WILLIAMS,14,female,hispanic,1290539,endangeredRunaway,2003,2017,BELEN,Valencia,NM

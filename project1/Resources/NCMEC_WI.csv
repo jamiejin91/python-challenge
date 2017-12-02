@@ -1,0 +1,51 @@
+name,age,gender,ethnicity,NCMEC_case#,case_type,birth_year,missing_year,missing_city,missing_county,missing_state
+ADAM ALJAMRAH,9,male,white,1238491,familyAbduct,2007,2014,MILWAUKEE,Milwaukee,WI
+ADAM ALJAMRAH,9,male,white,1238491,familyAbduct,2007,2014,MILWAUKEE,Milwaukee,WI
+BHAKTI ANBARASAN,17,female,asian,1302248,endangeredRunaway,2000,2017,MILWAUKEE,Milwaukee,WI
+ORIN ANDERSON,60,male,white,1168945,endangeredMissing,1956,1973,MEQUON,Ozaukee,WI
+GANEM AVILA,9,male,biracial,1222690,familyAbduct,2008,2013,WAUKESHA,Waukesha,WI
+KAYLA BERG,24,female,white,1129610,endangeredMissing,1993,2009,ANTIGO,Langlade,WI
+JIZIA BIRMINGHAM,16,female,black,1290083,endangeredRunaway,2000,2017,MILWAUKEE,Milwaukee County,WI
+RICKY BRYANT,71,female,white,1007456,endangeredMissing,1945,1949,MAUSTON,Juneau,WI
+SARA BUSHLAND,37,female,white,818087,endangeredMissing,1980,1996,SPOONER,Washburn,WI
+DONNA CHRISTENSEN,17,female,amInd,1292117,endangeredRunaway,2000,2017,MOSINEE,Marathon,WI
+NIKYA COMMODORE-KROMAH,17,female,black,1302776,endangeredRunaway,2000,2017,MILWAUKEE,Milwaukee,WI
+ALEXIS CONLEY-WADE,19,female,biracial,1247811,endangeredRunaway,1998,2014,MILWAUKEE,Milwaukee,WI
+JANE DOE1982,-1,female,black,1232237,unidentified,,,,,
+JOHN DOE1995,-1,male,white,1234507,unidentified,,,,,
+JANE DOE1999,-1,female,white,1101693,unidentified,,,,,
+JANE DOE2008,-1,female,white,1115220,unidentified,,,,,
+JOHN DOE2008,-1,male,unknown,1137958,unidentified,,,,,
+JANE DOE2009,-1,female,white,1123378,unidentified,,,,,
+MADELINE EDMAN,27,female,biracial,1063964,endangeredRunaway,1990,2005,LA CROSSE,La Crosse,WI
+JAMES EGAN,63,male,white,1164999,missing,1954,1972,MEQUON,Ozaukee,WI
+MARCINA ELIZALDI,17,female,biracial,1291479,endangeredRunaway,2000,2017,MILWAUKEE,Milwaukee County,WI
+MERCEDES FAIRCLOTH,17,female,white,1305755,endangeredRunaway,2000,2017,SOLON SPRINGS,Douglas,WI
+ROBERT FRITZ,40,male,white,601377,endangeredMissing,1977,1983,CAMPBELLSPORT,Fond du Lac,WI
+SINCERE GRANT,17,female,black,1281260,endangeredRunaway,2000,2016,MILWAUKEE,Milwaukee,WI
+DEMARCO HARRISON,18,male,black,1305003,missing,1999,2017,MILWAUKEE,Milwaukee County,WI
+DONTRAY HUNTER,44,male,black,1138063,endangeredMissing,1973,1975,MILWAUKEE,Milwaukee,WI
+TAYLOR JACKSON,18,female,black,1269902,endangeredRunaway,1999,2016,MILWAUKEE,Milwaukee,WI
+BROOKLYN JOHNSON,17,female,amInd,1308033,endangeredRunaway,1999,2017,MARSHFIELD,Wood County,WI
+NYCHELLE JONES,17,female,black,1296023,endangeredRunaway,1999,2016,MILWAUKEE,Milwaukee,WI
+AH-JAH KERN,15,female,black,1297810,endangeredRunaway,2002,2017,MILWAUKEE,Milwaukee County,WI
+KENDRA LAMB,16,female,white,1305199,endangeredRunaway,2001,2017,GLIDDEN,Ashland,WI
+ASHLEY LANCOUR,17,female,biracial,1297900,endangeredRunaway,2000,2017,MILWAUKEE,Milwaukee,WI
+ALEXANDRA LANZ,17,female,biracial,1298304,endangeredRunaway,1999,2017,MILWAUKEE,Milwaukee,WI
+RACHEL LAWRENCE,15,female,white,1308857,endangeredRunaway,2001,2017,FREDERIC,Polk,WI
+JANE MANITOWOC DOE1980,-1,female,white,1294699,unidentified,,,,,
+MACKENZIE MARKEN,16,female,white,1257743,endangeredRunaway,2001,2015,SCHOFIELD,Marathon,WI
+TAJUAN MCKINNEY-AMOS,12,male,black,1306558,endangeredRunaway,2005,2017,MILWAUKEE,Milwaukee,WI
+KIARA MILLER,15,female,biracial,1287909,endangeredRunaway,2002,2017,MILWAUKEE,Milwaukee County,WI
+KIARA MILLER,15,female,biracial,1304476,endangeredRunaway,2002,2017,MILWAUKEE,Milwaukee County,WI
+ALEJANDRA OVALLE,16,female,biracial,1306239,endangeredRunaway,2001,2017,ONEIDA,,WI
+JAIME OVALLE,17,male,biracial,1307492,endangeredRunaway,2000,2017,APPLETON,Outagamie County,WI
+ALEXIS PATTERSON,22,female,black,934881,endangeredMissing,1995,2002,MILWAUKEE,Milwaukee,WI
+LOGAN PETERSON,16,male,amInd,1298028,endangeredRunaway,2001,2017,ASHLAND,Ashland County,WI
+SANT'ASHA PRUETT,18,female,black,1287102,endangeredRunaway,1999,2016,MILWAUKEE,Milwaukee County,WI
+JAYMAYCIA REEDER,17,female,biracial,1285748,endangeredRunaway,2000,2016,MILWAUKEE,Milwaukee,WI
+STACY RUDOLPH,29,female,white,925716,familyAbduct,1987,2000,MEDFORD,Taylor,WI
+SUZANNE SCHULTZ,56,female,white,966014,endangeredMissing,1961,1978,BLACK EARTH,Dane,WI
+CATHERINE SJOBERG,60,female,white,978434,endangeredMissing,1957,1974,CONCORD,Waukesha,WI
+DYNASTY WILLIAMS,14,female,black,1304976,endangeredRunaway,2003,2017,MILWAUKEE,Milwaukee,WI
+IVY ZASTROW-HANSON,16,female,white,1306811,endangeredRunaway,2001,2017,WAUSAU,Marathon County,WI

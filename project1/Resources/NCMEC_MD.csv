@@ -1,0 +1,110 @@
+name,age,gender,ethnicity,NCMEC_case#,case_type,birth_year,missing_year,missing_city,missing_county,missing_state
+UNKNOWN ,-1,female,white,DoeJane101307,unknown,,,,,
+GANIGNUNT AIEMSAKUL,34,female,asian,m02052603,endangeredMissing,1982,2002,GAITHERSBURG,Montgomery,MD
+GEORGE BARKSDALE,52,male,black,051g12635,endangeredMissing,1965,1969,BALTIMORE,,MD
+GEORGE BARKSDALE,52,male,black,1182519,endangeredMissing,1965,1969,BALTIMORE,Baltimore City,MD
+ANGEL BARNES,17,female,black,1299238,endangeredRunaway,2000,2017,BALTIMORE,Baltimore City,MD
+MARIA BARRIENTOS ALDANA,15,female,hispanic,1307738,endangeredRunaway,2002,2017,PARKVILLE,Baltimore,MD
+ROCHELLE BATTLE,25,female,black,1118514,endangeredMissing,1992,2009,BALTIMORE,Baltimore City,MD
+STEPHEN BEARD,30,male,black,1151857,endangeredMissing,1987,2001,BALTIMORE,Baltimore,MD
+EMAD BEN-MRAD,20,male,white,884431,familyAbduct,1996,2000,GAITHERSBURG,Montgomery,MD
+REUBEN BLACKWELL,24,male,black,818486,familyAbduct,1992,1996,CLINTON,Prince Georges,MD
+BOB BOYES,58,male,white,1151854,endangeredMissing,1959,1968,PORT REPUBLIC,Calvert,MD
+BOB BOYES,58,male,white,4777j,endangeredMissing,1959,1968,PORT REPUBLIC,CALVERT,MD
+ALLEN BRISCOE,47,male,black,600428,nonFamilyAbduct,1969,1985,PHILADELPHIA,,PA
+SABREE BROOKS,16,female,black,b170521332,endangeredRunaway,2000,2017,POTOMAC,Montgomery,MD
+WILLIAM BROOKS,42,male,black,964565,endangeredMissing,1975,1992,FREDERICK,Frederick,MD
+AYSIA BROWN,16,female,black,g170516354,endangeredRunaway,2001,2017,TAKOMA PARK,Montgomery,MD
+ALEXANDER BUGARSKI,10,male,biracial,1225766,familyAbduct,2007,2013,BALTIMORE,Baltimore City,MD
+GEORGE BURDYNSKI,35,male,white,780262,nonFamilyAbduct,1982,1993,BRENTWOOD,Prince George's,MD
+ANTHONY CALZADA,13,male,hispanic,1111311,familyAbduct,2004,2008,FORT WASHINGTON,Prince Georges,MD
+MATTHEW CARRINGTON,4,male,black,17707435,endangeredMissing,2012,2016,SEVERN,Anne Arundel,MD
+SARA CASTILLO,28,female,whiteHisp,063251114,endangeredRunaway,1988,2006,RANDALLSTOWN,Baltimore,MD
+SHARIECE CLARK,15,female,biracial,9170202761,endangeredMissing,2001,2017,BALTIMORE,,MD
+WILLIE CLARK,60,male,black,055j17383,endangeredMissing,1956,1978,BALTIMORE,,MD
+WILLIAM COLE,18,male,white,1306560,missing,1999,2017,CATONSVILLE,Baltimore,MD
+HAROLD COOPER,37,male,black,012320851,endangeredMissing,1980,2001,FT. WASHINGTON,Prince George's,MD
+JANE DOE1976,-1,female,white,1106539,unidentified,,,,,
+JANE DOE1979,-1,female,unknown,1112803,unidentified,,,,,
+JOHN DOE1981,-1,male,black,1184286,unidentified,,,,,
+JANE DOE1982,-1,female,black,1184280,unidentified,,,,,
+JANE DOE1996,-1,female,black,1137962,unidentified,,,,,
+JANE DOE1996,-1,female,black,1184454,unidentified,,,,,
+JOHN DOE2007,-1,male,black,1106542,unidentified,,,,,
+JOHN DOE2016,-1,male,black,1272838,unidentified,,,,,
+CELAE EPPS,16,female,black,1289531,endangeredRunaway,2001,2017,HAGERSTOWN,Washington,MD
+CADESIA FIELDS,18,female,black,1304027,missing,1998,2017,FRUITLAND,Wicomico,MD
+AMANDA FLETCHER,19,female,black,FletcherAmanda,endangeredRunaway,1998,2016,TEMPLE HILLS,Prince George's,MD
+TREY FREELS,20,male,white,1297957,missing,1997,2017,OLNEY,Montgomery,MD
+AMARU FRISANCHO-KISS,14,male,biracial,1155436,familyAbduct,2002,2010,BALTIMORE,Baltimore City,MD
+AMARU FRISANCHO-KISS,14,male,biracial,1155436,familyAbduct,2002,2010,BALTIMORE,Baltimore City,MD
+AMARU FRISANCHO-KISS,14,male,biracial,1155436,familyAbduct,2002,2010,BALTIMORE,Baltimore City,MD
+TIFFANY GOINES,42,female,black,947796,endangeredMissing,1974,1987,FREDERICK,Frederick,MD
+CRYSTAL HAAG,34,female,white,842865,endangeredMissing,1983,1997,BALTIMORE,Baltimore City,MD
+KENNETH HAGER,82,male,white,053j17385,endangeredMissing,1935,1947,BALTIMORE,,MD
+SARA HEIN,16,female,white,R170514746,endangeredRunaway,2001,2017,ROCKVILLE,Montgomery,MD
+SANTA HERNANDEZ,18,female,whiteHisp,15CR91592,endangeredRunaway,1999,2015,FREDERICK,Frederick,MD
+SANTA HERNANDEZ-CARRILLO,18,female,hispanic,1257757,endangeredRunaway,1999,2015,FREDERICK,Frederick,MD
+VERONICA AZUCENA HERNIQUEZ PONCE,16,female,hispanic,1290827,endangeredRunaway,2001,2017,HYATTSVILLE,Prince Georges,MD
+TOYA HILL,44,female,black,601715,nonFamilyAbduct,1973,1982,BALTIMORE,,MD
+BAKR HIZI,8,male,white,1190626,familyAbduct,2009,2012,WHITE MARSH,Baltimore,MD
+JACOB HOGGLE,5,male,biracial,1237561,endangeredMissing,2012,2014,GAITHERSBURG,Montgomery,MD
+JACOB HOGGLE,5,male,biracial,g14043687,endangeredMissing,2012,2014,GAITHERSBURG,Montgomery,MD
+JACOB HOGGLE,5,male,biracial,1237561,endangeredMissing,2012,2014,GAITHERSBURG,Montgomery,MD
+JACOB HOGGLE,5,male,biracial,g14043687,endangeredMissing,2012,2014,GAITHERSBURG,Montgomery,MD
+DAWN HOLT,42,female,white,b5705830,endangeredMissing,1975,1996,WALDORF,Charles,MD
+ANASTASIA HUNKOVIC,8,female,white,1142088,familyAbduct,2009,2010,BALTIMORE,Baltimore,MD
+ANASTASIA HUNKOVIC,8,female,white,1142088,familyAbduct,2009,2010,BALTIMORE,Baltimore,MD
+"DONALD IZZETT, JR.",41,male,white,a5207910,endangeredMissing,1975,1995,CUMBERLAND,ALLEGANY,MD
+KAYLIE JACKSON,7,female,black,1241620,familyAbduct,2010,2013,SILVER SPRING,Montgomery,MD
+KAYLIE JACKSON,7,female,black,s15041162,endangeredMissing,2010,2013,SILVER SPRING,Montgomery,MD
+NANCY JASON,59,female,white,1215985,missing,1958,1977,BETHESDA,Montgomery,MD
+HEATHER JOHNSON,37,female,white,99740497,endangeredMissing,1980,1999,GLEN BURNIE,Anne Arundel,MD
+ALEESEEA JONES,16,female,biracial,1308867,endangeredRunaway,2000,2017,NEW MARKET,Frederick,MD
+ALEESEEA JONES,16,female,black,2017104963,endangeredRunaway,2000,2017,NEW MARKET,Frederick,MD
+KAREN KAMSCH,55,female,white,1078814,endangeredMissing,1962,1976,PASADENA,Anne Arundel,MD
+JEWEL KORANTENG,20,female,black,031d05999,familyAbduct,1997,2000,BALTIMORE,,MD
+JEWEL KORANTENG,20,female,black,031d05999,familyAbduct,1997,2000,BALTIMORE,,MD
+LISA LAMBERT,52,female,biracial,963608,endangeredMissing,1964,1979,BALTIMORE,Baltimore City,MD
+RICARDO LEVENBERRY,22,male,black,14002779,endangeredMissing,1995,2014,ELKTON,Cecil,MD
+ANGEL LITTLE,18,female,black,1283705,endangeredRunaway,1999,2016,BEL AIR,Harford,MD
+JESICA LOPEZ-RIVAS,15,female,hispanic,1308541,endangeredRunaway,2002,2017,SAVAGE,Howard,MD
+JESSICA LOPEZ-RIVAS,15,female,whiteHisp,1793979,endangeredMissing,2002,2017,SAVAGE,Howard,MD
+KATHERINE LYON,53,female,white,793205,endangeredMissing,1964,1975,WHEATON,Montgomery,MD
+KATHERINE LYON,53,female,white,793205,endangeredMissing,1964,1975,WHEATON,Montgomery,MD
+HANNAH MARQUART,17,female,white,1306090,endangeredRunaway,2000,2017,HAGERSTOWN,Washington,MD
+MELODY MCKOY,37,female,black,763048,nonFamilyAbduct,1979,1991,BALTIMORE,Baltimore City,MD
+MELODY MCKOY,37,female,black,917l04683,nonFamilyAbduct,1979,1991,BALTIMORE,BALTIMORE CITY,MD
+KIMBERLY MILEO,55,female,white,83160902,endangeredMissing,1962,1983,CROOM,Prince George's,MD
+KENNEDY MILLS,13,female,black,7170800640,endangeredRunaway,2004,2017,BALTIMORE,,MD
+GARNELL MOORE,22,male,black,1047088,endangeredMissing,1995,2005,BALTIMORE,Baltimore City,MD
+TRACIE MOSLEY,41,female,white,951071403,endangeredMissing,1976,1995,REISTERSTOWN,Baltimore,MD
+MARIAH MOZINGO,24,female,white,934i02234,endangeredMissing,1993,1993,BALTIMORE,,MD
+JUDITH O'DONNELL,56,female,white,qsph00001,endangeredMissing,1961,1980,BALTIMORE,,MD
+ABNER ORTIZ-MORALES,17,male,hispanic,16000471,endangeredRunaway,1999,2016,EASTON,Talbot,MD
+NERIS PALACIOS BONILLA,17,male,hispanic,1305476,endangeredRunaway,1999,2017,ANNAPOLIS,Anne Arundel,MD
+KACEE PARKER,14,male,black,1303383,endangeredRunaway,2003,2017,BALTIMORE,Baltimore City,MD
+KATHY PEREIRA,17,female,hispanic,1253629,endangeredRunaway,2000,2015,GAITHERSBURG,Montgomery,MD
+VICTORIA PHILLIPS,15,female,biracial,1299051,endangeredRunaway,2002,2017,UPPER MARLBORO,Prince Georges,MD
+MAGDALEN PIXLER,16,female,white,1305503,endangeredRunaway,2001,2017,HAGERSTOWN,Washington,MD
+LAMARST PORTER,32,male,black,03739810,endangeredMissing,1984,2003,SEVERN,Anne Arundel,MD
+SHANNON POTTER,47,female,white,601868,nonFamilyAbduct,1970,1984,BALTIMORE,Baltimore,MD
+KATHERYN QUACKENBUSH,53,female,white,835963,endangeredMissing,1964,1981,SALISBURY,Wicomico,MD
+KATHRYN QUACKENBUSH,53,female,white,m5406801,endangeredMissing,1964,1981,DELMAR,WICOMICO,MD
+WILIAN RAMIREZ-ROJAS,18,male,whiteHisp,17CR35435,endangeredRunaway,1999,2017,FREDERICK,Frederick,MD
+CONSUELO RAMOS CRUZ,14,female,hispanic,1302410,endangeredRunaway,2003,2017,FAULKNER,Charles,MD
+RAMONA REDD,34,female,black,024c05792,endangeredMissing,1983,2002,BALTIMORE,BALTIMORE CITY,MD
+TALAYA RIDDICK,14,female,black,1308517,endangeredRunaway,2002,2016,BALTIMORE,Baltimore City,MD
+JANAE' ROBINSON-MILLER,17,female,black,1291462,endangeredRunaway,2000,2017,CAMP SPRINGS,Prince Georges,MD
+MARIA ROMERO,19,female,whiteHisp,145d03697,endangeredRunaway,1998,2014,BALTIMORE,,MD
+ERCELY ROMERO SORIANO,18,female,hispanic,1252365,endangeredRunaway,1999,2015,BEL AIR,Harford,MD
+ERCELY ROMERO-SORIANO,18,female,whiteHisp,201500191227,endangeredRunaway,1999,2015,BEL AIR,Harford,MD
+SOLOMON ROSE,48,male,black,1156752,endangeredMissing,1968,1972,BALTIMORE,Baltimore City,MD
+ANGIE RUIZ-FLORES,16,female,white,w170511576,endangeredRunaway,2001,2017,WHEATON,Montgomery,MD
+ADAM SHANNON,20,male,white,919137,familyAbduct,1997,2001,ROSEDALE,Baltimore,MD
+ADAM SHANNON,20,male,white,919137,familyAbduct,1997,2001,ROSEDALE,Baltimore,MD
+DEJA STATEN,16,female,black,1299378,endangeredRunaway,2001,2017,PARKVILLE,Baltimore,MD
+JACINTO TERRAZO COBO,16,male,hispanic,1259112,endangeredRunaway,2001,2015,GWYNN OAK,Baltimore,MD
+FALLS ROAD UNIDENTIFIED,-1,female,black,960650730,unidentified,,,,,
+ROSA VILLAFUERTE-PORTILLO,18,female,hispanic,1275168,endangeredRunaway,1999,2016,CURTIS BAY,Baltimore City,MD
+KEILA YANEZ-MELENDEZ,17,female,hispanic,1268913,endangeredRunaway,1999,2016,BOWIE,Prince Georges,MD

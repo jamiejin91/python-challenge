@@ -1,0 +1,40 @@
+name,age,gender,ethnicity,NCMEC_case#,case_type,birth_year,missing_year,missing_city,missing_county,missing_state
+AARON ANDERSON,30,male,white,723921,nonFamilyAbduct,1987,1989,PINE CITY,Pine,MN
+ALEAH ANDERSON,12,female,black,1301273,endangeredRunaway,2005,2017,MINNEAPOLIS,Hennepin,MN
+KEVIN AYOTTE,38,male,white,600172,nonFamilyAbduct,1979,1982,SUGARBUSH TOWNSHIP,Beltrami,MN
+SERENA BONORDEN,16,female,biracial,1308523,endangeredRunaway,2000,2017,MINNEAPOLIS,Hennepin,MN
+RAKIA BROWN-SNARSKI,13,female,biracial,1296659,endangeredRunaway,2004,2017,MINNEAPOLIS,Hennepin,MN
+ELICIA BURRIS,15,female,black,1306733,endangeredRunaway,2002,2017,MINNEAPOLIS,Hennepin,MN
+PEDRO CHEL COBO,18,male,hispanic,1279989,endangeredRunaway,1999,2016,FARIBAULT,Rice,MN
+DAVID CONNIFF,17,male,white,1287816,endangeredRunaway,2000,2016,STEWARTVILLE,Olmsted,MN
+NOEL DALLUGE,48,male,white,1219312,endangeredMissing,1968,1986,AITKIN,Aitkin,MN
+ALEXIS DAVIS,15,female,black,1304639,endangeredRunaway,2002,2017,MINNEAPOLIS,Hennepin,MN
+JANE DOE2011,-1,female,unknown,1180176,unidentified,,,,,
+DEMETRIA DONETH,17,female,white,1307281,endangeredRunaway,1999,2017,MINNEAPOLIS,Hennepin,MN
+CORRINE ERSTAD,30,female,white,769157,nonFamilyAbduct,1987,1992,INVER GROVE HEIGHTS,Dakota,MN
+ROSEANNA FORCUM,34,female,white,1013652,endangeredMissing,1982,1998,SAINT CLOUD,Stearns,MN
+SIERRA FORD,15,female,black,1262464,endangeredRunaway,2002,2016,MINNEAPOLIS,Hennepin,MN
+ALISSA HALL,13,female,biracial,1301882,endangeredRunaway,2004,2017,MINNEAPOLIS,Hennepin,MN
+ALETHEA ISHAM,14,female,amInd,1290932,endangeredRunaway,2003,2017,DULUTH,Saint Louis,MN
+JEREMY JOURDAIN,18,male,amInd,1281567,endangeredMissing,1999,2016,BEMIDJI,Beltrami,MN
+CHRISTOPHER KERZE,44,male,white,738703,endangeredMissing,1973,1990,EAGAN,Dakota,MN
+JANET KRAMER,60,female,white,1222039,endangeredRunaway,1957,1971,WILLMAR,Kandiyohi,MN
+PARKER LAFROMBOISE,16,male,amInd,1304429,endangeredRunaway,2000,2017,SAINT PAUL,Ramsey,MN
+WILLIAM LAFROMBOISE,14,male,amInd,1304477,endangeredRunaway,2003,2017,SAINT PAUL,Ramsey County,MN
+REINA LANDAVERDE-HUEZO,18,female,hispanic,1261282,endangeredRunaway,1999,2015,CRYSTAL,Hennepin,MN
+JARED LARSON,17,male,white,1304814,endangeredRunaway,2000,2017,MONTICELLO,Wright,MN
+HANG LEE,41,female,asian,778205,nonFamilyAbduct,1975,1993,SAINT PAUL,Ramsey,MN
+TRISTEN LOCKHART,15,male,biracial,1298297,endangeredRunaway,2002,2017,ROCHESTER,Olmsted,MN
+DANIEL NEWVILLE,33,male,white,1290239,missing,1984,2002,NEW LONDON,Kandiyohi,MN
+PAIGE OVERBY,16,female,white,1297405,endangeredRunaway,2001,2017,MINNEAPOLIS,Anoka,MN
+VICTORIA OWCZYNSKY,44,female,white,1150452,endangeredMissing,1973,1990,MINNEAPOLIS,Hennepin,MN
+AMY PAGNAC,41,female,white,733090,endangeredMissing,1976,1989,MAPLE GROVE,Hennepin,MN
+JOLEAN SHEPPARD,16,female,black,1305086,endangeredRunaway,2001,2017,MINNEAPOLIS,Hennepin,MN
+JESSICA SIGUENCIA-MUNOZ,20,female,hispanic,1229052,endangeredRunaway,1997,2014,MINNEAPOLIS,Hennepin,MN
+BRANDON SWANSON,28,male,white,1097768,missing,1989,2008,MARSHALL,Lyon,MN
+SUSAN SWEDELL,49,female,white,1283176,missing,1968,1988,LAKE ELMO,Washington,MN
+DESDEMONA TIETGE,17,female,white,1268680,endangeredRunaway,2000,2016,MINNEAPOLIS,Hennepin,MN
+MONISH VENKATESAN,15,male,asian,1071662,familyAbduct,2002,2007,CHASKA,Carver,MN
+MONISH VENKATESAN,15,male,asian,1071662,familyAbduct,2002,2007,CHASKA,Carver,MN
+LEEANNA WARNER,19,female,white,965221,endangeredMissing,1998,2003,CHISHOLM,Saint Louis,MN
+KIRRA WILLIAMS,5,female,black,1289712,familyAbduct,2012,2016,SAINT PAUL,Ramsey,MN

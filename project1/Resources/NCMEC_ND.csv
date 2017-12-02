@@ -1,0 +1,7 @@
+name,age,gender,ethnicity,NCMEC_case#,case_type,birth_year,missing_year,missing_city,missing_county,missing_state
+BARBARA COTTON,51,female,white,796102,endangeredMissing,1965,1981,WILLISTON,Williams,ND
+JOHN JACOBSON,26,male,white,826663,endangeredMissing,1991,1996,BISMARCK,,ND
+ISIAH JEANOTTE,17,male,amInd,1297151,endangeredRunaway,2000,2017,RALEIGH,Grant,ND
+ALEXIS JONES,17,female,white,1305136,endangeredRunaway,1999,2017,BISMARCK,Burleigh County,ND
+REACHELLE SMITH,15,female,white,1044761,nonFamilyAbduct,2002,2006,MINOT,Ward,ND
+EDWARD STUBBS,20,male,white,1218372,endangeredRunaway,1997,2013,DICKINSON,Stark,ND

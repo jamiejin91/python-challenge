@@ -1,0 +1,11 @@
+name,age,gender,ethnicity,NCMEC_case#,case_type,birth_year,missing_year,missing_city,missing_county,missing_state
+NADIYAH ABDUL-JABAR,17,female,black,1284338,endangeredRunaway,2000,2016,DOVER,Suffolk,DE
+ALLEN BRISCOE,47,male,black,600428,nonFamilyAbduct,1969,1985,PHILADELPHIA,,PA
+LOGAN BUNTING,15,male,white,1305423,endangeredRunaway,2002,2017,DOVER,Kent County,DE
+JANE DOE1967,-1,female,white,1184229,unidentified,,,,,
+MIA HARRIS,15,female,black,1303382,endangeredRunaway,2002,2017,MAGNOLIA,Kent,DE
+JANTEYL JOHNSON,23,female,black,1141215,endangeredRunaway,1994,2010,NEWARK,New Castle,DE
+TINA KEMP,52,female,white,1157126,endangeredMissing,1964,1979,FELTON,Kent,DE
+NAKYSHEA RICHARDSON,16,female,black,1262219,endangeredRunaway,2001,2016,DELAWARE CITY,New Castle County,DE
+SHAWN WHITE,14,male,black,951543,endangeredMissing,2002,2002,WILMINGTON,New Castle,DE
+ABDULNUR WILSON,36,male,black,857921,endangeredMissing,1981,1998,WILMINGTON,New Castle,DE

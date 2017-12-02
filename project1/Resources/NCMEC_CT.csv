@@ -1,0 +1,26 @@
+name,age,gender,ethnicity,NCMEC_case#,case_type,birth_year,missing_year,missing_city,missing_county,missing_state
+MERY ACOSTA,23,female,white,1281659,endangeredRunaway,1994,2011,DANBURY,Fairfield,CT
+GRISELDA AGUIRRE,23,female,hispanic,1152435,endangeredRunaway,1993,2008,HARTFORD,Hartford,CT
+MARIA ANJIRAS,56,female,white,939153,endangeredMissing,1961,1976,NORWALK,Fairfield,CT
+SAMUEL BYRD,59,male,black,1230077,endangeredRunaway,1958,1977,EAST HAVEN,New Haven,CT
+ROSA CAMACHO,24,female,hispanic,840827,endangeredMissing,1993,1997,HARTFORD,Hartford,CT
+JOVONNA CRAWFORD,38,female,black,600865,nonFamilyAbduct,1979,1981,BRIDGEPORT,Fairfield,CT
+AALIYAH CUEVAS,17,female,hispanic,1305193,endangeredRunaway,2000,2017,WATERBURY,New Haven,CT
+JANE DOE1979,-1,female,white,1224543,unidentified,,,,,
+DANI GANT,17,female,black,1282572,endangeredRunaway,2000,2016,QUAKER HILL,New London,CT
+ANGEL GARCIA,25,male,hispanic,1183360,missing,1992,2011,HARTFORD,Hartford,CT
+SHERIF GEWILY,19,male,white,925963,familyAbduct,1998,2001,MERIDEN,New Haven,CT
+YAHEL GREENE,15,male,biracial,1304499,endangeredRunaway,2002,2017,NEW HAVEN,New Haven,CT
+IRENE LAROSA,64,female,white,1289366,endangeredMissing,1953,1971,ELLINGTON,Tolland,CT
+BIANCA LEBRON,26,female,hispanic,923729,nonFamilyAbduct,1991,2001,BRIDGEPORT,Fairfield,CT
+ANDREW NELSON,17,male,white,1289212,endangeredRunaway,2000,2017,NEW BRITAIN,Hartford,CT
+APRIL PENNINGTON,37,female,white,819031,endangeredMissing,1980,1996,UNCASVILLE,New London,CT
+MARISELA PINO,35,female,hispanic,835660,endangeredMissing,1981,1993,WATERBURY,,CT
+JANICE POCKETT,51,female,white,923957,nonFamilyAbduct,1965,1973,TOLLAND,Tolland,CT
+ANDREA REYES,19,female,hispanic,873211,familyAbduct,1997,1999,NEW HAVEN,New Haven,CT
+KY'LEAH REYNOLDS,16,female,black,1306965,endangeredRunaway,2001,2017,BRIDGEPORT,Fairfield,CT
+ELIGIA RODRIGUEZ,17,female,hispanic,1249265,endangeredRunaway,1999,2015,WETHERSFIELD,Hartford,CT
+JOSHUA RODRIGUEZ,16,male,hispanic,1295663,endangeredRunaway,2001,2017,WINDSOR,,CT
+DEBORAH SPICKLER,62,female,white,1101866,endangeredMissing,1955,1968,VERNON,Tolland,CT
+DOREEN VINCENT,41,female,white,711414,endangeredMissing,1975,1988,WALLINGFORD,New Haven,CT
+LISA WHITE,56,female,white,1008498,endangeredMissing,1961,1974,VERNON,Tolland,CT

@@ -1,0 +1,59 @@
+name,age,gender,ethnicity,NCMEC_case#,case_type,birth_year,missing_year,missing_city,missing_county,missing_state
+TENIKA ABREU,17,female,hispanic,1307298,endangeredRunaway,1999,2017,MORRISTOWN,Morris,NJ
+STEVEN ANDERSON,60,male,white,815026,endangeredMissing,1957,1975,NEW LISBON,Burlington,NJ
+AMAIA ARMSTEAD WILLIAMS,17,female,black,1305625,endangeredRunaway,2000,2017,ELIZABETH,Union,NJ
+OFIR BEN-HAIM,8,female,white,1186183,familyAbduct,2009,2010,FAIR LAWN,Bergen,NJ
+ALLEN BRISCOE,47,male,black,600428,nonFamilyAbduct,1969,1985,PHILADELPHIA,,PA
+KASHVI CHAWDA,11,female,asian,1213144,familyAbduct,2005,2013,EDISON,Middlesex,NJ
+KASHVI CHAWDA,11,female,asian,1213144,familyAbduct,2005,2013,EDISON,Middlesex,NJ
+JAN COTTA,63,female,white,1005685,missing,1954,1973,WALL TOWNSHIP,Monmouth,NJ
+ANA DEPAZ,16,female,hispanic,1276235,endangeredRunaway,2001,2016,PLAINFIELD,Union,NJ
+JANE DOE1971,-1,female,white,1122754,unidentified,,,,,
+JANE DOE1977,-1,female,black,1184303,unidentified,,,,,
+JANE DOE1982,-1,female,white,1102461,unidentified,,,,,
+JANE DOE1988,-1,female,white,1106794,unidentified,,,,,
+JANE DOE1991,-1,female,white,1184304,unidentified,,,,,
+JANE DOE2007,-1,female,black,1107268,unidentified,,,,,
+ROBERT DORNBACH,29,male,white,1033801,endangeredRunaway,1988,2005,GLOUCESTER,Camden,NJ
+MAWA DOUMBIA,16,female,black,1291012,endangeredRunaway,2001,2016,NEWARK,Essex,NJ
+IMANI DUFFY,15,female,black,1307821,endangeredRunaway,2002,2017,MANCHESTER TOWNSHIP,Ocean,NJ
+AMENA EL SAYED,15,female,white,1036277,familyAbduct,2002,2006,SOUTH ORANGE,Essex,NJ
+MARGARET FOX,57,female,white,959832,endangeredMissing,1960,1974,BURLINGTON,Burlington,NJ
+AMANDA GARAS,12,female,asian,1078904,familyAbduct,2004,2007,BAYONNE,Hudson,NJ
+TATIANA HANSEN,18,female,black,1300060,missing,1999,2017,TRENTON,Mercer,NJ
+JYRINE HARRIS,17,male,black,938318,endangeredMissing,1999,2002,IRVINGTON,Essex,NJ
+LORRAINE HERBSTER,55,female,white,1158939,endangeredMissing,1962,1979,WESTAMPTON TOWNSHIP,Burlington,NJ
+MARK HIMEBAUGH,37,male,white,762514,nonFamilyAbduct,1980,1991,DEL HAVEN,Cape May,NJ
+ALBERT JACOB,16,male,asian,1135871,familyAbduct,2000,2008,PLAINSBORO,,NJ
+ALBERT JACOB,16,male,asian,1135871,familyAbduct,2000,2008,PLAINSBORO,,NJ
+WILLIAM JONES,58,male,white,1118401,endangeredMissing,1959,1962,VINELAND,Cumberland,NJ
+CHARLOTTE LOOMIS,59,female,white,972345,endangeredMissing,1958,1972,EATONTOWN,Monmouth,NJ
+FRANCHESKA MARTINEZ,30,female,hispanic,888232,endangeredRunaway,1987,2000,PATERSON,Passaic,NJ
+MISHEILA MARTINEZ,30,female,hispanic,917531,endangeredRunaway,1987,2000,PATERSON,Passaic,NJ
+CELINA MAYS,33,female,black,827787,endangeredMissing,1984,1996,WILLINGBORO,Burlington,NJ
+SHYANNE MCCAY,15,female,white,1290546,endangeredRunaway,2002,2017,BRIDGEWATER,Somerset,NJ
+CURTIS MCCOY,29,male,black,776157,nonFamilyAbduct,1987,1989,NEWARK,Essex,NJ
+MELISSA MCGUINN,30,female,white,708328,nonFamilyAbduct,1987,1988,TRENTON,Mercer,NJ
+GABRIELLA MCSMITH,16,female,asian,1258516,endangeredRunaway,2000,2015,PHILLIPSBURG,Warren,NJ
+JOSE MEDINA,37,male,whiteHisp,862480,endangeredMissing,1979,1995,MOCA,,PR
+SINDY MENJIVAR-HERNANDEZ,14,female,hispanic,1294705,endangeredRunaway,2003,2017,CAMDEN,Camden,NJ
+ANTHONY MINNELLA,18,male,hispanic,1264400,endangeredRunaway,1999,2016,EGG HARBOR CITY,Atlantic,NJ
+AMIRA MUBARAK,18,female,asian,892162,familyAbduct,1999,2000,BAYONNE,Manhattan,NJ
+BRANDON NICHOLSON,16,male,white,1299540,endangeredRunaway,2001,2017,PATERSON,Passaic,NJ
+ANASTASIYA OVETSKY,35,female,white,867881,endangeredMissing,1982,1999,EAST BRUNSWICK,Middlesex,NJ
+PRINCESS PEREZ,23,female,whiteHisp,860028,endangeredMissing,1993,1996,BRONX,,NY
+DERYN PEREZ PEREZ,15,male,hispanic,1300108,endangeredRunaway,2002,2017,ELIZABETH,Union,NJ
+KENDY PINTO MEDINA,17,female,hispanic,1277609,endangeredRunaway,2000,2016,MORRISTOWN,Morris,NJ
+CHRISTINA QUIRE,17,female,black,1303403,endangeredRunaway,2000,2017,PENNINGTON,Burlington,NJ
+DAMARIS RAMOS BARRERA,16,female,hispanic,1269467,endangeredRunaway,2001,2016,HAMILTON,Mercer,NJ
+HERBER ROBLES VILLEDA,20,male,hispanic,1263603,endangeredRunaway,1997,2013,CAMDEN,Camden,NJ
+BONITA SANDERS,33,female,black,601887,nonFamilyAbduct,1984,1986,ATLANTIC CITY,,NJ
+SARAH STERN,20,female,white,1283282,missing,1997,2016,NEPTUNE,Monmouth,NJ
+SIERRA THOMAS,34,female,black,1184616,missing,1982,2002,ATLANTIC CITY,Atlantic,NJ
+BRITNEY THOMPSON,17,female,black,1238702,endangeredRunaway,2000,2014,EAST ORANGE,Essex,NJ
+ZIA-LEE TORRES,16,female,hispanic,1287358,endangeredRunaway,2001,2017,NORTH BERGEN,Hudson,NJ
+"SALEM COUNTY, NJ UNIDENTIFIED",55,male,white,64076526,unidentified,1962,1979,QUINTON TOWNSHIP,SALEM,NJ
+AARON WATKINS,28,male,white,1165516,missing,1989,2007,PLAINFIELD,Union,NJ
+DAVID WILLIAMS,54,male,black,817398,endangeredMissing,1962,1975,NEW LISBON,Burlington,NJ
+VICTORIA WILLIAMS,17,female,black,1224998,endangeredRunaway,1999,2013,NEWARK,Essex,NJ
+BRENDA YOOL-CALBBO,19,female,hispanic,1260411,endangeredRunaway,1998,2015,CLIFFSIDE PARK,Bergen,NJ

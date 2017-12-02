@@ -1,0 +1,31 @@
+name,age,gender,ethnicity,NCMEC_case#,case_type,birth_year,missing_year,missing_city,missing_county,missing_state
+LAMOINE ALLEN,28,male,black,769089,nonFamilyAbduct,1989,1992,WOODVILLE,,MS
+CAMERON ANDERSON,29,male,white,900430,familyAbduct,1988,2000,FULTON,Itawamba,MS
+CAMERON ANDERSON,29,male,white,900430,familyAbduct,1988,2000,FULTON,Itawamba,MS
+JERRY ARMSTRONG,57,male,black,1169791,endangeredMissing,1960,1977,HERNANDO,DeSoto,MS
+HALIE CHRISTIAN,17,female,white,1300124,endangeredRunaway,2000,2017,MERIDIAN,Lauderdale County,MS
+EVELIN CORIA-CORONADO,5,female,hispanic,1237822,familyAbduct,2012,2014,CANTON,,MS
+KIMBERLY GOMEZ-CORONADO,9,female,hispanic,1237822a,familyAbduct,2008,2014,CANTON,,MS
+PRESTON DEAN,18,male,white,1307494,endangeredRunaway,1999,2017,MERIDIAN,Lauderdale County,MS
+JANE DOE1982,-1,female,white,1103997,unidentified,,,,,
+JOHN DOE1982,-1,male,black,1219914,unidentified,,,,,
+ANGELICA DYKES,17,female,white,1301929,endangeredRunaway,1999,2017,BOONEVILLE,Prentiss,MS
+REBEKAH EMMONS,17,female,white,1305608,endangeredRunaway,1999,2017,JACKSON,Hinds County,MS
+NERISSA FRANKLIN,43,female,white,1217931,endangeredRunaway,1974,1989,GAUTIER,Jackson,MS
+ANGELA FREEMAN,41,female,white,784390,endangeredMissing,1976,1993,PETAL,Forrest,MS
+EVELIN CORIA-CORONADO,5,female,hispanic,1237822,familyAbduct,2012,2014,CANTON,,MS
+KIMBERLY GOMEZ-CORONADO,9,female,hispanic,1237822a,familyAbduct,2008,2014,CANTON,,MS
+KRENEICE JONES,28,female,black,769141,endangeredMissing,1988,1992,WOODVILLE,Wilkinson,MS
+MYRA LEWIS,5,female,black,1229163,endangeredMissing,2011,2014,CAMDEN,Madison,MS
+MERCIN LUCAS MARTINEZ,15,female,pacific,1281110,endangeredRunaway,2002,2016,CANTON,Madison County,MS
+DAMARKUS MATTHEWS,17,male,black,1297061,endangeredRunaway,2000,2016,SOUTHAVEN,Desoto County,MS
+JADE MELTON,18,female,white,1298448,,1999,2017,GULFPORT,Harrison County,MS
+SHARIA MOODY,14,female,black,1295804,endangeredRunaway,2003,2017,LAUREL,Jones County,MS
+SARAH NECAISE,18,female,white,1273371,endangeredRunaway,1999,2016,BAY SAINT LOUIS,Hancock,MS
+LEIGH OCCHI,38,female,white,771656,nonFamilyAbduct,1979,1992,TUPELO,Lee,MS
+MADELINE PONDS,48,female,white,603354,nonFamilyAbduct,1969,1986,COLUMBUS,,MS
+CANDACE RAND,18,female,black,1305235,endangeredRunaway,1999,2017,JACKSON,Hinds County,MS
+DESMOND SMITH,18,male,biracial,1300921,endangeredRunaway,1999,2017,COLLINS,Covington County,MS
+DAFFANY TULLOS,36,female,black,719139,endangeredMissing,1980,1988,JACKSON,Hinds County,MS
+JAEL VILLEGAS,16,female,hispanic,1300896,endangeredRunaway,2001,2017,LAUDERDALE,Lauderdale,MS
+DONALD WATKINS,17,male,white,1294683,endangeredRunaway,2000,2017,MERIDIAN,Lauderdale County,MS

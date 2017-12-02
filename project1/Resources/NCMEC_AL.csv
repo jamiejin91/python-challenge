@@ -1,0 +1,37 @@
+name,age,gender,ethnicity,NCMEC_case#,case_type,birth_year,missing_year,missing_city,missing_county,missing_state
+KIMBERLY ARRINGTON,35,female,black,859404,endangeredMissing,1982,1998,MONTGOMERY,Montgomery,AL
+DIAMOND BARNES-CLOY,17,female,black,1302859,endangeredRunaway,2000,2017,MOBILE,Mobile,AL
+DANIEL BARTER,62,male,white,600229,endangeredMissing,1954,1959,PERDIDO BAY,Baldwin,AL
+TARASHA BENJAMIN,25,female,black,1151013,endangeredMissing,1992,2010,SELMA,Dallas,AL
+JOHN BUHRING,18,male,white,1306096,missing,1999,2017,OPELIKA,Lee,AL
+MARY JO BURNETT,49,female,white,869473,endangeredMissing,1967,1985,ROCKFORD,Coosa,AL
+LATASHA CARSWELL,18,female,black,1282902,endangeredRunaway,1999,2016,TUSKEGEE,Macon,AL
+CHRISTINA CARTER,47,female,white,1084835,endangeredMissing,1970,1973,HUEYTOWN,Sevier,AL
+CARLA CORLEY,51,female,white,765111,nonFamilyAbduct,1965,1980,BIRMINGHAM,Jefferson,AL
+RACHEL COULTER,16,female,white,1308080,endangeredRunaway,2001,2017,MOBILE,Mobile,AL
+HALEIGH CULWELL,21,female,white,1074644,endangeredMissing,1996,2007,SECTION,Jackson,AL
+JOHN DOE1961,-1,male,white,1250767,unidentified,,,,,
+JOHN DOE1998,-1,male,black,1184067,unidentified,,,,,
+JANE DOE2012,-1,female,black,1197223,unidentified,,,,,
+BRENDA GREEN,44,female,white,768065,endangeredMissing,1972,1988,BROOKWOOD,,AL
+MONTRICE HINSON,18,female,black,1292614,endangeredRunaway,1999,2017,HUNTSVILLE,Madison,AL
+DERICK HUGHES,18,male,white,1264754,endangeredRunaway,1998,2016,HEFLIN,Cleburne,AL
+YASMINE JENKINS,18,female,black,1285581,endangeredRunaway,1999,2016,BIRMINGHAM,Jefferson,AL
+ANGEL JOHNSON,17,male,black,1304154,endangeredRunaway,2000,2017,DOTHAN,Houston,AL
+SHERRY MARLER,46,female,white,601811,endangeredMissing,1971,1984,GREENVILLE,Butler,AL
+DAKOTA MARTINEZ,18,male,biracial,1266507,endangeredRunaway,1999,2016,HUNTSVILLE,Madison,AL
+CHELSEA MCLAMORE,17,female,biracial,1300341,endangeredRunaway,2000,2017,MONTGOMERY,Montgomery,AL
+MARTA MENDEZ,20,female,hispanic,1223852,endangeredRunaway,1997,2013,HEFLIN,Cleburne,AL
+SARA MILLER,20,female,white,1241112,endangeredRunaway,1997,2014,MILLBROOK,Elmore,AL
+HOOVER MORRIS,44,male,black,1252108,missing,1973,1991,HEFLIN,Cleburne,AL
+AUSTAN MYERS,17,male,white,1299126,endangeredRunaway,2000,2017,GULF SHORES,Baldwin,AL
+ELIUD OCHOA,20,female,hispanic,1169056,endangeredRunaway,1997,2011,BESSEMER,Jefferson,AL
+SHANNA PEOPLES,25,female,white,1198505,missing,1991,2011,EUNOLA,Geneva,AL
+KEMBERLY RAMER,37,female,white,836649,endangeredMissing,1980,1997,OPP,Covington,AL
+DESTINI RESTER,16,female,white,1299196,endangeredRunaway,2001,2017,WILMER,Mobile,AL
+LAQUANTA RILEY,33,female,black,1083814,missing,1984,2003,MONTGOMERY,Montgomery,AL
+BRITTANY ROBINSON,19,female,black,1197561,endangeredMissing,1998,2012,MOBILE,Mobile,AL
+JASON SIMS,18,male,black,1244365,endangeredMissing,1999,2015,FAIRFIELD,,AL
+JAKAYLA THOMAS,17,female,black,1299849,endangeredRunaway,2000,2017,BESSEMER,Jefferson,AL
+BRITTNEY WOOD,25,female,white,1199371,missing,1992,2012,MOBILE,Mobile,AL
+FRED WRIGHT,32,male,black,872836,endangeredMissing,1985,1998,TUSKEGEE,Macon,AL

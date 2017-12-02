@@ -1,0 +1,91 @@
+name,age,gender,ethnicity,NCMEC_case#,case_type,birth_year,missing_year,missing_city,missing_county,missing_state
+AMANDA ADLAI,16,female,white,1140702,familyAbduct,2001,2008,WEST BLOOMFIELD,Oakland,MI
+WENDY AGUSTIN LOPEZ,16,female,hispanic,1296080,endangeredRunaway,2000,2017,DETROIT,Wayne,MI
+DARIO ALEJANDRO-GAFFORD,19,male,biracial,1246364,endangeredRunaway,1997,2014,DETROIT,Wayne,MI
+JERSEY ARNETT,15,female,white,1172153,endangeredMissing,2002,2002,SAINT IGNACE,Mackinac,MI
+BRITTNEY BEERS,26,female,white,837981,endangeredMissing,1991,1997,STURGIS,,MI
+AUNDRIA BOWMAN,43,female,white,601760,endangeredMissing,1974,1989,HAMILTON,Ottawa,MI
+CRYSTAL BROWN,17,female,black,1283181,endangeredRunaway,2000,2016,DETROIT,Wayne,MI
+JORNELIUS BROWN,17,male,black,1306291,endangeredRunaway,2000,2017,LANSING,Ingham,MI
+KELLIE BROWNLEE,52,female,white,600451,endangeredMissing,1964,1982,NOVI,Oakland,MI
+BRAYHLON BUTLER,16,female,black,1303281,endangeredRunaway,2000,2017,EASTPOINTE,Macomb,MI
+TAMMY CLEMENTS,52,female,white,1245685,endangeredMissing,1965,1981,NILES,Berrien,MI
+CYNTHIA COON,61,female,white,1151085,endangeredMissing,1956,1970,ANN ARBOR,Washtenaw,MI
+JAMES COOPER,37,male,white,829920,endangeredRunaway,1979,1996,MONROE,Monroe,MI
+HENRYETTA CURRY,15,female,black,1275599,endangeredRunaway,2001,2016,DEARBORN HEIGHTS,Wayne,MI
+JONAS DAIKAI BUSH,9,male,biracial,1174682,familyAbduct,2007,2011,LANSING,Ingham,MI
+JONAS DAIKAI BUSH,9,male,biracial,1174682,familyAbduct,2007,2011,LANSING,Ingham,MI
+DAWSON DAYKIN,16,male,black,1283922,endangeredRunaway,2000,2016,DETROIT,Wayne,MI
+YASMINE DEBERRY,17,female,black,1271909,endangeredRunaway,1999,2016,DETROIT,Wayne,MI
+JANE DOE1976,-1,female,white,1228213,unidentified,,,,,
+JANE DOE1987,-1,female,white,1184291,unidentified,,,,,
+JOHN DOE 1988,-1,male,black,1184554,unidentified,,,,,
+JANE DOE1996,-1,female,biracial,1228681,unidentified,,,,,
+JOHN DOE2007,-1,male,black,1184555,unidentified,,,,,
+MARISSA ESCARENO,17,female,hispanic,1295693,endangeredRunaway,2000,2017,DETROIT,Wayne,MI
+JOSHUA GRAUMAN,17,male,white,1295036,endangeredRunaway,1999,2016,LINCOLN PARK,Wayne,MI
+SHAUNDA GREEN,47,female,black,728994,endangeredMissing,1970,1983,YPSILANTI,Washtenaw,MI
+ERIN GREENWOOD,18,female,black,1285952,endangeredRunaway,1999,2016,WAYNE,Wayne,MI
+ANDREW GREER,54,male,white,1241677,endangeredMissing,1963,1979,CLAYTON,Lenawee,MI
+BRIAN GROCKI,41,male,white,830964,endangeredMissing,1975,1990,TRENTON,Wayne,MI
+CORAL HALL,33,female,white,857702,endangeredMissing,1984,1998,FLINT,Genesee,MI
+BILLIE HANEY,17,female,white,1266502,endangeredRunaway,2000,2016,DETROIT,Wayne,MI
+KELLY HARRIS,46,female,black,603337,nonFamilyAbduct,1971,1984,JACKSON,Jackson,MI
+ROYCE HERRERA,17,male,biracial,1305799,endangeredRunaway,2000,2017,HUDSONVILLE,Ottawa,MI
+PAMELA HOBLEY,63,female,white,1175075,endangeredMissing,1954,1969,OSCODA,Iosco,MI
+HALIE HOUSTON,17,female,white,1304187,endangeredRunaway,2000,2017,AUBURN HILLS,Oakland,MI
+KAYLAH HUNTER,9,female,black,1233401,endangeredMissing,2007,2014,DETROIT,Wayne,MI
+TANGENA HUSSAIN,11,female,white,1107030,endangeredMissing,2006,2008,DETROIT,Wayne,MI
+MARIELLE JACKSON,17,female,black,1286675,endangeredRunaway,1999,2017,DETROIT,Wayne,MI
+HARMONY JOHNSON,28,female,black,1225507,endangeredMissing,1989,2007,DETROIT,Wayne,MI
+LEVONE JOHNSON,18,male,black,1243464,endangeredRunaway,1999,2015,DETROIT,Wayne,MI
+BIANCA JONES,7,female,black,1185113,nonFamilyAbduct,2009,2011,DETROIT,Wayne,MI
+ANDREW JUAREZ,17,male,hispanic,1296544,endangeredRunaway,1999,2017,KALAMAZOO,Kalamazoo,MI
+NEFTALI JUAREZ,18,female,hispanic,1295005,endangeredRunaway,1999,2017,HUDSONVILLE,Ottawa,MI
+KAYLAH HUNTER,9,female,black,1233401,endangeredMissing,2007,2014,DETROIT,Wayne,MI
+KIMBERLY KING,50,female,white,601787,nonFamilyAbduct,1966,1979,WARREN,Macomb,MI
+STEVEN KRAFT,28,male,white,905507,endangeredMissing,1989,2001,BENTON HARBOR,Berrien,MI
+KIM LARROW,51,female,white,1100523,nonFamilyAbduct,1965,1981,CANTON,Wayne,MI
+VARVARA LAZARIDIS,17,female,white,974875,familyAbduct,2000,2002,WEST OLIVE,New Castle,MI
+JYSELL LUGO,18,female,hispanic,1241801,endangeredRunaway,1998,2013,DETROIT,Wayne,MI
+CHEYANNE MATHER,13,female,black,1290332,endangeredRunaway,2004,2017,SAGINAW,Saginaw,MI
+MARIA MEJIA HERNANDEZ,16,female,hispanic,1307037,endangeredRunaway,2000,2017,GRAND RAPIDS,Kent,MI
+MANUEL MENDEZ,17,male,hispanic,1304518,endangeredRunaway,2000,2017,SOUTHFIELD,Oakland,MI
+TYRONE MOORE,17,male,black,1307679,endangeredRunaway,2000,2017,REDFORD,Wayne,MI
+DEVRON MORRISON,12,male,biracial,1205756,familyAbduct,2005,2012,BATTLE CREEK,Calhoun,MI
+CARLEE MORSE,23,female,white,1155183,endangeredRunaway,1994,2010,WESTLAND,Wayne,MI
+NADINE O'DELL,59,female,white,1138429,endangeredMissing,1958,1974,INKSTER,Wayne,MI
+KATHERINE PHILLIPS,6,female,white,1174834,endangeredMissing,2011,2011,LUDINGTON,Mason,MI
+DEAN PYLE PETERS,51,female,white,603596,nonFamilyAbduct,1966,1981,GRAND RAPIDS,Kent,MI
+LEASHA RAY,18,female,black,1292721,endangeredRunaway,1999,2017,DETROIT,Wayne,MI
+BRITINEY READY,18,female,black,1305991,missing,1999,2017,DEARBORN HEIGHTS,Wayne,MI
+DAYNA RIGGINS,16,female,black,1280847,endangeredRunaway,2001,2016,DETROIT,Wayne,MI
+HAILEY SCHEAR,16,female,white,1309098,endangeredRunaway,2001,2017,WYANDOTTE,Wayne,MI
+NATASHA SHANES,38,female,white,601899,nonFamilyAbduct,1979,1985,JACKSON,Jackson,MI
+D'WAN SIMS,26,male,black,798503,endangeredMissing,1990,1994,LIVONIA,Wayne,MI
+ALEXANDER SKELTON,13,male,white,1160897,endangeredMissing,2003,2010,MORENCI,Lenawee,MI
+ALEXANDER SKELTON,13,male,white,1160897,endangeredMissing,2003,2010,MORENCI,Lenawee,MI
+ALEXANDER SKELTON,13,male,white,1160897,endangeredMissing,2003,2010,MORENCI,Lenawee,MI
+ALISHA SKIBO,17,female,white,1282899,endangeredRunaway,2000,2016,DETROIT,Wayne,MI
+JACOB SMIT,17,male,white,1307512,endangeredRunaway,2000,2017,BYRON CENTER,Kent,MI
+AIREONA SMITH,13,female,white,1306528,endangeredRunaway,2004,2017,ALLEN PARK,Wayne,MI
+JEMEIL SPEARMAN,17,male,black,1265620,endangeredRunaway,2000,2016,DETROIT,Wayne,MI
+PATRICIA SPENCER,64,female,white,1175069,endangeredMissing,1953,1969,OSCODA,Iosco,MI
+CIARA STACHO,18,female,biracial,1253136,endangeredRunaway,1999,2015,INKSTER,Wayne,MI
+JAYDN STONE,12,male,white,1296388,endangeredRunaway,2004,2017,GRAND RAPIDS,Kent,MI
+ADRIANA TEAGUE,16,female,black,1308557,endangeredRunaway,2001,2017,FLINT,Genesee,MI
+CHRISTOPHER TEMPLE,45,male,white,739607,endangeredMissing,1972,1990,BATH,Clinton,MI
+ISIAH THOMPSON,18,male,black,1271806,endangeredRunaway,1999,2016,LANSING,Ingham,MI
+JUAN TOMAS,18,male,hispanic,1264332,endangeredRunaway,1999,2015,JENISON,Ottawa,MI
+ALEXIS VELAZQUEZ,17,female,biracial,1306028,endangeredRunaway,1999,2017,NILES,Berrien,MI
+SHANNON VERHAGE,21,female,white,835530,nonFamilyAbduct,1996,1997,CEDAR SPRINGS,Newaygo,MI
+ADELE WELLS,66,female,black,1231242,endangeredMissing,1951,1958,FLINT,Genesee,MI
+BRIANNA WHATLEY,21,female,black,1229872,endangeredRunaway,1996,2013,DETROIT,Wayne,MI
+ALEXUS WHITMORE,15,female,white,1299685,endangeredRunaway,2002,2017,DETROIT,Wayne,MI
+KATHY WILCOX,60,female,white,604875,endangeredMissing,1956,1972,OTSEGO,,MI
+AKIRA WILLIAMS,17,female,black,1281303,endangeredRunaway,2000,2016,DETROIT,Wayne,MI
+OLISA WILLIAMS,36,female,black,601939,nonFamilyAbduct,1981,1982,ANN ARBOR,Washtenaw,MI
+TIA WILLIAMS,17,female,black,1304672,endangeredRunaway,2000,2017,ROMULUS,Wayne,MI
+TIFFANY WILLIAMS,16,female,black,1307174,endangeredRunaway,2001,2017,KALAMAZOO,Kalamazoo,MI
+YUSUF WILSON,35,male,black,920913,endangeredMissing,1981,1999,EASTPOINTE,Macomb,MI
+AUTUMN YOUNG,16,female,white,1306106,endangeredRunaway,2001,2017,ADA,Kent,MI

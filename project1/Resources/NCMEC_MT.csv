@@ -1,0 +1,8 @@
+name,age,gender,ethnicity,NCMEC_case#,case_type,birth_year,missing_year,missing_city,missing_county,missing_state
+MEGAN GINEVICZ,39,female,white,601402,endangeredMissing,1978,1980,SAINT IGNATIUS,,MT
+NANCY KIRKPATRICK,57,female,white,602231,endangeredMissing,1960,1976,COLUMBIA FALLS,Flathead,MT
+IVY LEINEN,18,female,white,1143038,endangeredMissing,1999,2010,POPLAR,Roosevelt,MT
+WYATT LITTLELIGHT,8,male,amInd,1113537,endangeredMissing,2008,2008,BILLINGS,Yellowstone,MT
+NYLEEN MARSHALL,39,female,white,601812,nonFamilyAbduct,1978,1983,CLANCY,Jefferson,MT
+ROBYN PETTINATO,56,female,white,1047563,endangeredMissing,1960,1975,WHITEFISH,Flathead,MT
+ZACHARY RAMSAY,31,male,biracial,814455,endangeredMissing,1985,1996,GREAT FALLS,Cascade,MT

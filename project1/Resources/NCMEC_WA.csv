@@ -1,0 +1,95 @@
+name,age,gender,ethnicity,NCMEC_case#,case_type,birth_year,missing_year,missing_city,missing_county,missing_state
+DAVID ADAMS,57,male,white,1150788,endangeredMissing,1960,1968,ISSAQUAH,King,WA
+AGUEDA ARIAS,18,female,hispanic,925236,endangeredMissing,1998,2001,LONGVIEW,Cowlitz,WA
+VICTORIA AYRES,15,female,white,1308025,endangeredRunaway,2001,2017,CENTRALIA,Lewis,WA
+ANDRIA BAILEY,54,female,white,729834,endangeredMissing,1963,1979,SPANAWAY,,WA
+LINDSEY BAUM,19,female,white,1125977,endangeredMissing,1998,2009,MCCLEARY,Grays Harbor,WA
+DOUGLAS BECKER,41,male,biracial,1006803,endangeredRunaway,1976,1992,OAK HARBOR,Island,WA
+ANTHONY BEIRNES,49,male,white,1207300,endangeredMissing,1968,1986,ANACORTES,Skagit,WA
+AVERY BLAKELEY,10,male,biracial,1133050,endangeredMissing,2006,2009,MALDEN,Whitman,WA
+JEFFREY BLANKINSHIP,48,male,white,1170648,endangeredMissing,1969,1973,PORT TOWNSEND,Jefferson,WA
+SAMUEL BOEHLKE,19,male,white,1055859,endangeredMissing,1998,2006,CRATER LAKE,Klamath,OR
+JEFFREY BRATCHER,50,male,white,865393,endangeredMissing,1967,1974,OCEAN SHORES,Montesano,WA
+NEVAEH BREWER,16,female,white,1297243,endangeredRunaway,2001,2017,OLYMPIA,Thurston,WA
+HALEY BUNKELMAN,17,female,white,1305320,endangeredRunaway,2000,2017,SPOKANE VALLEY,,WA
+HOPE BYAM,16,female,white,1291631,endangeredRunaway,2000,2017,SEATTLE,King,WA
+MARCOS CASAP HERNANDEZ,16,male,hispanic,1304693,endangeredRunaway,2000,2017,RENTON,King,WA
+DANICA CHILDS,27,female,biracial,1086909,endangeredRunaway,1990,2007,FEDERAL WAY,King,WA
+TYLER CHRISTENSEN,18,male,white,1266888,endangeredRunaway,1999,2016,EDMONDS,Snohomish,WA
+JOSEPH CHRISTINA,18,male,white,1293522,endangeredRunaway,1999,2017,VANCOUVER,Clark,WA
+HEAVENLY CHURCH,17,female,white,1301957,endangeredRunaway,1999,2017,TACOMA,Pierce,WA
+TONI CLARK,45,female,black,737294,endangeredMissing,1972,1990,OAKLAND,Alameda,CA
+KELSEY COLLINS,26,female,biracial,1218376,missing,1991,2009,EVERETT,Snohomish,WA
+MISTY COPSEY,39,female,white,774514,endangeredMissing,1978,1992,TACOMA,Pierce,WA
+MITCHELL DARLINGTON,52,male,white,1231585,endangeredRunaway,1965,1983,SNOHOMISH,Snohomish,WA
+TINA DENMAN,32,female,white,1262853,endangeredMissing,1985,2000,LAKEWOOD,Pierce,WA
+JANE DOE1977,-1,female,white,1102164,unidentified,,,,,
+JANE DOE1980,-1,female,biracial,1105074,unidentified,,,,,
+JANE DOE1984,-1,female,white,1151977,unidentified,,,,,
+JANE DOE1986,-1,female,white,1151979,unidentified,,,,,
+JOHN DOE1989,-1,male,white,1184376,unidentified,,,,,
+WILLIAM DOWNEY,43,male,white,601065,endangeredMissing,1974,1987,SEATTLE,King,WA
+FATMA EISSA,7,female,white,1248323,familyAbduct,2009,2013,SEATTLE,King,WA
+FATMA EISSA,7,female,white,1248323,familyAbduct,2009,2013,SEATTLE,King,WA
+JENNIFER ENYART,33,female,white,1152881,endangeredRunaway,1984,2000,TACOMA,Pierce,WA
+JOSHUA FEEBECK,25,male,white,1079708,endangeredMissing,1992,2007,MOUNT VERNON,Skagit,WA
+MANUEL FLORES,16,male,pacific,1302898,endangeredRunaway,2000,2017,KENT,King,WA
+JOSEPH FRAZIER,27,male,black,1085028,endangeredMissing,1990,2007,TUKWILA,King,WA
+RONALD FRYE,39,male,white,787206,endangeredMissing,1977,1993,COUPEVILLE,Island,WA
+JOSE GARCIA,17,male,hispanic,922792,familyAbduct,2000,2001,LONGVIEW,Cowlitz,WA
+DIANE GILCHRIST,58,female,white,1216882,endangeredMissing,1959,1974,VANCOUVER,Clark,WA
+CHERRY GREENMAN,61,female,white,997238,missing,1956,1976,WATERVILLE,King,WA
+JAMIE GRISSIM,61,female,white,1056325,endangeredMissing,1955,1971,VANCOUVER,Clark,WA
+RICHARD HAYNES,24,male,white,996768,endangeredMissing,1993,2004,KITTITAS,Kittitas,WA
+BRYCE HERDA,29,male,amInd,803140,endangeredMissing,1988,1995,NEAH BAY,Clallam,WA
+ALONDRA HERNANDEZ-TRUJILLO,17,female,hispanic,1242729,endangeredRunaway,1999,2014,AUBURN,King,WA
+SEAN HILLMAN,14,male,biracial,1105768,familyAbduct,2003,2008,SEATTLE,King,WA
+TRINITY HOLLOMAN,14,female,black,1307774,endangeredRunaway,2003,2017,TACOMA,Pierce,WA
+KEITH HUMENIK,48,male,white,601971,endangeredMissing,1969,1986,ANACORTES,Skagit,WA
+TYLER INMAN,38,male,white,601773,nonFamilyAbduct,1979,1982,ABERDEEN,Grays Harbor,WA
+LENORIA JONES,25,female,black,806901,nonFamilyAbduct,1992,1995,TACOMA,Pierce,WA
+SOFIA JUAREZ,19,female,hispanic,954908,endangeredMissing,1998,2003,KENNEWICK,Benton,WA
+KIMBERLY KERSEY,48,female,white,1150484,missing,1968,1987,VANCOUVER,Clark,WA
+RUTHIE KINDNESS,27,female,amInd,1199396,missing,1990,2011,FEDERAL WAY,Pierce,WA
+TIANNA KLEEBERGER,14,female,biracial,1299456,endangeredRunaway,2003,2017,COVINGTON,King County,WA
+JEFFREY KLUNGNESS,35,male,white,815715,endangeredMissing,1981,1996,BONNEY LAKE,Pierce,WA
+TAMI KOWALCHUK,35,female,white,1150979,endangeredMissing,1982,1999,TACOMA,Pierce,WA
+JUSTICE KRAFT,18,female,white,1291286,endangeredRunaway,1999,2017,SEATTLE,King,WA
+MARIA LEON,18,female,hispanic,1281790,endangeredRunaway,1999,2016,PASCO,Franklin,WA
+TEEKAH LEWIS,21,female,biracial,859446,endangeredMissing,1996,1999,TACOMA,Pierce,WA
+KATYA LYNE,35,female,hispanic,831557,endangeredRunaway,1981,1997,FEDERAL WAY,King,WA
+MISAEL MARGARITO SANCHEZ,22,male,hispanic,1186711,endangeredRunaway,1994,2011,SNOHOMISH,Snohomish,WA
+TAYLOR MARQUARDT,15,female,white,1296607,endangeredRunaway,2001,2017,SEATTLE,King,WA
+VAIL MCCANN,13,female,white,1304208,endangeredRunaway,2004,2017,MAPLE VALLEY,King,WA
+DEZIREE MCCRACKEN,17,female,white,1296045,endangeredRunaway,1999,2017,VANCOUVER,Clark,WA
+ANGELA MEEKER,52,female,white,603013,endangeredMissing,1965,1979,TACOMA,Pierce,WA
+SKY METALWALA,8,male,white,1183128,endangeredMissing,2009,2011,BELLEVUE,King,WA
+JEANNETTE MILLER,64,female,white,1150582,endangeredMissing,1953,1970,ARLINGTON,Snohomish,WA
+ANTHONY MUNOZ,17,male,white,1305418,endangeredRunaway,2000,2017,PORT ORCHARD,Kitsap,WA
+SARAH NELSON,16,female,white,1296891,endangeredRunaway,2001,2017,KELSO,Cowlitz,WA
+ALEXIS OWENS,46,female,white,997240,endangeredMissing,1971,1987,PORT ORCHARD,King,WA
+CARLA OWENS,50,female,white,1038084,endangeredMissing,1967,1981,FORKS,Jefferson,WA
+LAURIE PARTRIDGE,60,female,white,603391,nonFamilyAbduct,1957,1974,SPOKANE,Spokane,WA
+KACEY PERRY,37,female,white,745166,endangeredMissing,1980,1990,PORTLAND,,OR
+LOUKTHAYOTH PHIANGDAE,32,male,asian,814564,endangeredMissing,1984,1996,RAYMOND,Pacific,WA
+JOSEPH PICHLER,30,male,white,1035785,missing,1987,2006,BREMERTON,Kitsap,WA
+JULIA POTTER,9,female,white,1240281,familyAbduct,2007,2014,SEATTLE,King,WA
+VIRGINIA RAMBUS,52,female,black,997241,missing,1965,1985,SEATTLE,King,WA
+DIANE ROBBINS,45,female,white,601878,nonFamilyAbduct,1971,1985,KENNEWICK,Benton,WA
+SHARLIANNA ROBERTS,17,female,biracial,1307718,endangeredRunaway,2000,2017,TACOMA,Pierce,WA
+GABRIELLA RUIZ,16,female,hispanic,1298746,endangeredRunaway,2000,2017,OLYMPIA,Thurston,WA
+JASMINE SAJEDI,16,female,white,1003759,familyAbduct,2001,2004,LYNDEN,Whatcom,WA
+CARLOTA SANCHEZ,50,female,biracial,797961,endangeredMissing,1967,1979,TAHOLAH,Adams,WA
+AMY SANTOS,16,female,hispanic,1308652,endangeredRunaway,2001,2017,YAKIMA,Yakima,WA
+MIGUEL SCOTT,25,male,asian,1188070,missing,1992,2011,BREMERTON,Kitsap,WA
+TERA SMITH,35,female,white,852270,endangeredMissing,1982,1998,REDDING,Shasta,CA
+HANNAH TURKINGTON,16,female,hispanic,1307259,endangeredRunaway,2001,2017,VANCOUVER,Clark County,WA
+JZAHNAE VOGT,15,female,white,1299427,endangeredRunaway,2002,2017,SEATTLE,King,WA
+KRISTI VORAK,47,female,white,837648,endangeredMissing,1969,1982,TACOMA,Pierce,WA
+DARCI WARDE,43,female,white,855651,endangeredMissing,1973,1990,SEATTLE,King,WA
+CHRISTOPHER WELLS,61,male,white,1162629,endangeredMissing,1956,1972,SEATTLE,King,WA
+CALETA WHITE,29,female,black,1085502,missing,1988,2006,AUBURN,King,WA
+CHRISTINA WHITE,50,female,white,1131718,endangeredMissing,1967,1979,ASOTIN,Asotin,WA
+ANGEL WILSON,27,female,white,1083385,endangeredRunaway,1990,2007,SPOKANE,Spokane,WA
+SHELBY WRIGHT,27,male,white,1013394,endangeredMissing,1990,2004,SNOHOMISH,Snohomish,WA
+MITCHELL ZIMNY,48,male,white,1207302,endangeredMissing,1969,1986,ANACORTES,Skagit,WA

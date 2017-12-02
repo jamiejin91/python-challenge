@@ -1,0 +1,4 @@
+name,age,gender,ethnicity,NCMEC_case#,case_type,birth_year,missing_year,missing_city,missing_county,missing_state
+ALLEN BRISCOE,47,male,black,600428,nonFamilyAbduct,1969,1985,PHILADELPHIA,,PA
+MYSTIQUE ELEFANTE,16,female,asian,1305804,endangeredRunaway,2001,2017,CRANSTON,,RI
+JACQUELINE GOWDEY,15,female,white,1305273,endangeredRunaway,2002,2017,PORTSMOUTH,Newport,RI

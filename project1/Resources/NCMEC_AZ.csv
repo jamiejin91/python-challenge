@@ -1,0 +1,155 @@
+name,age,gender,ethnicity,NCMEC_case#,case_type,birth_year,missing_year,missing_city,missing_county,missing_state
+JESUS ACOSTA,18,male,hispanic,1283316,endangeredRunaway,1999,2016,TUCSON,Pima,AZ
+JOSE ACOSTA BARAHONA,18,male,hispanic,1280364,endangeredRunaway,1999,2016,YOUNGTOWN,Maricopa,AZ
+ALYSSA ANDERSON,17,female,white,1287209,endangeredRunaway,2000,2016,TUCSON,Pima County,AZ
+LETICIA BAEZA-TILLEY,17,female,hispanic,1280208,endangeredRunaway,1999,2016,MESA,Maricopa County,AZ
+YARELI BARAJAS,20,female,hispanic,1129153,familyAbduct,1996,2009,PHOENIX,Maricopa,AZ
+STEPHANIE BENTON,40,female,white,801778,endangeredMissing,1977,1995,BULLHEAD CITY,,AZ
+BRIAN BLEYL,48,male,white,600332,nonFamilyAbduct,1968,1981,PHOENIX,Maricopa,AZ
+KAMERON BOND,14,male,white,1308750,endangeredRunaway,2002,2017,SCOTTSDALE,Maricopa,AZ
+MICHAEL BRACAMONTE,15,male,hispanic,1288452,endangeredRunaway,2001,2016,PHOENIX,Maricopa County,AZ
+ERICA BREWER,16,female,white,1305545,endangeredRunaway,2001,2017,PAGE,Coconino County,AZ
+JEYSON NOEL CASTRO MELENDEZ,17,male,hispanic,1283070,endangeredRunaway,2000,2016,MESA,Maricopa,AZ
+MINDI CHAMBERS,52,female,white,804019,endangeredMissing,1965,1982,MESA,,AZ
+NACHIDA CHANDARA,25,female,asian,1149381,endangeredRunaway,1992,2007,PHOENIX,Maricopa,AZ
+DOROTHY CLITHEROE,58,female,white,942383,endangeredMissing,1959,1973,PHOENIX,Maricopa,AZ
+TANIA COLLINS-BELL,16,female,black,1298918,endangeredRunaway,2001,2017,AVONDALE,Maricopa,AZ
+ESTRELLA CORDOVA-ARIAS,18,female,hispanic,1036324,familyAbduct,1999,2006,COTTONWOOD,Yavapai,AZ
+NATASHA CORLEY,12,female,biracial,1052329,familyAbduct,2005,2006,SCOTTSDALE,Maricopa,AZ
+PTAH DIAMOND,19,male,black,914380,familyAbduct,1998,2001,ELOY,Pinal,AZ
+CHRISTIAN DIAZ-BORJAS,15,male,hispanic,1044395,familyAbduct,2002,2005,PHOENIX,Maricopa,AZ
+CHRISTIAN DIAZ-BORJAS,15,male,hispanic,1044395,familyAbduct,2002,2005,PHOENIX,Maricopa,AZ
+JANE DOE1958,-1,female,white,1137582,unidentified,,,,,
+JANE DOE1982,-1,female,white,1184503,unidentified,,,,,
+JOHN DOE 1982,-1,male,white,1289450,unidentified,,,,,
+JOHN DOE1988,-1,male,white,1184116,unidentified,,,,,
+JANE DOE 1989,-1,female,white,1184576,unidentified,,,,,
+JOHN DOE1990,-1,male,white,1191114,unidentified,,,,,
+JANE DOE1992,-1,female,unknown,1184132,unidentified,,,,,
+JANE DOE1997,-1,female,unknown,1289425,unidentified,,,,,
+JOHN DOE1998,-1,male,unknown,1184126,unidentified,,,,,
+JOHN DOE2000,-1,male,white,1184120,unidentified,,,,,
+JOHN DOE2001,-1,male,white,1126872,unidentified,,,,,
+JANE DOE2002,-1,female,hispanic,1111241,unidentified,,,,,
+JANE DOE2002,-1,female,hispanic,1184109,unidentified,,,,,
+JOHN DOE2002,-1,male,white,1184071,unidentified,,,,,
+JOHN DOE2003,-1,male,hispanic,1184080,unidentified,,,,,
+JOHN DOE2003,-1,male,hispanic,1184091,unidentified,,,,,
+JOHN DOE2003,-1,male,hispanic,1184100,unidentified,,,,,
+JOHN DOE2004,-1,male,hispanic,1184073,unidentified,,,,,
+JOHN DOE2004,-1,male,hispanic,1184097,unidentified,,,,,
+JOHN DOE2004,-1,male,hispanic,1184136,unidentified,,,,,
+JOHN DOE2005,-1,male,hispanic,1184123,unidentified,,,,,
+JANE DOE2006,-1,female,hispanic,1184111,unidentified,,,,,
+JOHN DOE2006,-1,male,unknown,1184074,unidentified,,,,,
+JOHN DOE2006,-1,male,hispanic,1184103,unidentified,,,,,
+JANE DOE2007,-1,female,hispanic,1184076,unidentified,,,,,
+JOHN DOE2007,-1,male,hispanic,1184096,unidentified,,,,,
+JOHN DOE2007,-1,male,hispanic,1184114,unidentified,,,,,
+JOHN DOE2007,-1,male,hispanic,1184121,unidentified,,,,,
+JOHN DOE2007,-1,male,hispanic,1184135,unidentified,,,,,
+JANE DOE2008,-1,female,hispanic,1184088,unidentified,,,,,
+JANE DOE2008,-1,female,hispanic,1184106,unidentified,,,,,
+JANE DOE2008,-1,female,hispanic,1184107,unidentified,,,,,
+JANE DOE2008,-1,female,hispanic,1184131,unidentified,,,,,
+JOHN DOE2008,-1,male,hispanic,1184084,unidentified,,,,,
+JOHN DOE2008,-1,male,hispanic,1184092,unidentified,,,,,
+JANE DOE2009,-1,female,hispanic,1184090,unidentified,,,,,
+JANE DOE2009,-1,female,hispanic,1184104,unidentified,,,,,
+JANE DOE2009,-1,female,hispanic,1184139,unidentified,,,,,
+JOHN DOE2009,-1,male,unknown,1184081,unidentified,,,,,
+JOHN DOE2009,-1,male,hispanic,1184110,unidentified,,,,,
+JOHN DOE 2009,-1,male,hispanic,1184124,unidentified,,,,,
+ ,-1,,,1184115,,,,,,
+JANE DOE2010,-1,female,hispanic,1184082,unidentified,,,,,
+JOHN DOE2010,-1,male,hispanic,1184113,unidentified,,,,,
+JOHN DOE2010,-1,male,hispanic,1184127,unidentified,,,,,
+JOHN DOE2010,-1,male,hispanic,1184133,unidentified,,,,,
+JOHN DOE2010,-1,male,hispanic,1208743,unidentified,,,,,
+JANE DOE 2016,-1,female,black,1280372,unidentified,,,,,
+JAYCEE ESCOBAR,14,female,biracial,1300185,endangeredRunaway,2003,2017,TUCSON,Pima,AZ
+GREGORY FARIS,16,male,white,1302571,endangeredRunaway,2001,2016,PHOENIX,Maricopa,AZ
+JESSE FLOREZ,30,male,hispanic,936029,endangeredMissing,1986,2001,PHOENIX,Maricopa,AZ
+KALEB FOUSE,17,male,biracial,1293326,endangeredRunaway,2000,2017,KINGMAN,Mohave,AZ
+MICHAEL FREEMONT LOVEJOY,17,male,amInd,1294914,endangeredRunaway,1999,2017,QUEEN CREEK,Maricopa,AZ
+DAVID GOSNELL,22,male,whiteHisp,858017,familyAbduct,1994,1998,FONTANA,San Bernardino,CA
+KAREN GRAJEDA,28,female,hispanic,813211,nonFamilyAbduct,1988,1996,TUCSON,Pima,AZ
+CLAUDIA GUILLEN,15,female,hispanic,1004550,endangeredMissing,2002,2004,YUMA,Yuma,AZ
+SHEMAEAH GUNNEL,33,female,black,731859,endangeredMissing,1983,1989,YUMA,Yuma,AZ
+KASSANDRA GUTIERREZ,18,female,white,1298563,endangeredRunaway,1999,2015,PHOENIX,Maricopa,AZ
+RITA GUTIERREZ,21,female,hispanic,1178819,endangeredRunaway,1995,2009,MESA,Maricopa,AZ
+BRAD HANSEN,34,male,white,812998,endangeredMissing,1982,1995,PHOENIX,Maricopa,AZ
+MAKAYLA HARRIS,16,female,white,1287414,endangeredRunaway,2000,2017,PHOENIX,Maricopa County,AZ
+DESTINY HEAD,15,female,white,1304355,endangeredRunaway,2002,2017,MESA,Maricopa County,AZ
+SEAN HEGEMAN,16,male,white,1295397,endangeredRunaway,2000,2017,PHOENIX,Maricopa,AZ
+JAMES HENDRICKSON,38,male,white,755469,endangeredMissing,1979,1991,TUCSON,,AZ
+JOSE HENRIQUEZ-DIAZ,23,male,hispanic,1074226,endangeredMissing,1993,2007,SELLS,Pima,AZ
+EMILY HEREDIA,15,female,white,1304430,endangeredRunaway,2002,2017,PHOENIX,Maricopa,AZ
+DIEGO HERNANDEZ,6,male,hispanic,1185848,familyAbduct,2010,2011,TEMPE,Maricopa,AZ
+DESIRAY HERNANDEZ-EDMONDS,16,female,biracial,1305951,endangeredRunaway,2001,2017,PHOENIX,Maricopa,AZ
+EDIN HERNANDEZ MATIAS,17,male,hispanic,1305620,endangeredRunaway,2000,2017,MESA,Maricopa,AZ
+ROCHELLE IHM,51,female,white,1094007,missing,1966,1986,PHOENIX,Maricopa,AZ
+NATASHA JAMEEL,16,female,white,1277593,endangeredRunaway,2001,2016,EL MIRAGE,Maricopa,AZ
+UDITH JOBY,18,male,asian,1300633,endangeredRunaway,1999,2017,PHOENIX,Maricopa,AZ
+GABRIEL JOHNSON,8,male,white,1137894,endangeredMissing,2009,2009,TEMPE,Maricopa,AZ
+JESSICA JONES,15,female,white,1288357,endangeredRunaway,2001,2017,PHOENIX,Maricopa,AZ
+WILLIAM JONES-GOUCHENOUR,1,male,white,1300097,familyAbduct,2016,2017,MESA,Maricopa,AZ
+HANNAH KING,17,female,white,1300142,endangeredRunaway,2000,2017,GLENDALE,Maricopa,AZ
+JOHN KINSORA,54,male,white,1212154,missing,1963,1982,PHOENIX,Maricopa,AZ
+BROOKE LAUER,17,female,white,1298404,endangeredRunaway,2000,2017,GLENDALE,Maricopa County,AZ
+CYNTHIA LESLIE,58,female,white,601799,nonFamilyAbduct,1959,1974,MESA,Maricopa,AZ
+CYNTHIA LESLIE,58,female,white,601799,nonFamilyAbduct,1959,1974,MESA,Maricopa,AZ
+KRISTOPHER LOESCH,27,male,white,986992,endangeredMissing,1990,2000,TUCSON,Pima,AZ
+CHEYENNE MARSH,16,female,white,1295568,endangeredRunaway,2001,2017,SCOTTSDALE,Maricopa,AZ
+MARIA MARTINEZ,44,female,hispanic,776882,nonFamilyAbduct,1973,1990,PHOENIX,Maricopa,AZ
+OSCAR MARTINEZ CRUZ,17,male,hispanic,1305524,endangeredRunaway,1999,2017,TUCSON,,AZ
+DESTINY MASON,16,female,white,1308297,endangeredRunaway,2001,2017,OVERGAARD,Navajo,AZ
+MARIA MAURICIO,40,female,hispanic,1218943,missing,1977,1997,PHOENIX,Maricopa,AZ
+SARIAH MILLNER,16,female,white,1296038,endangeredRunaway,2001,2017,TUCSON,Pima,AZ
+BRANDY MYERS,38,female,white,769128,nonFamilyAbduct,1979,1992,PHOENIX,Maricopa,AZ
+ZOEY O'BRIEN,17,female,white,1262495,endangeredRunaway,2000,2015,PRESCOTT,Yavapai,AZ
+JEFRI PANCHAME,16,male,hispanic,1282436,endangeredRunaway,2001,2016,PHOENIX,Maricopa,AZ
+ROBERT PARKS,56,male,white,1154357,endangeredMissing,1961,1974,MESA,Maricopa,AZ
+RANDY PARSCALE,48,male,white,603390,nonFamilyAbduct,1969,1979,ORACLE,Pinal,AZ
+INFINITI PATTERSON,16,female,black,1292869,endangeredRunaway,2000,2017,TUCSON,Pima County,AZ
+JAYSON PEARCE,35,male,white,744058,endangeredMissing,1982,1983,PHOENIX,Maricopa,AZ
+NICHOLE PENDERGRASS,17,female,white,1282608,endangeredRunaway,2000,2016,PHOENIX,Maricopa County,AZ
+TIFFANY PHARES,14,female,white,1303309,endangeredRunaway,2003,2017,GLENDALE,,AZ
+DANIELLE PITCHER,38,female,white,780398,endangeredMissing,1979,1993,PEARCE,,AZ
+BRIANA PURNELL,16,female,biracial,1296298,endangeredRunaway,2000,2017,PHOENIX,Maricopa,AZ
+MANUEL QUINTANA,34,male,hispanic,1144082,Section 5779,1983,2003,YUMA,Yuma,AZ
+JUSTIN RICHARDSON,29,male,white,938322,endangeredMissing,1988,2001,GRAND CANYON,Coconino,AZ
+EPHRAM RICHESON,12,male,biracial,1082792,familyAbduct,2005,2007,SAINT DAVID,Cochise,AZ
+ALEXANDER ROBERTS,69,male,hispanic,1271801,endangeredMissing,1947,1960,PHOENIX,Maricopa,AZ
+SAMUEL ROBINSON,12,male,hispanic,1060252,familyAbduct,2005,2006,PHOENIX,Maricopa,AZ
+EDIL RODAS MONTES,14,male,hispanic,1305525,endangeredRunaway,2002,2017,TUCSON,,AZ
+DALILA RODRIGUEZ-CORDERO,18,female,hispanic,1263447,endangeredRunaway,1998,2016,PHOENIX,Maricopa,AZ
+ROBERT ROMERO,24,male,whiteHisp,887928,endangeredMissing,1993,2000,SANTA FE,,NM
+HECTOR SACUL-CHUP,17,male,hispanic,1306475,endangeredRunaway,2000,2017,MESA,Maricopa,AZ
+JUNE SALAZAR,17,female,hispanic,1303947,endangeredRunaway,2000,2017,TUCSON,Pima County,AZ
+ERICK SALGUERO FRANCO,21,male,hispanic,1096536,endangeredMissing,1996,2008,NOGALES,Santa Cruz,AZ
+EMILY SAMUELS,17,female,white,1299035,endangeredRunaway,2000,2017,GLENDALE,Maricopa,AZ
+CHRISTOPHER SANCHEZ,17,male,hispanic,1303494,endangeredRunaway,2000,2017,TUCSON,Pima County,AZ
+PAUL SANDERS,33,male,biracial,1181154,endangeredMissing,1984,2001,MESA,Maricopa,AZ
+JASON SAUL,37,male,white,839203,endangeredRunaway,1980,1997,BULLHEAD CITY,Mohave,AZ
+SILAS SAVANT,19,male,white,1247127,endangeredRunaway,1997,2015,TUCSON,Pima,AZ
+TYLER SCHLADWEILER,18,male,white,971087,familyAbduct,1999,2002,LAKE HAVASU CITY,Mohave,AZ
+ALICIA SCOTT,26,female,white,1067501,endangeredRunaway,1991,2006,BISBEE,Cochise,AZ
+JHESSYE SHOCKLEY,11,female,black,1181452,endangeredMissing,2006,2011,GLENDALE,Maricopa,AZ
+HEATHER SILVER,38,female,white,1159400,missing,1979,1997,TUCSON,Pima,AZ
+TERA SMITH,35,female,white,852270,endangeredMissing,1982,1998,REDDING,Shasta,CA
+DESTINY TAYLOR,18,female,biracial,1282810,endangeredRunaway,1998,2015,PHOENIX,Maricopa,AZ
+LESTER TORRES VELSQUEZ,17,male,hispanic,1280365,endangeredRunaway,1999,2016,YOUNGTOWN,Maricopa,AZ
+MYRON TRAYLOR,42,male,black,601924,nonFamilyAbduct,1974,1988,PHOENIX,Maricopa,AZ
+LOGAN TURNER-NAVENME,17,male,amInd,1302838,endangeredRunaway,2000,2017,CHANDLER,Maricopa County,AZ
+ALISSA TURNEY,33,female,white,912562,endangeredRunaway,1984,2001,PHOENIX,Maricopa,AZ
+KEVIN VARELA MARADIAGA,18,male,hispanic,1283270,endangeredRunaway,1999,2016,PHOENIX,Maricopa,AZ
+JACQUELINE VASQUEZ,16,female,hispanic,911229,nonFamilyAbduct,2001,2001,AVONDALE,Maricopa,AZ
+AMBER WARD,16,female,white,1305774,endangeredRunaway,2001,2016,TOLLESON,Maricopa,AZ
+LASHAUNDA WASHINGTON,37,female,black,1229064,missing,1980,2000,PHOENIX,Maricopa,AZ
+DIANE WHITE,75,female,white,1227311,endangeredMissing,1942,1959,PHOENIX,Maricopa,AZ
+MALARIE WHITTAKER,16,female,white,1303797,endangeredRunaway,2001,2017,PHOENIX,Maricopa County,AZ
+JESSE WILSON,11,male,black,1272890,endangeredMissing,2006,2016,BUCKEYE,Maricopa,AZ
+JOHN WRIGHT,16,male,white,1300959,endangeredRunaway,2001,2017,KINGMAN,Mohave,AZ
+AMARYLIZ ZARAGOZA MONTANO,3,female,hispanic,1266404,familyAbduct,2013,2015,GLENDALE,Maricopa,AZ
+AMARYLIZ ZARAGOZA MONTANO,3,female,hispanic,1266404,familyAbduct,2013,2015,GLENDALE,Maricopa,AZ

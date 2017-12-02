@@ -1,0 +1,14 @@
+name,age,gender,ethnicity,NCMEC_case#,case_type,birth_year,missing_year,missing_city,missing_county,missing_state
+DAVID BORER,36,male,white,722859,nonFamilyAbduct,1981,1989,WILLOW,Matanuska Susitna,AK
+JANE DOE1980,-1,female,white,1184520,unidentified,,,,,
+MEGAN EMERICK,61,female,white,1080580,endangeredMissing,1956,1973,SEWARD,Kenai Peninsula,AK
+STELLA EVON,38,female,amInd,919705,endangeredMissing,1979,1996,BETHEL,Bethel,AK
+AMY FANDEL,47,female,white,601234,nonFamilyAbduct,1970,1978,STERLING,Kenai Peninsula,AK
+AMY FANDEL,47,female,white,601234,nonFamilyAbduct,1970,1978,STERLING,Kenai Peninsula,AK
+ISAIAH ISENBERG,16,male,amInd,1306916,endangeredRunaway,2001,2017,ANCHORAGE,Anchorage,AK
+DASHAWN MCCORMICK,10,male,biracial,1228477,endangeredMissing,2007,2013,ANCHORAGE,Anchorage,AK
+MICHAEL PALMER,33,male,white,864936,endangeredMissing,1984,1999,WASILLA,Matanuska-Susitna Borough,AK
+ISAIAH PITKA,14,male,amInd,1308930,endangeredRunaway,2003,2017,NORTH POLE,Fairbanks North Star,AK
+DELORES RAMIREZ,16,female,biracial,1301821,endangeredRunaway,2000,2017,PALMER,Matanuska Susitna,AK
+KATELYNN SHELHAMER,14,female,amInd,1303172,endangeredRunaway,2003,2017,ANCHORAGE,Anchorage,AK
+JONNIE WHITE,35,female,white,1152816,endangeredMissing,1981,1998,KODIAK,Kodiak Island,AK

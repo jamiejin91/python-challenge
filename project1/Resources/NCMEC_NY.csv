@@ -1,0 +1,215 @@
+name,age,gender,ethnicity,NCMEC_case#,case_type,birth_year,missing_year,missing_city,missing_county,missing_state
+SHALEA ALDRIDGE,16,female,black,21247,endangeredRunaway,2001,2017,BROOKLYN,Kings,NY
+PATRICK ALFORD,14,male,biracial,1139843,endangeredMissing,2002,2010,BROOKLYN,Kings,NY
+HEIDI ALLEN,42,female,white,1157260,missing,1975,1994,NEW HAVEN,Oswego,NY
+SHERRY ALVAREZ,17,female,hispanic,1306872,endangeredRunaway,2000,2017,BROOKLYN,Kings,NY
+KESSIAH ANDERSON,16,female,black,1297347,endangeredRunaway,2000,2017,PLEASANTVILLE,Westchester,NY
+CELINE ATELEK,13,female,white,1305009,endangeredRunaway,2003,2017,HIGHLAND,Ulster,NY
+STEFAN BARBAT-ALEXANDER,17,male,biracial,1105285,familyAbduct,2000,2008,BROOKLYN,Kings,NY
+VIRY BARRERA,17,female,hispanic,1294415,endangeredRunaway,1999,2017,HEMPSTEAD,Nassau County,NY
+STEVIE BATES,24,female,black,1203762,missing,1992,2012,MANHATTAN,New York,NY
+ANGELA BERNADOTTE,19,female,black,1267225,endangeredRunaway,1998,2015,PLEASANTVILLE,Westchester,NY
+TAYLOR BESS,15,female,white,21281,endangeredRunaway,2002,2017,HORNELL,Steuben,NY
+BONITA BICKWIT,59,female,white,781647,endangeredMissing,1958,1973,NARROWSBURG,Sullivan,NY
+TYDAIZA BRADLEY,17,female,black,1298325,endangeredRunaway,2000,2016,HASTINGS ON HUDSON,Westchester,NY
+SANDRA BREED,69,female,white,1210678,endangeredMissing,1948,1964,CHITTENANGO,Madison,NY
+ALLEN BRISCOE,47,male,black,600428,nonFamilyAbduct,1969,1985,PHILADELPHIA,,PA
+GABRIELLA BROAD,15,female,white,1306255,endangeredRunaway,2002,2017,BINGHAMTON,Broome,NY
+IMANI BROWN,16,female,black,19334,endangeredRunaway,2000,2016,BRONX,Bronx,NY
+ANDRE BRYANT,28,male,black,721896,nonFamilyAbduct,1989,1989,BROOKLYN,Kings,NY
+JOHNATHON CANNA,15,male,white,1301132,endangeredRunaway,2001,2017,ROCHESTER,Monroe County,NY
+CHRISTOPHER CAROLAN,14,male,white,1299373,endangeredRunaway,2003,2017,BINGHAMTON,Broome,NY
+LONDON CARTER,4,female,black,21153,familyAbduct,2012,2017,BUFFALO,Erie,NY
+SHILAH CARTER,16,female,black,1303234,endangeredRunaway,2001,2017,PLEASANTVILLE,Westchester,NY
+JAVIER CASTILLO,16,male,hispanic,1278952,endangeredRunaway,2000,2016,CENTRAL ISLIP,Suffolk,NY
+JOSEFFINN CEGLIA,14,male,white,1245355,endangeredMissing,2003,2015,WELLSVILLE,,NY
+JOSEFFINN CEGLIA,14,male,white,1245355,endangeredMissing,2003,2015,WELLSVILLE,,NY
+STEVEN CHAIT,66,male,white,1066634,Section 5779,1951,1972,NEW YORK,New York,NY
+HEIDY CHAVEZ,17,female,hispanic,1274322,endangeredRunaway,1999,2015,BROOKLYN,Kings,NY
+SHAWN CHECKSFIELD,17,male,white,1306077,endangeredRunaway,2000,2017,CICERO,Onondaga,NY
+SHARAUN COLE,46,female,black,857497,endangeredMissing,1970,1983,NEW YORK,New York,NY
+CYNTHIA CONSTANTINE,63,female,white,1161743,nonFamilyAbduct,1954,1969,OAKDALE,Suffolk,NY
+STARMEKA COPELAND,17,female,black,20804,endangeredRunaway,2000,2017,HASTINGS ON HUDSON,Westchester,NY
+MARTIN CRUMBLISH,53,male,white,600888,nonFamilyAbduct,1964,1981,DOBBS FERRY,Westchester,NY
+BRIANNA CRUZ,17,female,hispanic,1296513,endangeredRunaway,2000,2017,RONKONKOMA,Suffolk,NY
+VALARIE CUCCIA,63,female,white,1175398,missing,1953,1974,NEW YORK,Kings,NY
+STEVEN DAMMAN,64,male,white,1149544,endangeredMissing,1952,1955,EAST MEADOW,Nassau,NY
+CHRISTOPHER DANSBY,30,male,black,724088,nonFamilyAbduct,1987,1989,NEW YORK,New York,NY
+MICKAYLA DAVIS,16,female,white,1300600,endangeredRunaway,2001,2017,CORNWALL,Orange,NY
+SELAH DAVIS,9,female,black,1091315,endangeredMissing,2007,2008,BRONX,Bronx,NY
+TIFFANY DIXON,38,female,hispanic,760721,endangeredMissing,1979,1991,BROOKLYN,Kings,NY
+JOHN GREECE DOE 1976,-1,male,unknown,1245432,unidentified,,,,,
+UNKNOWN DOE1987,-1,unknown,black,1184325,unidentified,,,,,
+JANE DOE1988,-1,female,white,1106805,unidentified,,,,,
+JANE DOE1988,-1,female,,1115332,unidentified,,,,,
+JANE DOE1991,-1,female,black,1244004,unidentified,,,,,
+JOHN DOE1991,-1,male,black,1184314,unidentified,,,,,
+JOHN DOE1992,-1,male,black,1184320,unidentified,,,,,
+JANE DOE1993,-1,female,white,1244003,unidentified,,,,,
+JANE DOE1994,-1,female,black,1146362,unidentified,,,,,
+JANE DOE1998,-1,female,black,1244002,unidentified,,,,,
+JOHN DOE1998,-1,male,black,1224544,unidentified,,,,,
+JANE DOE2000,-1,female,white,1104098,unidentified,,,,,
+JOHN DOE2000,-1,male,hispanic,1184317,unidentified,,,,,
+JOHN DOE2001,-1,male,hispanic,1184313,unidentified,,,,,
+JOHN DOE2002,-1,male,,1107684,unidentified,,,,,
+JANE DOE2003,-1,female,white,1107110,unidentified,,,,,
+JOHN DOE2003,-1,male,black,1184323,unidentified,,,,,
+JOHN DOE2005,-1,male,black,1184315,unidentified,,,,,
+JANE DOE2006,-1,female,whiteHisp,1107277,unidentified,,,,,
+JADEN DUNKLEY,15,male,white,1307639,endangeredRunaway,2002,2017,CORNING,Steuben,NY
+CORNELIA ENRIGHT,66,female,white,18973,missing,1950,1969,SCHENECTADY,Schenectady,NY
+DAVID ESPERANCE,12,male,black,21357,endangeredRunaway,2004,2017,SYOSSET,Nassau,NY
+SEAN EVANS,35,male,white,601206,nonFamilyAbduct,1981,1984,WATERTOWN,,NY
+SAYURY FLORES,13,female,hispanic,1305941,endangeredRunaway,2004,2017,BRONX,Bronx,NY
+HELEN FLORES FLORES,18,female,hispanic,1284841,endangeredRunaway,1999,2016,YONKERS,Westchester,NY
+MATHIEU FORETTE,16,male,white,1308820,endangeredRunaway,2000,2017,SCHENECTADY,Schenectady,NY
+MATHIEU FORETTE,16,male,white,21434,endangeredRunaway,2000,2017,SCHENECTADY,Schenectady,NY
+JAYSON FRANCO,16,male,hispanic,1302329,endangeredRunaway,2000,2017,YONKERS,Westchester,NY
+CRAIG FREAR,30,male,white,993450,endangeredMissing,1986,2004,SCOTIA,Schenectady,NY
+JANICE FULLAM,53,female,white,1151932,endangeredMissing,1964,1981,HAUPPAUGE,Suffolk,NY
+MELANIE GARCIA,13,female,hispanic,1306347,endangeredRunaway,2003,2017,STATEN ISLAND,Richmond,NY
+MELANIE GARCIA,13,female,hispanic,1308042,endangeredRunaway,2003,2017,STATEN ISLAND,Richmond,NY
+NATHANIEL GILBERT,16,male,biracial,1299394,endangeredRunaway,2000,2017,BUFFALO,Erie,NY
+SHAUNTAY GILLIAM,20,female,black,1253959,missing,1997,2015,PLEASANTVILLE,Westchester,NY
+COLIN GILLIS,23,male,white,1197145,,1994,2012,TUPPER LAKE,Franklin,NY
+MARIAH GIOUSOS,17,female,white,18388,endangeredRunaway,2000,2015,BELLMORE,Nassau,NY
+NATHALIE GRACIA,14,female,whiteHisp,21264,endangeredRunaway,2002,2017,PLEASANTVILLE,Westchester,NY
+JONATHAN GRANISON-BRADLEY,32,male,black,1216793,missing,1985,2005,ROCHESTER,Monroe,NY
+LIZZIE GRANT,17,female,black,1298875,endangeredRunaway,2000,2017,PLEASANTVILLE,Westchester,NY
+TRAVIS GREAVES,17,male,black,1245233,endangeredRunaway,2000,2015,BROOKLYN,Kings,NY
+IVORY GREEN,30,female,black,986724,endangeredRunaway,1986,2004,UTICA,Oneida,NY
+SHANINA GREGG,17,female,black,1286273,endangeredRunaway,2000,2017,ROCHESTER,Monroe,NY
+STARDASHA GRIFFIN,16,female,biracial,1306411,endangeredRunaway,2001,2017,POUGHKEEPSIE,Dutchess,NY
+TAGEANA GRIFFITH,13,female,black,1171053,familyAbduct,2004,2010,NIAGARA FALLS,Niagara,NY
+JULIE GUTHRIE,46,female,white,777216,endangeredMissing,1971,1977,KATONAH,Westchester,NY
+JULIE GUTHRIE,46,female,white,777216,endangeredMissing,1971,1977,KATONAH,Westchester,NY
+JORDAN HALL,37,male,white,8693,endangeredMissing,1980,2001,BUFFALO,Erie,NY
+NATHANIEL HARRIS,17,male,biracial,1301701,endangeredRunaway,2000,2017,BUFFALO,Erie County,NY
+JENNIFER HARSHMAN,18,female,white,18521,endangeredRunaway,1999,2015,PORT JERVIS,,NY
+YOUSSEF HASSAN,14,male,biracial,1157637,familyAbduct,2003,2010,NEW YORK,New York,NY
+LEANNE HAUSBERG,33,female,biracial,861608,endangeredMissing,1984,1999,BROOKLYN,Kings,NY
+JOSEPH HELT,48,male,white,1150362,endangeredMissing,1969,1987,ELLENVILLE,Ulster,NY
+DENIESE HIRAMAN,31,female,black,876542,endangeredMissing,1985,1999,QUEENS,Queens,NY
+EQUILLA HODRICK,41,female,black,601724,nonFamilyAbduct,1976,1985,BRONX,Bronx,NY
+DOMONIQUE HOLLEY-GRISHAM,24,male,black,1116693,endangeredRunaway,1993,2009,ROCHESTER,Monroe,NY
+FREDERICK HOLMES,64,male,white,1129018,endangeredMissing,1953,1955,GRAHAMSVILLE,Sullivan,NY
+MARIAH HOWE,22,female,black,16183,endangeredMissing,1995,2012,ROCHESTER,,NY
+JEREMIAH HUGER,36,male,black,601769,nonFamilyAbduct,1980,1985,BRONX,Bronx,NY
+HOLLY HUGHES,43,female,white,601770,nonFamilyAbduct,1974,1981,STATEN ISLAND,,NY
+MAYELIN INOA,17,female,hispanic,1285405,endangeredRunaway,2000,2016,BRONX,Bronx,NY
+NIKOS INSLEE,17,male,white,1278943,endangeredRunaway,2000,2016,SYOSSET,Nassau,NY
+JUSTICE JACKSON,15,female,black,21403,endangeredRunaway,2002,2017,SCHENECTADY,Schenectady,NY
+OCTAVIA JACKSON,16,female,black,1302746,endangeredRunaway,2001,2017,ELMSFORD,Westchester,NY
+TIAHEASE JACKSON,44,female,black,701777,nonFamilyAbduct,1972,1983,STATEN ISLAND,Richmond,NY
+KEIJONTE JACKSON-CARRERO,16,male,black,1290129,endangeredRunaway,2001,2017,BRONX,Bronx,NY
+ASIA JACKSON-HURD,17,female,black,1307342,endangeredRunaway,2000,2017,POUGHKEEPSIE,Dutchess,NY
+NIKHITA JAGTIANI,8,female,asian,1244838,familyAbduct,2009,2013,NEW YORK,New York,NY
+NIKHITA JAGTIANI,8,female,unknown,19336,familyAbduct,2009,2013,REGO PARK,Queens,NY
+TONI JOHNSON,16,female,black,1308440,endangeredRunaway,2001,2017,BROOKLYN,Kings,NY
+TRINITY JOHNSON,14,female,white,1306409,endangeredRunaway,2003,2017,POUGHKEEPSIE,Dutchess,NY
+TRINITY JOHNSON,14,female,white,21318,endangeredRunaway,2003,2017,POUGHKEEPSIE,Dutchess,NY
+YAVANKA JOHNSON,15,female,biracial,1293958,endangeredRunaway,2002,2017,YONKERS,Westchester,NY
+DAJEE JONES,18,female,black,1295610,missing,1999,2017,JAMAICA,Queens,NY
+EMILY JUAN,13,female,biracial,997267,familyAbduct,2003,2004,FLUSHING,New York,NY
+SAMANTHA KIBALO,18,female,white,904495,familyAbduct,1999,2001,SUFFERN,Rockland,NY
+SONIA LANDAVERDE,16,female,white,20576,endangeredRunaway,2001,2017,BRENTWOOD,Suffolk,NY
+AALIYAH LEGRAND,15,female,black,1306410,endangeredRunaway,2001,2017,POUGHKEEPSIE,Dutchess,NY
+AIDAN LIN,8,male,asian,1216020,familyAbduct,2008,2011,NEW YORK,New York,NY
+LUZ LOPEZ,13,female,whiteHisp,21398,endangeredRunaway,2004,2017,HEMPSTEAD,Nassau,NY
+LUIS LOPEZ LUGO,29,male,whiteHisp,855408,endangeredMissing,1988,1998,GUAYANILLA,,PR
+SUZANNE LYALL,39,female,white,986276,missing,1978,1998,ALBANY,Albany,NY
+ASHA MAGNANIMI,17,female,white,1299593,endangeredRunaway,2000,2017,BUFFALO,Erie,NY
+SHANAYSIA MARTIN,16,female,black,1302756,endangeredRunaway,2001,2016,BROOKLYN,Kings,NY
+SHANAYSIA MARTIN,16,female,black,20309,missing,2001,2016,BROOKLYN,,NY
+TAMMIE MCCORMICK,45,female,white,603748,endangeredMissing,1972,1986,SARATOGA SPRINGS,Saratoga Springs,NY
+PASHA MCIVER,16,female,black,1308876,endangeredRunaway,2001,2017,PLEASANTVILLE,Westchester,NY
+JOSE MEDINA,37,male,whiteHisp,862480,endangeredMissing,1979,1995,MOCA,,PR
+EROL MELENDEZ,17,male,hispanic,1284720,endangeredRunaway,2000,2016,DOBBS FERRY,Westchester County,NY
+YULIA MELGARA,15,female,whiteHisp,21195,endangeredRunaway,2001,2017,ALBANY,Albany,NY
+BRANDON MEMA,19,male,white,1005751,familyAbduct,1998,2000,BROOKLYN,Kings,NY
+LAUNA MERRITT,50,female,white,1162984,endangeredMissing,1966,1983,SYRACUSE,Onondaga,NY
+THOMAS MEUSE,60,male,white,1143109,endangeredMissing,1956,1971,SCHENECTADY,Schenectady,NY
+ZOEI MOORE,17,female,black,1292135,endangeredRunaway,1999,2017,BROOKLYN,Kings,NY
+KELLY MORRISSEY,49,female,white,603372,nonFamilyAbduct,1968,1984,LYNBROOK,Nassau,NY
+RUSSELL MORT,38,male,white,603374,nonFamilyAbduct,1979,1982,NIAGARA FALLS,Niagara,NY
+ROBIN MURPHY,39,female,white,NY5379,unknown,1978,1995,CARMEL,PUTNAM,NY
+KIRAN NAIR,11,male,asian,1194865,familyAbduct,2005,2006,HONEOYE FALLS,Monroe,NY
+AUDREY NERENBERG,59,female,white,603933,missing,1958,1977,BROOKLYN,Kings,NY
+DIANA NEWSOME,18,female,black,1283930,endangeredRunaway,1999,2016,BRONX,Bronx,NY
+NATALIE NIMRI,11,female,white,1158881,familyAbduct,2006,2010,CAMILLUS,Onondaga,NY
+CIERA NIXON,17,female,black,1301498,endangeredRunaway,2000,2017,SYOSSET,Nassau,NY
+ALEXANDER NOGUERA,8,male,hispanic,1199829,familyAbduct,2009,2012,QUEENS,Jamaica,NY
+MAKAYLA OLMSTEAD,17,female,black,20829,endangeredRunaway,2000,2017,CAMILLUS,Onondaga,NY
+TIFFANY ORTIZ,18,female,whiteHisp,17766,missing,1999,2014,ROOSEVELT,,NY
+NAUTICA OTT,16,female,black,1289172,endangeredRunaway,2001,2017,ROCHESTER,Monroe,NY
+ALEYAH PARKER,15,female,black,1306992,endangeredRunaway,2002,2017,SYOSSET,Nassau County,NY
+ETAN PATZ,44,male,white,603392,nonFamilyAbduct,1972,1979,NEW YORK,,NY
+CESILIA PENA,55,female,hispanic,601859,nonFamilyAbduct,1962,1976,NEW YORK,New York,NY
+ALICE PEREIRA,50,female,white,604013,endangeredMissing,1966,1972,STATEN ISLAND,Richmond,NY
+PRINCESS PEREZ,23,female,whiteHisp,860028,endangeredMissing,1993,1996,BRONX,,NY
+HERIBERTO PEREZ-MEDRANO,18,male,white,20572,endangeredRunaway,1999,2017,BAYPORT,Suffolk,NY
+DEMI PETERSON,17,female,black,1303437,endangeredRunaway,2000,2017,SYOSSET,Nassau,NY
+JUSTIN PIECHOWICZ,14,male,white,1304666,endangeredRunaway,2002,2017,SYOSSET,Nassau,NY
+JUSTIN PIECHOWICZ,14,male,white,21202,endangeredRunaway,2002,2017,SYOSSET,Nassau,NY
+BREAUNNA PITTS,16,female,black,1301250,endangeredRunaway,2001,2017,ROCHESTER,Monroe,NY
+KIRK QUINTONS,45,male,black,601872,nonFamilyAbduct,1971,1983,NEW YORK,New York,NY
+JALIEK RAINWALKER,22,male,biracial,1083247,endangeredMissing,1995,2007,GREENWICH,Washington,NY
+MELISSA REITER,26,female,white,3623,familyAbduct,1991,1992,LITTLE NECK,Queens,NY
+JEHUDI RIVERA,16,male,hispanic,1307411,endangeredRunaway,2000,2017,YONKERS,Westchester,NY
+LIZSANDRA RIVERA,15,female,hispanic,1305486,endangeredRunaway,2002,2017,BUFFALO,Erie,NY
+JANESSIA ROBERTS,16,female,hispanic,1281574,endangeredRunaway,2001,2016,HAWTHORNE,Westchester,NY
+MARIELA ROBLERO BRAVO,20,female,hispanic,1205883,endangeredRunaway,1997,2012,BRENTWOOD,Suffolk,NY
+KATELYN RODRIGUEZ,16,female,unknown,21229,endangeredRunaway,2000,2017,RIVERHEAD,Suffolk,NY
+PEDRO RODRIGUEZ PARADA,16,male,hispanic,1278556,endangeredRunaway,2001,2016,HUNTINGTON STATION,Suffolk,NY
+QUA'MERE ROGERS,12,male,black,1145099,endangeredMissing,2005,2008,SYRACUSE,Onondaga,NY
+CINDY ROWLES,48,female,white,776875,endangeredMissing,1968,1986,KINGSTON,Ulster,NY
+BONITA SANDERS,33,female,black,601887,nonFamilyAbduct,1984,1986,ATLANTIC CITY,,NJ
+MARLENE SANTANA,31,female,hispanic,601889,nonFamilyAbduct,1985,1985,NEW YORK,New York,NY
+MONIQUE SANTIAGO,39,female,hispanic,741122,nonFamilyAbduct,1978,1990,ALBANY,Albany,NY
+TIRREL SANTIAGO,29,male,black,1180750,endangeredMissing,1988,2005,BROOKLYN,Kings,NY
+MARK SEELMAN,43,male,white,747878,endangeredMissing,1974,1990,REMSEN,Oneida,NY
+AMBER SHAH,11,female,asian,1082208,endangeredMissing,2006,2007,BALDWIN,Nassau,NY
+AMBER SHAH,11,female,asian,1082208,endangeredMissing,2006,2007,BALDWIN,Nassau,NY
+AMBER SHAH,11,female,asian,1082208,endangeredMissing,2006,2007,BALDWIN,Nassau,NY
+DENISE SHEEHY,63,female,white,924905,endangeredMissing,1954,1970,WOODSIDE,Queens,NY
+JAQUA SIMMONS,15,male,black,1304857,endangeredRunaway,2002,2017,CANAAN,Columbia,NY
+BLINDA SIMPSON,3,female,white,21350,familyAbduct,2014,2017,WELLSVILLE,Allegany,NY
+NATALIE SLICK,17,female,white,1304283,endangeredRunaway,2000,2017,VALATIE,Columbia,NY
+JACQUELINE SMITH,34,female,white,881318,endangeredRunaway,1983,1999,BROOKLYN,Kings,NY
+BIRON SOHOM TAMBRIS,16,male,hispanic,1301206,endangeredRunaway,2001,2017,BRONX,Bronx,NY
+ANGEL SOLER,16,male,white,21261,endangeredRunaway,2001,2017,ROOSEVELT,Nassau,NY
+STEVEY SOMMERVILLE,42,male,black,1165370,endangeredRunaway,1975,1990,BROOKLYN,Queens,NY
+LINDA ST. GERMAINE,57,female,white,1171686,endangeredMissing,1960,1973,PLATTSBURGH,Clinton,NY
+AMANDA STOKES,17,female,black,1269436,endangeredRunaway,2000,2016,MOUNT VERNON,Westchester,NY
+TONY STRAYHORN,16,male,whiteHisp,19077,missing,2000,2016,PLEASANTVILLE,,NY
+BRIAN SULLIVAN,29,male,white,1076583,missing,1987,2007,ROCHESTER,Monroe,NY
+ALEXIS SWORD,16,female,white,1306357,endangeredRunaway,2001,2017,ROCHESTER,Monroe,NY
+RAEQUAN TARVER,16,male,black,1304858,endangeredRunaway,2001,2017,CANAAN,Columbia,NY
+ARKADIY TASHMAN,29,male,white,1007600,endangeredRunaway,1987,2005,STATEN ISLAND,Richmond,NY
+JUANA TAYLOR,16,female,blackHisp,20289,missing,2001,2016,ROCHESTER,,NY
+TANISHA TAYLOR,15,female,black,1304888,endangeredRunaway,2002,2017,JAMAICA,Queens County,NY
+LAMYA TEAMS,16,female,black,1307704,endangeredRunaway,2001,2017,HASTINGS-ON-HUDSON,Westchester,NY
+ESSENCE TERRERO,18,female,hispanic,1279958,endangeredRunaway,1998,2016,HAWTHORNE,Westchester,NY
+ANGELIE THOMAS,15,female,black,1299062,endangeredRunaway,2002,2017,HAWTHORNE,Westchester,NY
+TROY THORMAN,17,male,black,1288011,endangeredRunaway,1999,2017,BROOKLYN,Kings County,NY
+SHERYL TILLINGHAST,61,female,white,1156469,endangeredMissing,1956,1973,WASSAIC,Dutchess,NY
+EDMOND TILLMAN,26,male,black,1023109,endangeredRunaway,1991,2005,BROOKLYN,Kings,NY
+MARIELA ROBLERO BRAVO,20,female,hispanic,1205883,endangeredRunaway,1997,2012,BRENTWOOD,Suffolk,NY
+EMILY TOLLINCHI,16,female,hispanic,1292532,endangeredRunaway,2001,2017,NEW YORK,New York,NY
+YIM TSUI,39,male,asian,8845,unknown,1978,1998,NEW HYDE PARK,,NY
+AUSTEN UGWECHES,14,male,biracial,15149,familyAbduct,2002,2009,BROOKLYN,Kings,NY
+AUSTEN UGWECHES,14,male,biracial,15149,familyAbduct,2002,2009,BROOKLYN,Kings,NY
+ITAYETZIN VASQUEZ,18,female,hispanic,11062016,endangeredRunaway,1999,2016,PENN YAN,Yates,NY
+ALYSA VAZQUEZ,16,female,white,21106,endangeredRunaway,2000,2017,VALLEY STREAM,Nassau,NY
+SEVEHN VENABLE,16,male,black,1293005,endangeredRunaway,2001,2017,LOCKPORT,Niagara,NY
+SHANE WALKER,29,male,black,727904,nonFamilyAbduct,1987,1989,NEW YORK,New York,NY
+MITCHEL WEISER,60,male,white,781648,endangeredMissing,1956,1973,NARROWSBURG,Sullivan,NY
+MARY WESOLOWSKI,59,female,white,759895,endangeredMissing,1958,1971,GLENS FALLS,Warren,NY
+TIFFANY WESTFORD,26,female,black,796293,familyAbduct,1991,1993,AMITYVILLE,Suffolk,NY
+TANYA WHITTED,18,female,black,21348,endangeredRunaway,1999,2017,SYOSSET,Nassau,NY
+KIMBALEE WILLIAMS,16,female,black,20230,endangeredRunaway,2001,2016,BROOKLYN,Kings,NY
+SARA WOOD,36,female,white,782700,nonFamilyAbduct,1981,1993,LITCHFIELD,,NY
+ZHI SHAN WU,16,female,asian,1305699,endangeredRunaway,2001,2017,BROOKLYN,Kings,NY
+DIVINE YOUNG,16,male,black,1307669,endangeredRunaway,2001,2017,ROCHESTER,Monroe,NY
+YOXY ZUNIGA ROMERO,16,male,hispanic,1284842,endangeredRunaway,2001,2016,YONKERS,Westchester,NY

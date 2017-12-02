@@ -1,0 +1,75 @@
+name,age,gender,ethnicity,NCMEC_case#,case_type,birth_year,missing_year,missing_city,missing_county,missing_state
+FAWN ABELL,47,female,white,600008,endangeredMissing,1969,1985,BETHANY,Bethany,OK
+FAWN ABELL,47,female,white,600008,endangeredMissing,1969,1985,BETHANY,Bethany,OK
+SHARON BALDEAGLE,45,female,amInd,600185,nonFamilyAbduct,1972,1984,EAGLE BUTTE,,SD
+NICHOLAS BARCLAY,36,male,white,802112,endangeredMissing,1980,1994,SAN ANTONIO,,TX
+AMBER BARKER,29,female,white,841456,endangeredMissing,1987,1997,OKLAHOMA CITY,,OK
+LAURIA BIBLE,34,female,white,877676,endangeredMissing,1983,1999,WELCH,Craig,OK
+HAILEY BLIEK,17,female,white,1303567,endangeredRunaway,2000,2017,EUFAULA,McIntosh,OK
+ALEXIS BRIONES,14,female,hispanic,1277715,endangeredRunaway,2003,2016,EDMOND,Oklahoma,OK
+VICENTE BRIONES,16,male,hispanic,1263629,endangeredRunaway,2001,2016,OKLAHOMA CITY,Oklahoma,OK
+KHARIZMA BROWN,17,female,black,1307178,endangeredRunaway,1999,2017,TULSA,Tulsa,OK
+MICHAELA BRUMMETT,17,female,amInd,1304412,endangeredRunaway,1999,2017,TULSA,Tulsa,OK
+ISAIAH BRYANT,15,male,biracial,1287744,endangeredRunaway,2002,2017,TULSA,Tulsa,OK
+ISAIAH BRYANT,15,male,biracial,1287744,endangeredRunaway,2002,2017,TULSA,Tulsa,OK
+ANGELA BURNS,24,female,biracial,1125837,familyAbduct,1992,1994,MIDWEST CITY,Oklahoma,OK
+COLT CLARK,21,male,white,1042577,endangeredMissing,1996,2006,WEWOKA,Seminole,OK
+JOSEPHINE COGBURN,50,female,white,600777,nonFamilyAbduct,1967,1983,NORMAN,,OK
+JOSEPHINE COGBURN,50,female,white,600777,nonFamilyAbduct,1967,1983,NORMAN,,OK
+JOSHUA COLE,17,male,white,1300923,endangeredRunaway,1999,2017,MOORE,Cleveland County,OK
+CHEYENNE COOMER,17,female,white,1305741,endangeredRunaway,2000,2017,TULSA,Tulsa County,OK
+MONIQUE DANIELS,41,female,white,787775,endangeredMissing,1976,1992,MOORE,Cleveland,OK
+LEE DAVIS,49,male,white,741655,endangeredMissing,1968,1984,TULSA,,OK
+CRYSTAL DITTMEYER,33,female,white,819583,endangeredMissing,1984,1996,OKLAHOMA CITY,Oklahoma County,OK
+JOHN DOE1972,-1,male,white,1184327,unidentified,,,,,
+JOHN DOE1978,-1,male,white,1184252,unidentified,,,,,
+JOHN DOE1987,-1,male,unknown,1184250,unidentified,,,,,
+LEE FORTNEY,15,male,amInd,1299555,endangeredRunaway,2002,2017,PAWHUSKA,Osage,OK
+ASHLEY FREEMAN,33,female,white,877671,endangeredMissing,1983,1999,WELCH,Craig,OK
+GABRIEL FREEMAN,15,female,biracial,1298644,endangeredRunaway,2001,2017,TULSA,Tulsa County,OK
+ADRIANNA GARCIA,28,female,hispanic,1005827,endangeredRunaway,1989,2004,TULSA,Creek,OK
+JESSICA GARCIA,15,female,hispanic,1307976,endangeredRunaway,2002,2017,PURCELL,McClain,OK
+ELEANOR GRIGSBY,17,female,biracial,1303448,endangeredRunaway,2000,2017,OKLAHOMA CITY,Oklahoma,OK
+ORLANDO HAMBURGER,15,male,biracial,1308465,endangeredRunaway,2002,2017,OKLAHOMA CITY,Oklahoma,OK
+JOSHUA HART,16,male,white,1281029,endangeredRunaway,2001,2016,COWETA,Wagoner,OK
+KIRSTEN HATFIELD,28,female,white,832698,endangeredMissing,1989,1997,MIDWEST CITY,,OK
+JACKIE HAY,41,female,white,601673,nonFamilyAbduct,1976,1981,SHAWNEE COUNTY,,KS
+CAIN HAYNES,16,male,amInd,1291512,endangeredRunaway,2001,2017,JENKS,Tulsa,OK
+ROYCE HENSON,39,male,biracial,1108281,endangeredMissing,1977,1979,TULSA,Tulsa,OK
+KAITLYN HICKS,16,female,white,1279012,endangeredRunaway,2001,2016,TULSA,Tulsa,OK
+MICHAEL HUGHES,29,male,white,795152,nonFamilyAbduct,1988,1994,CHOCTAW,Oklahoma,OK
+ALIAH JUAREZ,16,female,hispanic,1285991,endangeredRunaway,2001,2016,OKLAHOMA CITY,Oklahoma,OK
+CHARLOTTE KINSEY,49,female,white,601788,nonFamilyAbduct,1968,1981,OKLAHOMA CITY,Oklahoma,OK
+LARRY KREBBS,39,male,white,818705,endangeredMissing,1978,1980,BRYAN COUNTY,Bryan,OK
+BRIANNA LANGLEY,18,female,amInd,1266130,endangeredRunaway,1999,2016,POTEAU,Leflore,OK
+BRIAN LEABO,17,male,white,1300337,endangeredRunaway,2000,2017,GARBER,Garfield,OK
+STEPHANIE LONG,15,female,white,1305616,endangeredRunaway,2002,2017,PONCA CITY,Kay,OK
+TYSHEONA LYLES,16,female,black,1268776,endangeredRunaway,2000,2016,BROKEN ARROW,Tulsa,OK
+JAMIE MCCHURIN,36,female,white,830438,endangeredMissing,1980,1997,MUSKOGEE,Muskogee,OK
+ZIARE MCDONALD,17,male,black,1294655,endangeredRunaway,1999,2017,YUKON,Canadian County,OK
+MEREDITH MEDINA,44,female,hispanic,932036,endangeredMissing,1972,1989,MIDWEST CITY,Oklahoma,OK
+MOLLY MILLER,21,female,biracial,1219731,endangeredRunaway,1996,2013,WILSON,Carter,OK
+PAIGE MOORE,22,female,white,1199956,endangeredRunaway,1995,2012,BROKEN ARROW,Tulsa,OK
+STORMY NUNN,16,female,amInd,1300995,endangeredRunaway,2000,2017,OKLAHOMA CITY,Oklahoma,OK
+CHANDLIN O'BRIEN,15,female,biracial,1292295,endangeredRunaway,2001,2017,TULSA,Tulsa,OK
+CINDA PALLETT,49,female,white,601852,nonFamilyAbduct,1968,1981,OKLAHOMA CITY,Oklahoma,OK
+AERIONA PAULEY,16,female,white,1294198,endangeredRunaway,2001,2017,BROKEN ARROW,Wagoner,OK
+BRIANNA PETERSON,18,female,white,1286746,endangeredRunaway,1999,2017,HOLDENVILLE,Hughes,OK
+SABASJEN POWELL,15,female,white,1294576,endangeredRunaway,2001,2017,BARTLESVILLE,Washington,OK
+SANDY REA,50,female,white,603597,endangeredMissing,1966,1984,SHAWNEE,Pottawatomie,OK
+JEISON RIVERA,17,male,hispanic,1307445,endangeredRunaway,2000,2017,OKLAHOMA CITY,Oklahoma,OK
+TRISHA SANDERS,17,female,white,1307694,endangeredRunaway,2000,2017,TULSA,Tulsa,OK
+VANESSA SMITH,17,female,hispanic,1292386,endangeredRunaway,2000,2017,TULSA,Tulsa,OK
+HALEY SPEAKS,14,female,white,1308236,endangeredRunaway,2003,2017,OKLAHOMA CITY,Oklahoma,OK
+JAIDENCE STALLINGS,12,female,black,1302878,familyAbduct,2005,2017,TULSA,Tulsa,OK
+ROSHAWNA STEPHENS,14,female,black,1250467,endangeredRunaway,2003,2015,OKLAHOMA CITY,Oklahoma,OK
+PATRICIA TAYLOR,51,female,white,1259247,endangeredMissing,1965,1981,OWASSO,Tulsa,OK
+ROSEMARIE TIMPERLEY,22,female,white,1263263,,1995,2016,OKMULGEE,Okmulgee,OK
+BETHANY TINER,24,female,biracial,828286,familyAbduct,1993,1997,CHICKASHA,Grady,OK
+PAMELA TINSLEY,51,female,white,1002385,missing,1966,1986,OKLAHOMA CITY,Oklahoma,OK
+LOGAN TUCKER,21,male,white,939490,endangeredMissing,1996,2002,WOODWARD,Woodward,OK
+SEBASTIAN VELASQUEZ ZAVALA,17,male,hispanic,1278842,endangeredRunaway,2000,2016,GUYMON,Texas,OK
+GEORGE WAYSEPAPPY,15,male,amInd,1305603,endangeredRunaway,2001,2017,LAWTON,Comanche,OK
+NATALIE WIGINGTON,14,female,white,1307532,endangeredRunaway,2003,2017,SHAWNEE,Pottawatomie,OK
+SHYANNE WILLIAMS,17,female,white,1304258,endangeredRunaway,2000,2017,OKLAHOMA CITY,Oklahoma,OK
+ISAAC YATES,17,male,amInd,1304211,endangeredRunaway,2000,2017,OKLAHOMA CITY,Oklahoma,OK

@@ -1,0 +1,9 @@
+name,age,gender,ethnicity,NCMEC_case#,case_type,birth_year,missing_year,missing_city,missing_county,missing_state
+MARBLE ARVIDSON,23,male,white,1178817,endangeredMissing,1994,2011,BRATTLEBORO,Windham,VT
+ANDREW BAIRD,17,male,white,1299673,endangeredRunaway,2000,2017,WESTFIELD,Orleans,VT
+JOHN DOE1935,-1,male,white,1244456,unidentified,,,,,
+BRIANNA MAITLAND,30,female,white,985167,endangeredMissing,1986,2004,EAST FRANKLIN,Franklin,VT
+GRACE REAPP,44,female,white,1149724,endangeredMissing,1973,1978,JERICHO,Chittenden,VT
+MICHAEL TURCOTTE,17,male,white,1300497,endangeredRunaway,2000,2017,BENNINGTON,Bennington,VT
+HEIDE WILBUR,42,female,white,755088,endangeredMissing,1974,1991,MIDDLETOWN SPRINGS,Rutland,VT
+SELINDA WINEGAR,55,female,white,1149880,endangeredMissing,1962,1979,BURLINGTON,Chittenden,VT

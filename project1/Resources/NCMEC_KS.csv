@@ -1,0 +1,25 @@
+name,age,gender,ethnicity,NCMEC_case#,case_type,birth_year,missing_year,missing_city,missing_county,missing_state
+EDHEM ABUHAMDA,15,male,white,1191424,familyAbduct,2001,2012,OVERLAND PARK,Johnson,KS
+EDHEM ABUHAMDA,15,male,white,1191424,familyAbduct,2001,2012,OVERLAND PARK,Johnson,KS
+EDHEM ABUHAMDA,15,male,white,1191424,familyAbduct,2001,2012,OVERLAND PARK,Johnson,KS
+COLTON BARRERA,26,male,white,1108636,endangeredRunaway,1990,2008,RUSSELL,Russell,KS
+TABITHA BREWER,36,female,white,846896,nonFamilyAbduct,1981,1998,SHAWNEE,,KS
+KATELIN CADDELL,14,female,white,1308291,endangeredRunaway,2002,2017,LEAVENWORTH,Leavenworth,KS
+JEREMY COOTS,44,male,white,1217444,endangeredMissing,1972,1977,ATCHISON,Atchison,KS
+JOHN DOE1973,-1,male,white,1184272,unidentified,,,,,
+JACKIE HAY,41,female,white,601673,nonFamilyAbduct,1976,1981,SHAWNEE COUNTY,,KS
+ADAM HERRMAN,30,male,white,1111545,endangeredMissing,1987,1999,TOWANDA,Butler,KS
+BABY JACKSON,10,female,black,1281984,familyAbduct,2016,2016,KANSAS CITY,Wyandotte,KS
+TAMYA JONES,17,female,black,1295755,endangeredRunaway,2000,2017,KANSAS CITY,Wyandotte County,KS
+RANDY LEACH,47,male,white,721790,endangeredMissing,1970,1988,LINWOOD,Leavenworth,KS
+VERONICA MAXVILLE,16,female,biracial,1242406,endangeredRunaway,2000,2015,OVERLAND PARK,Johnson,KS
+ANDREW MEMMELAAR,59,male,white,1180463,endangeredMissing,1958,1975,LEHIGH,Marion,KS
+SOPHIA MOBLEY,4,female,white,1254494,familyAbduct,2013,2014,WICHITA,Sedgwick,KS
+VINCENT MOORE,2,male,black,1254967,endangeredMissing,2015,2015,WICHITA,Sedgwick,KS
+RACHEL PRATT,38,female,white,799278,endangeredMissing,1979,1995,GARDEN CITY,,KS
+JAQUILLA SCALES,20,female,black,919898,endangeredMissing,1997,2001,WICHITA,Sedgwick,KS
+SANDREA SIPPLE,16,female,black,1303935,endangeredRunaway,2001,2017,KANSAS CITY,Wyandotte County,KS
+MONIQUE SMITH,17,female,black,1168750,endangeredMissing,2000,2000,TOPEKA,Shawnee,KS
+MONIQUE SMITH,17,female,black,1168750,endangeredMissing,2000,2000,TOPEKA,Shawnee,KS
+RILYA WILSON,20,female,black,934322,endangeredMissing,1996,2001,MIAMI,Miami-Dade,FL
+APRIL WISS,34,female,white,878319,endangeredMissing,1983,2000,WICHITA,Sedrick,KS

@@ -1,0 +1,64 @@
+name,age,gender,ethnicity,NCMEC_case#,case_type,birth_year,missing_year,missing_city,missing_county,missing_state
+ERIN ABERNATHY,15,female,white,1292103,endangeredRunaway,2001,2017,CRAMERTON,Gaston,NC
+AMELIA ANTONIO,24,female,hispanic,1124579,endangeredRunaway,1992,2009,GODWIN,Cumberland,NC
+LINDSEY BAKER,46,male,white,967243,endangeredMissing,1971,1989,HIDDENITE,Alexander,NC
+PAUL BAKER,34,male,white,600583,endangeredMissing,1983,1987,BEAUFORT,,SC
+DONNA BARNHILL,50,female,white,600206,endangeredMissing,1967,1981,LEXINGTON,Davidson,NC
+MICHAEL BORGES,30,male,biracial,1014194,endangeredMissing,1987,2005,FAYETTEVILLE,Cumberland,NC
+JONATHAN BRACKETT,26,male,white,1132821,missing,1990,2009,CAROLINA BEACH,New Hanover,NC
+ALLEN BRISCOE,47,male,black,600428,nonFamilyAbduct,1969,1985,PHILADELPHIA,,PA
+SEANHEEM DAVIS,15,male,black,1295654,endangeredRunaway,2002,2017,JACKSONVILLE,Onslow County,NC
+MARIAH CARTER,16,female,biracial,924939,familyAbduct,2001,2001,BISCOE,Randolph,NC
+CHRISTOPHER CAULDER,16,male,white,1304689,endangeredRunaway,2001,2017,FOREST CITY,Rutherford,NC
+SEANHEEM DAVIS,15,male,black,1295654,endangeredRunaway,2002,2017,JACKSONVILLE,Onslow County,NC
+ASHA DEGREE,27,female,black,879788,endangeredMissing,1990,2000,SHELBY,Cleveland,NC
+JANE DOE1978,-1,female,white,1184297,unidentified,,,,,
+JANE DOE1983,-1,female,black,1182692,unidentified,,,,,
+JANE DOE1990,-1,female,white,1106716,unidentified,,,,,
+JOHN DOE1993,-1,male,white,1184298,unidentified,,,,,
+JOHN DOE1998,-1,male,white,1104001,unidentified,,,,,
+JANE DOE1999,-1,female,white,1107394,unidentified,,,,,
+DESTINY ENGLE,15,female,biracial,1308978,endangeredRunaway,2001,2017,STATESVILLE,Iredell County,NC
+RUBELSY ESCALANTE PEREZ,19,male,hispanic,1263158,endangeredRunaway,1998,2016,SAINT PAULS,Robeson,NC
+KELLY GASKINS,29,female,white,1244697,missing,1988,2007,CHOCOWINITY,Beaufort,NC
+AMY GIBSON,42,female,white,785791,endangeredMissing,1975,1990,GREENSBORO,,NC
+DIANA GONZALEZ,26,female,hispanic,1031024,nonFamilyAbduct,1991,2005,RAEFORD,Hoke,NC
+SARA GRAHAM,21,female,amInd,1243889,missing,1996,2015,FAIRMONT,Robeson,NC
+BRITNEY HAZELWOOD,17,female,white,1265531,endangeredRunaway,2000,2016,LEXINGTON,Davidson County,NC
+KEILA HERMENEGILDO PASTRANA,17,female,hispanic,1261383,endangeredRunaway,2000,2016,LEXINGTON,Davidson,NC
+LAURA HOOK,43,female,white,1231866,,1973,1992,ROCKINGHAM,Richmond,NC
+HEATHER JACKSON,17,female,white,1308747,endangeredRunaway,2000,2017,CHARLOTTE,Mecklenburg,NC
+KODI JENKINS,17,female,white,1301552,endangeredRunaway,2000,2017,CHARLOTTE,Mecklenburg,NC
+KELSEY LEMLEY,17,female,white,1296867,endangeredRunaway,1999,2017,GASTONIA,Gaston,NC
+CHRISTINA LEWIS,34,female,white,1042933,endangeredMissing,1983,2000,NEW BERN,Craven,NC
+LIDIA LOPEZ,19,female,hispanic,1239573,endangeredRunaway,1998,2014,MARION,McDowell,NC
+ILA MAYNARD,60,female,black,1231505,endangeredMissing,1957,1974,GREENSBORO,Guilford,NC
+SHELBY MCCRAW,18,female,white,1274960,endangeredRunaway,1999,2016,ASHEVILLE,Buncombe,NC
+YESLIN MEJIA,18,female,hispanic,1269900,endangeredRunaway,1999,2016,SPINDALE,Rutherford,NC
+DIANE MOON,62,female,white,1170870,nonFamilyAbduct,1955,1962,CAMP LEJEUNE,Onslow,NC
+TRISTEN MYERS,21,male,white,897039,nonFamilyAbduct,1996,2000,ROSEBORO,Sampson,NC
+SAMANTHA PAGE,17,female,white,1306351,endangeredRunaway,2000,2017,MONROE,Union,NC
+JENNIFER PATTERSON,33,female,white,755927,nonFamilyAbduct,1984,1991,SPRING LAKE,Cumberland,NC
+ANGELA PILNY,11,female,biracial,1253285,familyAbduct,2006,2015,WAKE FOREST,Wake,NC
+TIMEKA PRIDGEN,33,female,black,911721,endangeredMissing,1984,2001,LA GRANGE,Lenoir,NC
+OLVIN RAMIREZ CANTILLANO,18,male,hispanic,1282722,endangeredRunaway,1999,2016,BESSEMER CITY,Gaston,NC
+JALESA REYNOLDS,26,female,black,1166673,missing,1991,2010,SCOTLAND NECK,Halifax,NC
+JAMES ROBERTS,21,male,white,1267493,missing,1996,2016,BOONE,Watauga,NC
+KARINA RODRIGUEZ LOPEZ,18,female,hispanic,1259439,endangeredRunaway,1999,2015,MORGANTON,Burke,NC
+JAMEKIA SABB,20,female,black,1226906,endangeredRunaway,1997,2013,CHARLOTTE,Mecklenburg,NC
+JOSE SALUCIO-RAMIREZ,17,male,hispanic,1251733,endangeredRunaway,1999,2015,BETHEL,Pitt,NC
+DOMINGO SANCHEZ GONZALEZ,20,male,hispanic,1104622,familyAbduct,1996,2008,LOUISBURG,Franklin,NC
+DOMINGO SANCHEZ GONZALEZ,20,male,hispanic,1104622,familyAbduct,1996,2008,LOUISBURG,Franklin,NC
+URIJAH SEAGRAVES,8,male,biracial,1231950,familyAbduct,2009,2012,BURGAW,Pender,NC
+DOUGLAS SIMMONS,47,male,white,1141638,missing,1970,1990,RALEIGH,Wake,NC
+ANDRE THOMPSON,4,male,black,1236643,familyAbduct,2013,2014,DURHAM,,NC
+KIMBERLY THROWER,29,female,amInd,990799,endangeredRunaway,1987,2004,LAURINBURG,Scotland,NC
+SHERRI TRUESDALE,61,female,black,834404,endangeredMissing,1956,1970,WINSTON-SALEM,Forsyth,NC
+JESSICA WALL,13,female,white,1304041,endangeredRunaway,2003,2017,THURMOND,Wilkes,NC
+ALAN WESTERFIELD,60,male,white,604844,endangeredMissing,1957,1964,FAYETTEVILLE,,NC
+ALAN WESTERFIELD,60,male,white,604844,endangeredMissing,1957,1964,FAYETTEVILLE,,NC
+TYARRA WILLIAMS,21,female,black,1263496,missing,1996,2016,GREENSBORO,,NC
+VIRGINIA WOOD,29,female,white,1223037,missing,1987,2007,BOONE,,NC
+DOMINIC WRIGHT,16,male,black,1308587,endangeredRunaway,2001,2017,LOUISBURG,Franklin,NC
+DIANE MOON,62,female,white,1170870,nonFamilyAbduct,1955,1962,CAMP LEJEUNE,Onslow,NC
+LISSI ZUNIGA,16,female,hispanic,1304819,endangeredRunaway,2001,2017,CHARLOTTE,Mecklenburg,NC

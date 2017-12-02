@@ -1,0 +1,100 @@
+name,age,gender,ethnicity,NCMEC_case#,case_type,birth_year,missing_year,missing_city,missing_county,missing_state
+IMANOL AGUIRRE,15,male,hispanic,1298012,endangeredRunaway,2001,2017,LAWRENCEVILLE,Gwinnett,GA
+REYNA ALVARADO-CARRERA,25,female,hispanic,1014174,nonFamilyAbduct,1992,2005,NORCROSS,Gwinnett,GA
+CLAYBORN AVERY,18,male,black,1265705,endangeredRunaway,1999,2016,COLUMBUS,Muscogee,GA
+PAUL BAKER,34,male,white,600583,endangeredMissing,1983,1987,BEAUFORT,,SC
+MORGAN BAUER,21,female,white,1266722,missing,1996,2016,ATLANTA,,GA
+BRITTANY BEDEAU,16,female,biracial,1306753,endangeredRunaway,2000,2017,HAMPTON,Henry,GA
+DANIELLE BELL,30,female,white,925033,endangeredMissing,1987,2001,PENSACOLA,Escambia,FL
+MICHAEL BENNETT,42,male,black,742642,endangeredMissing,1975,1989,BRUNSWICK,Glynn,GA
+MICHAEL BENNETT,42,male,black,742642,endangeredMissing,1975,1989,BRUNSWICK,Glynn,GA
+JODY BRANT,39,female,white,792117,endangeredMissing,1978,1994,LAWRENCEVILLE,,GA
+ALLEN BRISCOE,47,male,black,600428,nonFamilyAbduct,1969,1985,PHILADELPHIA,,PA
+ANDREW BROWN,31,male,black,732607,nonFamilyAbduct,1986,1987,COLQUITT,Miller,GA
+ANTONIO BRYANT,16,male,black,1284971,endangeredRunaway,2000,2016,LOGANVILLE,Walton,GA
+MIRANDA BUDIMAN,23,female,biracial,857863,familyAbduct,1994,1998,DALLAS,Paulding,GA
+ADREIANA BURROUGHS,17,female,biracial,1262991,endangeredRunaway,2000,2015,CONYERS,Rockdale,GA
+ANTONIO CAMPBELL,12,male,biracial,1086906,familyAbduct,2004,2007,GAINESVILLE,Hall,GA
+JOSE CANO PACHECO,16,male,hispanic,1289201,endangeredRunaway,2000,2016,ATLANTA,Fulton,GA
+AUBREY CARROLL,16,male,white,1271676,endangeredRunaway,2001,2016,GRIFFIN,Spalding,GA
+LATANIA CARWELL,16,female,black,1295886,endangeredMissing,2001,2017,AUGUSTA,Richmond,GA
+KYLE CLINKSCALES,63,male,white,665469,endangeredMissing,1953,1976,LAGRANGE,Troup,GA
+NATASHAY COLBERT,17,female,black,1305592,endangeredRunaway,1999,2017,COLUMBUS,Muscogee,GA
+BRANDI COLE,28,female,white,1075720,endangeredMissing,1989,2007,TIFTON,Tift,GA
+JAMAREE COLEMAN,24,male,black,781975,nonFamilyAbduct,1993,1993,BRUNSWICK,Glynn,GA
+JULIANNA CRUMP,17,female,white,1282167,endangeredRunaway,2000,2016,LAWRENCEVILLE,Gwinnett,GA
+JOSE CRUZ,24,male,hispanic,1138907,endangeredRunaway,1993,2009,DECATUR,DeKalb,GA
+JOSHUA DAVIS,17,male,black,1306276,endangeredRunaway,2000,2017,ATHENS,Clarke,GA
+TERESA DEAN,30,female,white,872344,endangeredMissing,1987,1999,MACON,Twiggs,GA
+DESMOND DIX,38,male,black,1261021,nonFamilyAbduct,1979,1996,ATLANTA,Fulton,GA
+STARKIA DIXON,17,female,black,1283858,endangeredRunaway,2000,2016,ELLENWOOD,DeKalb,GA
+JOHN DOE1978,-1,male,black,1184266,unidentified,,,,,
+JOHN DOE1985,-1,male,black,1184604,unidentified,,,,,
+JANE DOE1988,-1,female,asian,1113140,unidentified,,,,,
+JANE DOE1988,-1,female,black,1123251,unidentified,,,,,
+JANE DOE1992,-1,female,white,1106801,unidentified,,,,,
+JANE DOE1995,-1,female,black,1107384,unidentified,,,,,
+JOHN DOE1999,-1,male,black,1105216,unidentified,,,,,
+JANE DOE2001,-1,female,black,1184264,unidentified,,,,,
+JANE DOE2001,-1,female,black,1184603,unidentified,,,,,
+JOHN DOE2009,-1,male,hispanic,1122478,unidentified,,,,,
+JOHN DOE2010,-1,male,black,1171213,unidentified,,,,,
+JANE DOE2017,-1,female,black,1308917,unidentified,,,,,
+GABRIELLA ELPRANA,17,female,asian,979882,familyAbduct,1999,2003,ATLANTA,Fulton,GA
+JUSTIN EMANUEL,16,male,black,1299554,endangeredRunaway,2001,2017,MACON,Bibb,GA
+MARIXA FUENTES JUAREZ,16,female,hispanic,1304970,endangeredRunaway,2001,2017,GROVETOWN,Columbia,GA
+JUSTIN GAINES,28,male,white,1084559,missing,1989,2007,DULUTH,Gwinnett,GA
+AMY GARCIA,15,female,hispanic,1299354,endangeredRunaway,2001,2017,ELLENWOOD,DeKalb,GA
+MARIA GARCIA PEREZ,15,female,hispanic,1305395,endangeredRunaway,2002,2017,SMYRNA,Cobb,GA
+GABRIELA GONZALES-MATUTE,17,female,hispanic,1303640,endangeredRunaway,2000,2017,DOUGLASVILLE,Douglas,GA
+KAYLA GRAY,17,female,black,1264624,endangeredRunaway,2000,2016,ATLANTA,Fulton,GA
+KAMYRON GREEN,16,male,black,1303865,endangeredRunaway,2000,2017,JONESBORO,Clayton,GA
+RAYMOND GREEN,38,male,black,1079986,nonFamilyAbduct,1978,1978,ATLANTA,Fulton,GA
+HAILEY GRIMSLEY,16,female,biracial,1290434,endangeredRunaway,2000,2017,ATLANTA,Fulton,GA
+CATRINA JACKSON,44,female,white,601774,endangeredMissing,1973,1986,SYLVANIA,Screven,GA
+SABAH KARRIEM-CONNER,34,female,black,897921,endangeredMissing,1983,2000,ATLANTA,Fulton,GA
+JEANNA KEITH,17,female,biracial,1302796,endangeredRunaway,1999,2017,BREMEN,Haralson,GA
+AYESHA KHAN,17,female,asian,1129375,familyAbduct,2000,2009,EVANS,Columbia,GA
+AYESHA KHAN,17,female,asian,1129375,familyAbduct,2000,2009,EVANS,Columbia,GA
+KAITLYN LAWSON,16,female,white,1294583,endangeredRunaway,2000,2017,MACON,Bibb,GA
+YISSEL MATEO MURILLO,16,female,hispanic,1252434,endangeredRunaway,2001,2015,BUFORD,Gwinnett,GA
+TERESA MCDONALD,54,female,white,1207150,endangeredMissing,1963,1980,TUNNEL HILL,Whitfield,GA
+DANNETTE MILLBROOKS,43,female,black,736454,endangeredMissing,1974,1990,AUGUSTA,,GA
+DANNETTE MILLBROOKS,43,female,black,736454,endangeredMissing,1974,1990,AUGUSTA,,GA
+KIREETI MOSAM,4,male,asian,1251534,familyAbduct,2013,2015,GRIFFIN,Spalding,GA
+ASHLEY MUNGUIA,14,female,hispanic,1304519,endangeredRunaway,2003,2017,CUMMING,Forsyth,GA
+ALEJANDRA NAVA,27,female,hispanic,977985,endangeredRunaway,1989,2003,MORROW,Clayton,GA
+SHY'KEMMIA PATE,27,female,black,852942,endangeredMissing,1989,1998,UNADILLA,Dooly,GA
+JUAN PAVON,17,male,hispanic,1305501,endangeredRunaway,2000,2017,CLARKSTON,DeKalb,GA
+SINDY PEREZ-AGUILAR,12,female,hispanic,1115162,familyAbduct,2005,2009,GREENSBORO,Greene,GA
+JAIRO PEREZ-VALENZUELA,17,,hispanic,1296275,endangeredRunaway,2000,2017,ALPHARETTA,Fulton,GA
+JAIYLA PINEDA,15,female,biracial,1305761,endangeredRunaway,2002,2017,HAMILTON,Harris,GA
+KARLA PORTILLO-AMAYA,21,female,hispanic,1167699,endangeredRunaway,1995,2010,CHAMBLEE,DeKalb,GA
+NIQUIA POSTELL,19,female,black,1268185,endangeredRunaway,1998,2016,CANTON,Cherokee,GA
+I GUSTI AGUNG PUTRA,12,male,biracial,1138138,familyAbduct,2005,2010,SAVANNAH,McIntosh,GA
+KENYAH RANDALL-EDWARDS,15,female,black,1308909,endangeredRunaway,2002,2017,VILLA RICA,Carroll,GA
+KENYAH RANDALL-EDWARDS,15,female,black,1308909,endangeredRunaway,2002,2017,VILLA RICA,Carroll,GA
+IMANI RICHARDSON,17,female,black,1306541,endangeredRunaway,1999,2017,LOGANVILLE,Walton,GA
+JARVIS RICHARDSON,17,male,black,1306167,endangeredRunaway,2000,2017,WINSTON,Douglas,GA
+MARCUS ROY,5,male,black,1304172,familyAbduct,2012,2017,CONYERS,Rockdale,GA
+KAYLA SANDERS,16,female,black,1308778,endangeredRunaway,2001,2017,MORROW,Clayton,GA
+MAYRA SANDOVAL,19,female,hispanic,1177158,nonFamilyAbduct,1998,2011,SOCIAL CIRCLE,Walton,GA
+IYANAH SCOTT-FLOWERS,15,female,black,1304489,endangeredRunaway,2002,2017,COLUMBUS,Muscogee,GA
+OLIVIA SLAYTON-MINOTA,16,female,biracial,1286328,endangeredRunaway,2001,2016,LAWRENCEVILLE,Gwinnett,GA
+ALISHA SMILEY,35,female,black,601906,endangeredMissing,1981,1985,ATLANTA,,GA
+LATERIA SMITH,17,female,black,1308008,endangeredRunaway,1999,2017,FAIRBURN,Fulton County,GA
+MEGAN SOUTHERS,17,female,white,1307182,endangeredRunaway,1999,2017,CUMMING,Hall,GA
+JEREMY SUMMERALL,16,male,white,1284089,endangeredRunaway,2001,2016,HEPHZIBAH,Richmond,GA
+TAVISH SUTTON,24,male,black,778561,nonFamilyAbduct,1993,1993,ATLANTA,Fulton,GA
+BRIANNA TREHARN,16,female,white,1285391,endangeredRunaway,2000,2016,LOGANVILLE,Walton,GA
+SAIDI US SANCHEZ,18,female,hispanic,1264653,endangeredRunaway,1998,2016,MARIETTA,Cobb,GA
+ELYSSA VASQUEZ,27,female,biracial,956459,endangeredRunaway,1990,2003,DORAVILLE,Dekalb,GA
+JOSE LUIS VASQUEZ DIAZ,19,male,hispanic,1258562,endangeredRunaway,1998,2015,ATLANTA,DeKalb,GA
+ISAIAH VAUGHN,15,male,white,1304524,endangeredRunaway,2002,2017,MACON,Bibb,GA
+MARISA VELASCO,13,female,hispanic,1039628,familyAbduct,2004,2005,NORCROSS,Gwinnett,GA
+BRANDON WADE,18,male,white,953466,endangeredMissing,1999,2002,VALDOSTA,Lowndes,GA
+THELONIUS WELLS,17,male,black,1279974,endangeredRunaway,1999,2016,ATLANTA,Fulton,GA
+XAVIER WELLS,16,male,black,1298724,endangeredRunaway,2001,2017,LADONIA,DeKalb,GA
+SOMMER YEARTA,15,female,white,1303909,endangeredRunaway,2002,2017,CARROLLTON,Carroll,GA
+KEONDANYA YOUMANS,17,female,black,1303415,endangeredRunaway,1999,2017,MARIETTA,Cobb,GA
+KEONDANYA YOUMANS,17,female,black,1303415,endangeredRunaway,1999,2017,MARIETTA,Cobb,GA

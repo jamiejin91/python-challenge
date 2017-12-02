@@ -1,0 +1,40 @@
+name,age,gender,ethnicity,NCMEC_case#,case_type,birth_year,missing_year,missing_city,missing_county,missing_state
+WILLIAM ADAMS,17,male,white,1294536,endangeredRunaway,2000,2017,HENDERSON,Henderson County,KY
+AMELIA BAKER,17,female,white,1285519,endangeredRunaway,2000,2016,COVINGTON,Kenton County,KY
+ELIJAH BECKER,4,male,biracial,1282168,familyAbduct,2013,2014,LOUISVILLE,Jefferson,KY
+JAMES BESS,47,male,black,1229638,endangeredRunaway,1969,1984,ASHLAND,Boyd,KY
+ALLEN BRISCOE,47,male,black,600428,nonFamilyAbduct,1969,1985,PHILADELPHIA,,PA
+SIERRA BUNCH,18,female,white,1277129,endangeredRunaway,1999,2016,LOUISVILLE,,KY
+GABRIELLA CALLES,16,female,hispanic,1298917,endangeredRunaway,2000,2017,OWENSBORO,Daviess,KY
+SUMMER CAMPBELL,18,female,white,1290762,endangeredRunaway,1999,2016,BEREA,Madison,KY
+ALEXANDRA CASTLE,16,female,white,1285558,endangeredRunaway,2001,2016,CORBIN,Whitley,KY
+IGNACIO CORNETT,18,male,white,1290930,endangeredRunaway,1999,2017,LONDON,Laurel,KY
+JANE DOE1984,-1,female,white,1106797,unidentified,,,,,
+UNKNOWN DOE1989,-1,unknown,unknown,1184273,unidentified,,,,,
+ERICA FRAYSURE,37,female,white,839572,endangeredMissing,1980,1997,BROOKSVILLE,Bracken,KY
+ANN GOTLIB,46,female,white,601552,nonFamilyAbduct,1971,1983,LOUISVILLE,Jefferson,KY
+SHANNON GREEN,48,female,white,601579,endangeredMissing,1969,1986,OWENSBORO,Daviess,KY
+NAKESHIA HATKE,17,female,biracial,1306952,endangeredRunaway,1999,2017,SOMERSET,Pulaski,KY
+AMY HAUETER,27,female,white,1007015,endangeredRunaway,1990,2005,FERN CREEK,Jefferson,KY
+RAYLENE HELSLEY,46,female,white,601681,nonFamilyAbduct,1970,1983,RUSTON,,LA
+KELLY HOLLAN,41,male,white,601735,nonFamilyAbduct,1975,1982,MOUSIE,,KY
+NICHOLAS HUTTON,18,male,white,1297217,endangeredRunaway,1999,2016,LOUISVILLE,Jefferson,KY
+ALICE JEFFERSON,63,female,black,1235737,missing,1954,1975,FORT CAMPBELL,Christian,KY
+PAIGE JOHNSON,24,female,white,1157010,endangeredMissing,1993,2010,COVINGTON,Boone,KY
+TORIANA MADRY,15,female,black,1306697,endangeredRunaway,2001,2017,LOUISVILLE,Jefferson,KY
+DURANE MASSEY,17,male,biracial,1306191,endangeredRunaway,2000,2017,SHIVELY,Jefferson,KY
+CLAYTON MCCARTER,19,male,white,1227839,endangeredRunaway,1998,2014,BOWLING GREEN,Warren,KY
+SAVANNA MEADOWS,17,female,white,1299428,endangeredRunaway,1999,2017,LOUISVILLE,Jefferson County,KY
+ELVIRA VAZQUEZ MENDEZ,19,female,hispanic,1256464,endangeredRunaway,1998,2015,OWENSBORO,Daviess,KY
+JOSE ORTEGA RODRIGUEZ,18,male,hispanic,1284297,endangeredRunaway,1999,2016,ELIZABETHTOWN,Hardin,KY
+CITLALLI PEREZ-CORONEL,18,female,hispanic,1215551,endangeredRunaway,1999,2012,LOUISVILLE,Jefferson,KY
+LYDIA PERKINS,34,female,white,841272,endangeredMissing,1982,1997,LEXINGTON,Fayette,KY
+CARLIE RITTER,16,female,white,1303752,endangeredRunaway,2001,2017,HOPE,Montgomery,KY
+CHIPLEY SANDERS,46,male,white,781869,endangeredRunaway,1971,1984,ASHLAND,,KY
+SAMANTHA SANDS,18,female,white,1284866,endangeredRunaway,1999,2016,ROCKHOLDS,Whitley,KY
+JANELLE SANGER-GARZA,28,female,white,1241732,missing,1989,2009,MORGANFIELD,Union,KY
+RODNEY SCOTT,17,male,white,1227565,endangeredRunaway,2000,2014,BOWLING GREEN,Warren,KY
+RANDY SELLERS,55,male,white,601897,nonFamilyAbduct,1962,1980,MORNING VIEW,Kenton,KY
+CYNTHIA SMITH,17,female,white,1303843,endangeredRunaway,2000,2017,OWENSBORO,Daviess,KY
+HUNTER TERRILL,17,male,white,1290761,endangeredRunaway,2000,2016,MOUNT STERLING,Montgomery,KY
+ELVIRA VAZQUEZ MENDEZ,19,female,hispanic,1256464,endangeredRunaway,1998,2015,OWENSBORO,Daviess,KY

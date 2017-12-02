@@ -1,0 +1,22 @@
+name,age,gender,ethnicity,NCMEC_case#,case_type,birth_year,missing_year,missing_city,missing_county,missing_state
+MATT AMON,66,male,white,1234232,missing,1951,1971,POCATELLO,Bannock,ID
+RICHARD BARNETT,37,male,white,600215,endangeredMissing,1979,1982,GRANGEVILLE,,ID
+SAMUEL BOEHLKE,19,male,white,1055859,endangeredMissing,1998,2006,CRATER LAKE,Klamath,OR
+APRIL BOWDISH,7,female,biracial,1198982,familyAbduct,2010,2012,NAMPA,Canyon,ID
+ZACKERY BREWER,24,male,white,1157533,endangeredRunaway,1993,2009,NAMPA,Canyon,ID
+STEPHANIE CRANE,33,female,white,784139,nonFamilyAbduct,1984,1993,CHALLIS,Custer,ID
+JOHN DOE1982,-1,male,white,1184579,unidentified,,,,,
+KRYSTYN DUNLAP,40,female,white,1169994,endangeredRunaway,1977,1994,BOISE,Ada,ID
+CURTIS FAIR,39,male,white,601233,nonFamilyAbduct,1978,1980,NAMPA,Canyon,ID
+RUBEN FELIX,22,male,hispanic,830148,endangeredMissing,1994,1997,SHOSHONE,Lincoln,ID
+KATELYN HOLM,15,female,white,1307663,endangeredRunaway,2002,2017,POCATELLO,Bannock,ID
+DEORR KUNZ,4,male,white,1251277,endangeredMissing,2012,2015,LEADORE,Lemhi,ID
+FELICITY MARTIN,16,female,white,1306132,endangeredRunaway,2001,2017,IDAHO FALLS,Bonneville,ID
+JOLEEN MASTRO,17,female,white,1303580,endangeredRunaway,2000,2017,BOISE,Ada,ID
+XAVIER MENDOZA,16,male,hispanic,1305560,endangeredRunaway,2001,2017,TWIN FALLS,Twin Falls,ID
+KACEY PERRY,37,female,white,745166,endangeredMissing,1980,1990,PORTLAND,,OR
+BRAYDEN PITMAN,17,male,white,1263368,endangeredRunaway,2000,2016,NAMPA,Canyon,ID
+TROY RANGER,19,male,amInd,1266813,endangeredRunaway,1998,2016,NAMPA,Canyon,ID
+TERA SMITH,35,female,white,852270,endangeredMissing,1982,1998,REDDING,Shasta,CA
+AMBER THOMPSON,17,female,biracial,1287663,endangeredRunaway,2000,2016,CALDWELL,Canyon,ID
+KYLE TOLLEY,33,male,white,1165459,endangeredMissing,1984,2001,LOWMAN,Boise,ID

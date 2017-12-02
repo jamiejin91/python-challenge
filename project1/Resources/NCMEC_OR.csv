@@ -1,0 +1,60 @@
+name,age,gender,ethnicity,NCMEC_case#,case_type,birth_year,missing_year,missing_city,missing_county,missing_state
+SAMUEL BOEHLKE,19,male,white,1055859,endangeredMissing,1998,2006,CRATER LAKE,Klamath,OR
+TARA BONCZEK,16,female,white,1301314,endangeredRunaway,2001,2017,PORTLAND,Multnomah,OR
+JEREMY BRIGHT,45,male,white,600424,endangeredMissing,1972,1986,MYRTLE POINT,Coos,OR
+NIKI BRITTEN,64,female,white,1165009,endangeredRunaway,1953,1969,ALBANY,Linn,OR
+LARONDA BRONSON,53,female,black,997233,missing,1964,1982,PORTLAND,,OR
+MIKAYLA CHRONISTER,16,female,white,1286879,endangeredRunaway,2000,2016,SALEM,Marion,OR
+TONI CLARK,45,female,black,737294,endangeredMissing,1972,1990,OAKLAND,Alameda,CA
+ANNALYCIA CRUZ,23,female,hispanic,811930,endangeredMissing,1993,1994,CHILOQUIN,Klamath,OR
+KRISTA DE LA ROSA,46,female,biracial,1141058,missing,1970,1990,PORTLAND,Multnomah,OR
+JOHN DOE1963,-1,male,white,1104614,unidentified,,,,,
+JANE DOE1971,-1,female,white,1261134,unidentified,,,,,
+JESSICA DOWTY,16,female,white,1307065,endangeredRunaway,2000,2017,PORTLAND,Multnomah,OR
+ALMALEENA DUNN-O'BRIEN,16,female,white,1298626,endangeredRunaway,2001,2017,PORTLAND,Multnomah,OR
+DERRICK ENGEBRETSON,27,male,white,857924,endangeredMissing,1990,1998,BONANZA,,OR
+ANGEL ESTRADA-NAVA,2,male,hispanic,1281174,familyAbduct,2015,2016,PORTLAND,Multnomah,OR
+CHRISTIE FARNI,45,female,white,601237,nonFamilyAbduct,1972,1978,MEDFORD,Jackson,OR
+DUANE FOCHTMAN,46,male,white,601308,endangeredMissing,1971,1986,LINCOLN CITY,Lincoln,OR
+MARIA GARCIA WATERMAN,16,female,hispanic,1303044,endangeredRunaway,2001,2016,SALEM,Marion,OR
+THOMAS GIBSON,29,male,white,752142,endangeredMissing,1988,1991,GLENDALE,Douglas,OR
+RODNEY GRISSOM,55,male,white,1190160,endangeredRunaway,1962,1977,CORNELIUS,Washington,OR
+KANE GROESZ,17,male,white,1303880,endangeredRunaway,2000,2017,TERREBONNE,Jefferson,OR
+WILLIAM GUNN,48,male,white,601618,endangeredMissing,1969,1984,KLAMATH FALLS,,OR
+JOAN HALL,51,female,white,1044727,endangeredMissing,1966,1983,WARRENTON,Clatsop,OR
+ROBYN HATCHER,17,female,white,1244353,endangeredRunaway,2000,2014,EUGENE,Lane,OR
+SHAINA KIRKPATRICK,18,female,white,911559,endangeredMissing,1999,2001,PORTLAND,Multnomah,OR
+ANGEL ESTRADA-NAVA,2,male,hispanic,1281174,familyAbduct,2015,2016,PORTLAND,Multnomah,OR
+ANGEL ESTRADA-NAVA,2,male,hispanic,1281174,familyAbduct,2015,2016,PORTLAND,Multnomah,OR
+ANGEL ESTRADA-NAVA,2,male,hispanic,1281174,familyAbduct,2015,2016,PORTLAND,Multnomah,OR
+KYRON HORMAN,15,male,white,1149070,endangeredMissing,2002,2010,PORTLAND,Multnomah,OR
+ALEAH HURSE,17,female,white,1304925,endangeredRunaway,2000,2017,LA GRANDE,Union,OR
+SHAYDIN JONES-HOISINGTON,16,male,amInd,1300632,endangeredRunaway,2001,2017,PENDLETON,,OR
+SHYON KALEIOHI SILVA,16,male,pacific,1285922,endangeredRunaway,2001,2016,WOODBURN,Marion,OR
+CINDY KING,56,female,white,602221,endangeredMissing,1961,1977,GRANTS PASS,Josephine,OR
+SHAINA KIRKPATRICK,18,female,white,911559,endangeredMissing,1999,2001,PORTLAND,Multnomah,OR
+ALEX LEE,12,male,asian,1135121,familyAbduct,2005,2009,CORVALLIS,Benton,OR
+ALEX LEE,12,male,asian,1135121,familyAbduct,2005,2009,CORVALLIS,Benton,OR
+MICHAEL LEE,24,male,white,1142344,endangeredRunaway,1993,2009,EUGENE,Lane,OR
+JULIA LOPEZ GARCIA,18,female,hispanic,1281393,endangeredRunaway,1998,2016,GRESHAM,Multnomah,OR
+AYLA MCARTHUR,15,female,white,1306599,endangeredRunaway,2001,2017,COOS BAY,Coos,OR
+JESUS MERINO-MENDOZA,13,male,hispanic,1076073,familyAbduct,2004,2007,PORTLAND,Clackamas,OR
+JAMES MONTI,40,male,white,802941,endangeredRunaway,1977,1995,KLAMATH FALLS,,OR
+JACE MUNKERS,15,male,white,1308620,endangeredRunaway,2002,2017,CLACKAMAS,Clackamas,OR
+EDWARD NYE,54,male,white,756709,endangeredMissing,1963,1978,PROSPECT,Jackson,OR
+BRIAN PAGE,59,male,white,866734,endangeredMissing,1958,1975,SALEM,Marion,OR
+BRANDON PERDUE,27,male,white,1098922,missing,1990,2008,MEDFORD,Jackson,OR
+KACEY PERRY,37,female,white,745166,endangeredMissing,1980,1990,PORTLAND,,OR
+RACHANDA PICKLE,40,female,white,745119,endangeredMissing,1977,1990,SISTERS,Deschutes,OR
+SHEYLENE PIERCE,16,female,white,1307101,endangeredRunaway,2000,2017,MILTON FREEWATER,Umatilla,OR
+JAY PRINGLE,58,male,white,1133094,endangeredMissing,1959,1977,MEDFORD,Jackson,OR
+FAITH RHOADS,17,female,white,1306238,endangeredRunaway,2000,2017,EUGENE,Lane County,OR
+BELKIS RIVASGALVEZ,18,female,hispanic,1281463,endangeredRunaway,1998,2016,GRESHAM,Multnomah,OR
+NAKIRA SCOTT,16,female,amInd,1300635,endangeredRunaway,2001,2017,ADAMS,Umatilla,OR
+TERA SMITH,35,female,white,852270,endangeredMissing,1982,1998,REDDING,Shasta,CA
+KATTIE TALBERT,35,female,white,1259519,endangeredMissing,1981,1998,KLAMATH FALLS,Klamath,OR
+DEBORAH TOMLINSON,59,female,white,1173888,endangeredRunaway,1957,1973,CRESWELL,Lane,OR
+KAMI VOLLENDROFF,32,female,white,925193,endangeredMissing,1984,2001,NEWPORT,Lincoln,OR
+TEE'RA WASHINGTON,14,female,black,1299383,endangeredRunaway,2003,2017,PORTLAND,Multnomah,OR
+TAKODA WEED,19,male,biracial,1033807,familyAbduct,1997,2004,PORTLAND,Multnomah,OR
+TAKODA WEED,19,male,biracial,1033807,familyAbduct,1997,2004,PORTLAND,Multnomah,OR

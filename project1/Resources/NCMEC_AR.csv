@@ -1,0 +1,40 @@
+name,age,gender,ethnicity,NCMEC_case#,case_type,birth_year,missing_year,missing_city,missing_county,missing_state
+ANTHONY ALLEN,55,male,white,1006737,endangeredMissing,1962,1978,FORT SMITH,Sebastian,AR
+APRIL ANDREWS,26,female,white,1059637,endangeredMissing,1991,2006,PEA RIDGE,Benton,AR
+NICHOLAS BARCLAY,36,male,white,802112,endangeredMissing,1980,1994,SAN ANTONIO,,TX
+HALLE BOBO,19,female,white,1057662,familyAbduct,1998,2005,ARKADELPHIA,Clark,AR
+ANASHA BRADLEY,18,female,black,1288277,endangeredRunaway,1999,2017,LITTLE ROCK,Pulaski,AR
+DESTINY BRYANT,17,female,white,1281951,endangeredRunaway,1999,2016,CONWAY,Faulkner,AR
+CASSIE COMPTON,18,female,white,1238032,endangeredRunaway,1998,2014,STUTTGART,Arkansas,AR
+CAITLIN COPELAND,16,female,white,1307640,endangeredRunaway,2000,2017,BEE BRANCH,Van Buren,AR
+MATTHEW CROCKER,34,male,white,1244530,nonFamilyAbduct,1983,1983,VAN BUREN,Crawford,AR
+THWANA DARROUGH,45,female,black,1153420,nonFamilyAbduct,1972,1989,EL DORADO,Union,AR
+JANE DOE1978,-1,female,white,1184442,unidentified,,,,,
+JOHN DOE2001,-1,male,black,1104263,unidentified,,,,,
+COLTON FLEENER,16,male,white,1307683,endangeredRunaway,2001,2017,WINSLOW,Washington,AR
+ADREYAN FLOWERS,16,female,black,1304393,endangeredRunaway,2001,2017,CARLISLE,Lonoke,AR
+JAYCE FOGLE,15,male,white,1306858,endangeredRunaway,2002,2017,BENTON,Saline,AR
+LAVORN FRYE,46,male,black,1241179,missing,1971,1991,BLYTHEVILLE,Mississippi,AR
+AMARIAH GOMEZ,16,female,biracial,1303676,endangeredRunaway,2001,2017,LITTLE ROCK,Pulaski,AR
+BRANDON GRAY,17,male,white,1284437,endangeredRunaway,2000,2016,LONOKE,Lonoke,AR
+CLEASHINDRA HALL,41,female,black,1232225,missing,1976,1994,PINE BLUFF,,AR
+CLEASHINDRA HALL,41,female,black,15,endangeredMissing,1976,1994,PINE BLUFF,Jefferson,AR
+RAYLENE HELSLEY,46,female,white,601681,nonFamilyAbduct,1970,1983,RUSTON,,LA
+TA'NIYA HOLLINS,13,female,black,1303733,endangeredRunaway,2004,2017,WEST MEMPHIS,Crittenden,AR
+KAVEONNA KERR,16,female,biracial,1305055,endangeredRunaway,2000,2016,LAVACA,Sebastian,AR
+ZEONNA KIPLINGER,17,female,white,1294553,endangeredRunaway,2000,2017,HOT SPRINGS NATIONAL PARK,Garland,AR
+GERSON YOVANI LAJUJ TEYUL,17,male,hispanic,1277363,endangeredRunaway,1999,2016,LITTLE ROCK,Pulaski,AR
+AARON LASLEY,17,male,black,1290718,endangeredRunaway,2000,2017,PINE BLUFF,Jefferson,AR
+DAJAH MERRITT,17,female,black,1289362,endangeredRunaway,1999,2017,CONWAY,Faulkner,AR
+SABRINA MORRIS,17,female,white,1302331,endangeredRunaway,2000,2017,JONESBORO,Craighead,AR
+MORGAN NICK,29,female,white,805103,nonFamilyAbduct,1988,1995,ALMA,Crawford,AR
+LUCAS PRASSAS,24,male,white,1247991,missing,1992,2013,WYNNE,Cross,AR
+ABDULLAH QANDIL,17,male,white,1297927,endangeredRunaway,2000,2017,FORT SMITH,Sebastian,AR
+THOMAS RETTEW,19,male,white,1183946,endangeredMissing,1998,2002,SALEM,Fulton,AR
+MAKAYLA SCOTT,15,female,white,1300210,endangeredRunaway,2002,2017,DE WITT,Arkansas,AR
+JEFFERY LYNN SMITH,47,female,black,665279,endangeredMissing,1969,1985,HOT SPRINGS,Garland,AR
+EBBY STEPPACH,20,female,white,1276512,missing,1997,2015,LITTLE ROCK,,AR
+TYSHUNDA TYE,17,female,black,1298292,endangeredRunaway,1999,2017,LITTLE ROCK,Pulaski,AR
+ANNA TYREE,18,female,white,1301232,endangeredRunaway,1999,2017,DEWITT,Arkansas County,AR
+DAKOTA WEIR,17,female,white,1302462,endangeredRunaway,1999,2017,VAN BUREN,Crawford,AR
+KIANA WILLIAMS,16,female,black,1305407,endangeredRunaway,2001,2017,LITTLE ROCK,Pulaski,AR

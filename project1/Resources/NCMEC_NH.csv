@@ -1,0 +1,14 @@
+name,age,gender,ethnicity,NCMEC_case#,case_type,birth_year,missing_year,missing_city,missing_county,missing_state
+TAMMY BELANGER,41,female,white,600264,endangeredMissing,1976,1984,EXETER,,NH
+JANE DOE1985,-1,female,white,1100629,unidentified,,,,,
+JANE DOE2000,-1,female,white,1100662,unidentified,,,,,
+JANE DOE2000,-1,female,white,1100673,unidentified,,,,,
+RACHAEL GARDEN,52,female,white,665523,nonFamilyAbduct,1964,1980,NEWTON,Cheshire,NH
+ELIZABETH LAMOTTE,50,female,white,1290148,endangeredMissing,1967,1984,MANCHESTER,,NH
+SHIRLEY MCBRIDE,48,female,white,724663,endangeredMissing,1969,1984,CONCORD,Merrimack,NH
+MELISSA MESSINA,17,female,white,1300440,endangeredRunaway,1999,2017,MANCHESTER,Hillsborough County,NH
+MACKENZIE MORGAN,17,female,white,1292877,endangeredRunaway,2000,2017,LACONIA,Belknap County,NH
+LAUREEN RAHN,51,female,white,601873,nonFamilyAbduct,1966,1980,MANCHESTER,,NH
+BETHANY SINCLAIR,31,female,white,907421,endangeredMissing,1985,2001,WEST CHESTERFIELD,Cheshire,NH
+CHARLES VOSSELER,34,male,white,601933,familyAbduct,1982,1986,ROCHESTER,,NH
+CHARLES VOSSELER,34,male,white,601933,familyAbduct,1982,1986,ROCHESTER,,NH

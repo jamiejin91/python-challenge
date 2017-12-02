@@ -1,0 +1,120 @@
+name,age,gender,ethnicity,NCMEC_case#,case_type,birth_year,missing_year,missing_city,missing_county,missing_state
+YASMIN ACREE,24,female,black,1088268,endangeredMissing,1992,2008,CHICAGO,Cook,IL
+AMARIAH ACRES-RYINES,15,female,black,1308320,endangeredRunaway,2002,2017,LANSING,Cook,IL
+JONATHAN ADAMS,16,male,black,1304851,endangeredRunaway,2000,2017,CENTRALIA,Marion,IL
+DOMINIC AGUERO,17,male,hispanic,1274611,endangeredRunaway,2000,2016,CANTRALL,Sangamon,IL
+JOSE AGUILAR,13,male,hispanic,1301873,endangeredRunaway,2003,2017,BOLINGBROOK,Will,IL
+DESTINY ANDERSON,17,female,black,1272001,endangeredRunaway,2000,2016,NAPERVILLE,DuPage,IL
+BRIAN ANDREWIN,39,male,black,819736,endangeredMissing,1978,1995,CHICAGO,,IL
+ANTHONY ANTIMO,16,male,hispanic,1287725,endangeredRunaway,2001,2017,CHICAGO,Cook,IL
+TRUDY APPLEBY,33,female,white,822441,nonFamilyAbduct,1984,1996,MOLINE,,IL
+LEONEL ARMENDARIZ,17,male,hispanic,1304411,endangeredRunaway,2000,2017,POCAHONTAS,Bond,IL
+SARAH AVON,42,female,white,600166,nonFamilyAbduct,1975,1981,JOLIET,Will,IL
+ROBERT BEE,14,male,white,1283156,endangeredRunaway,2003,2016,PEKIN,Tazewell,IL
+MAURICIO BONILLA,15,male,hispanic,1307188,endangeredRunaway,2002,2017,CHICAGO,Cook,IL
+EMILY BRACAMONTES,20,female,hispanic,1170027,endangeredRunaway,1996,2011,ROCKFORD,Winnebago,IL
+DIAMOND BRADLEY,19,female,black,915589,endangeredMissing,1997,2001,CHICAGO,Cook,IL
+DIAMOND BRADLEY,19,female,black,915589,endangeredMissing,1997,2001,CHICAGO,Cook,IL
+DEMETRICE BROWN,18,female,black,1295989,endangeredRunaway,1999,2017,CHICAGO,Cook,IL
+DIEGO CAMARENA,15,male,hispanic,1257058,endangeredRunaway,2002,2015,CHICAGO,Cook,IL
+DANIEL CANTRELL,25,male,black,1047484,endangeredMissing,1992,2006,PARK FOREST,Cook,IL
+BRIAN CARRICK,32,male,white,M02F0887,endangeredMissing,1985,2002,JOHNSBURG,MCHENRY,IL
+LEROY CLARK,14,male,black,1305872,endangeredRunaway,2002,2017,CHICAGO,Cook,IL
+ARIEL CLAY,14,female,black,1305339,endangeredRunaway,2003,2017,DOLTON,Cook,IL
+JOSE COBO,18,male,hispanic,1266688,endangeredRunaway,1999,2016,COUNTRY SIDE,Cook,IL
+AARON CRUMPTON,12,male,biracial,1301015,endangeredRunaway,2005,2017,CHICAGO,Cook,IL
+LEE CUTLER,27,male,white,1086782,missing,1989,2007,BUFFALO GROVE,Lake,IL
+SHANICE DAMPIER,16,female,black,1305779,endangeredRunaway,2001,2017,CHICAGO,Cook,IL
+SH'MAR DARDEN,15,male,black,1297091,endangeredRunaway,2002,2017,ELK GROVE VILLAGE,Cook,IL
+KESHAWNA DAVIDSON,17,female,black,1292752,endangeredRunaway,2000,2017,CHICAGO,Cook,IL
+DAMON DAVIS,19,male,black,1290559,missing,1998,2017,BLUE ISLAND,Cook,IL
+TIMOTHY DAVISON,36,male,white,600934,nonFamilyAbduct,1981,1985,DECATUR,Macon,IL
+CLAIRE DEBERRY,19,female,biracial,1305512,missing,1998,2017,CHICAGO,Cook,IL
+WILLIE DENNIS,18,male,black,1247477,endangeredRunaway,1998,2015,HARVEY,,IL
+DORIAN DILLMAN,16,male,white,1303539,endangeredRunaway,2001,2017,MAHOMET,Champaign,IL
+JANE DOE1980,-1,female,black,1106799,unidentified,,,,,
+JOHN DOE1995,-1,male,black,1184483,unidentified,,,,,
+JANE DOE2005,-1,female,white,1204842,unidentified,,,,,
+JOHN DOE2005,-1,male,whiteHisp,1112389,unidentified,,,,,
+BREANNA EDWARDS,16,female,black,1279810,endangeredRunaway,2001,2016,CHICAGO,Cook,IL
+PRECIOUS EVANS,17,female,black,1287135,endangeredRunaway,1999,2016,CHICAGO,Cook,IL
+TERRION FEAZELL,15,male,black,1302063,endangeredRunaway,2002,2017,CHICAGO,Cook,IL
+PAUL FRONCZAK,53,male,white,1216848,nonFamilyAbduct,1964,1964,CHICAGO,,IL
+KIANNA GALVIN,19,female,biracial,1267946,endangeredRunaway,1998,2016,SOUTH ELGIN,Kane,IL
+JAMES GARNER,16,male,black,1305800,endangeredRunaway,2001,2017,JOLIET,Will,IL
+D'VIANTRE GERMAN,17,male,biracial,1292538,endangeredRunaway,2000,2017,PEORIA,Peoria,IL
+AMIR GULLEY,1,male,black,1293954,familyAbduct,2015,2016,LOVES PARK,Winnebago,IL
+ETHAN HERNANDEZ,19,male,hispanic,893367,familyAbduct,1998,2000,CHICAGO,Cook,IL
+LATRELL HILL,15,male,black,1301804,endangeredRunaway,2002,2017,CHICAGO,Cook,IL
+TYRESE HILL,14,male,black,1308554,endangeredRunaway,2002,2017,SOUTH HOLLAND,Cook,IL
+JAMES HOWELL,57,male,white,872770,endangeredMissing,1959,1969,STERLING,Whiteside,IL
+EMILY IZYKOWSKI,21,female,white,852153,familyAbduct,1996,1998,NILES,,IL
+RACHEL JEAN,17,female,white,1300450,endangeredRunaway,1999,2017,GALVA,Henry,IL
+AMBER JENKINS,32,female,black,1280714,endangeredMissing,1985,2001,KANKAKEE,Kankakee,IL
+ANTHONY JOHNSON,17,male,black,1307541,endangeredRunaway,2000,2017,PEORIA,Peoria,IL
+NICOLE JOHNSON,30,female,black,972406,endangeredMissing,1986,2002,CHICAGO,Cook,IL
+ANNIE JONES,15,female,black,1298289,endangeredRunaway,2002,2017,CHICAGO,Cook,IL
+DARTAVION JONES,15,male,black,1308690,endangeredRunaway,2001,2017,DECATUR,Macon,IL
+DEJANAE JONES,17,female,black,1305687,endangeredRunaway,2000,2017,CHICAGO,Cook,IL
+JOHN KATSILIERIS,49,male,white,767896,endangeredMissing,1968,1985,OAK PARK,,IL
+TRICIA KELLETT,44,female,white,601784,nonFamilyAbduct,1973,1982,CHICAGO,,IL
+DERMOT KELLY,62,male,white,602923,endangeredMissing,1955,1972,LASALLE,La Salle,IL
+ASHANTI KEYS,14,female,black,1278007,endangeredRunaway,2002,2016,RICHTON PARK,Cook,IL
+CIERA KIRTS,17,female,white,1295210,endangeredRunaway,1999,2017,HOOPESTON,Vermilion,IL
+ANTHONY KRISTAN,15,male,hispanic,1308845,endangeredRunaway,2001,2017,BARRINGTON,Lake,IL
+SSAMALI KWATIA,9,female,black,1213667,familyAbduct,2008,2013,LAKE BLUFF,Lake,IL
+KEESHAWN LEE,18,male,black,1297431,endangeredRunaway,1999,2017,CHICAGO,Cook,IL
+DAVENCHIA LEWIS,16,male,black,1300951,endangeredRunaway,2000,2017,CHICAGO,Cook,IL
+SAMANTHA LINDSEY,18,female,biracial,1281148,endangeredRunaway,1999,2016,SPRINGFIELD,Sangamon,IL
+SAVANNAH LUCCHESE,17,female,white,1302993,endangeredRunaway,2000,2017,FREEPORT,Stephenson,IL
+BRANDON LYKINS,17,male,black,1255878,endangeredRunaway,2000,2015,CENTRALIA,Marion,IL
+SHIRLEY MAGEE,56,female,black,1233115,endangeredMissing,1960,1973,CHICAGO,Cook,IL
+VALINA MAGEE,41,female,black,1172530,endangeredMissing,1976,1989,CHICAGO,Cook,IL
+JOSHUA MAHAFFEY,41,male,white,1082479,endangeredMissing,1976,1991,CENTRALIA,Marion,IL
+DULCE MEDRANO,17,female,hispanic,1299831,endangeredRunaway,2000,2017,HANOVER PARK,Cook,IL
+KAYLEE MEHOCHKO,14,female,white,1302415,endangeredRunaway,2003,2017,QUINCY,Adams,IL
+RACHEL MELLON,34,female,asian,814151,endangeredMissing,1982,1996,BOLINGBROOK,Will,IL
+JESUS MENDOZA,14,male,hispanic,1304944,endangeredRunaway,2003,2017,CHICAGO,Cook,IL
+DONNA MEZO,42,female,white,766528,endangeredMissing,1975,1992,BELLEVILLE,St. Clair,IL
+JOVANY MITRE,17,male,hispanic,1294320,endangeredRunaway,2000,2017,ROCKFORD,Winnebago,IL
+MEGAN NICHOLS,19,female,white,1234891,endangeredRunaway,1998,2014,FAIRFIELD,Wayne,IL
+TORI NOVAK,15,female,white,1293441,endangeredRunaway,2001,2017,ROCKFORD,Winnebago,IL
+NANCY O'SULLIVAN,58,female,white,773166,endangeredMissing,1959,1974,HOMEWOOD,Cook,IL
+ELIAS PEREZ,16,male,hispanic,1282796,endangeredRunaway,2001,2016,BURNHAM,Cook,IL
+ELENA PEREZ GOMEZ,18,female,hispanic,1282921,endangeredRunaway,1999,2016,SPRINGFIELD,Sangamon,IL
+JEREMY PHILLIPS,14,male,black,1302194,endangeredRunaway,2003,2017,CHICAGO,Cook,IL
+TIMMOTHY PITZEN,12,male,white,1171960,endangeredMissing,2004,2011,AURORA,Kane,IL
+SHEILA QUINN,42,female,black,603084,endangeredMissing,1975,1980,CHICAGO,Cook,IL
+DOHNTEZ ROBERSON,17,male,black,1305768,endangeredRunaway,2000,2017,DECATUR,Macon,IL
+CHARIYA ROBY,16,female,black,1302965,endangeredRunaway,2001,2017,LAKE VILLA,Lake,IL
+SHANTEL RODNEY,16,female,black,1305952,endangeredRunaway,2001,2017,CHICAGO,Cook,IL
+MOSES RODRIGUEZ,17,male,black,1299061,endangeredRunaway,2000,2017,WAUKEGAN,Lake,IL
+ASHLEY ROSS,18,female,white,1306290,endangeredRunaway,1999,2017,CHICAGO,Cook,IL
+JESSE WARREN ROSS,30,male,white,1067881,missing,1987,2006,CHICAGO,Cook,IL
+FELICITA SANTANA,17,female,hispanic,1304515,endangeredRunaway,1999,2017,URBANA,Champaign,IL
+MICHAEL SCHAEFER,17,male,white,1272348,endangeredRunaway,2000,2016,MARSEILLES,La Salle,IL
+IRISE SEARCY,16,female,black,1296239,endangeredRunaway,2001,2017,CALUMET CITY,Cook,IL
+NIA SMITH,19,female,black,1254261,endangeredRunaway,1998,2015,CHICAGO,Cook,IL
+MORGAN SPATES,16,female,black,1306176,endangeredRunaway,2000,2017,CHICAGO,Cook,IL
+KELLY STAPLES,44,female,black,601910,nonFamilyAbduct,1973,1980,CHICAGO,Cook,IL
+DARRION STEWARD,14,male,black,1303116,endangeredRunaway,2003,2017,COUNTRY CLUB HILLS,Cook,IL
+MARY ANN SWITALSKI,71,female,white,1180028,endangeredMissing,1946,1963,CHICAGO,Cook,IL
+ONESTY TATUM,16,female,black,1300471,endangeredRunaway,2001,2017,LAKE VILLA,Lake,IL
+TAYSIA TAYLOR,15,female,black,1305771,endangeredRunaway,2002,2017,GLENWOOD,Cook,IL
+VINYETTE TEAGUE,35,female,black,601917,nonFamilyAbduct,1981,1983,CHICAGO,,IL
+DEANA THOMAS,16,female,black,1305867,endangeredRunaway,2001,2017,CHICAGO,Cook,IL
+ANDREW THOMPSON,29,male,black,1167375,endangeredMissing,1988,1996,CHICAGO,Cook,IL
+ANDREW THOMPSON,29,male,black,1167375,endangeredMissing,1988,1996,CHICAGO,Cook,IL
+MARVIN THOMPSON-CRAYTON,16,male,biracial,1305968,endangeredRunaway,2001,2017,CHICAGO,Cook,IL
+WILLIE TRIPLETT,17,male,black,1246426,endangeredRunaway,2000,2015,ROMEOVILLE,Will,IL
+KAYLA UNBEHAUN,9,female,white,1301812,familyAbduct,2008,2017,SOUTH ELGIN,Kane,IL
+FLOR VALLADARES,17,female,hispanic,1286755,endangeredRunaway,2000,2014,FREEPORT,Stephenson,IL
+CAIN VINCENT,18,male,white,1302213,endangeredRunaway,1999,2017,PEORIA,Peoria,IL
+PAULETTE WEBSTER,48,female,white,1083362,missing,1969,1988,CHESTER,Randolph,IL
+ASANTÉ WILLOUGHBY,37,male,black,1110449,endangeredMissing,1979,1996,CHICAGO,Cook,IL
+EARL WILSON,14,male,black,1308262,endangeredRunaway,2002,2017,DOLTON,Cook,IL
+OCTAVIA WILSON,15,female,black,1306060,endangeredRunaway,2001,2017,EAST SAINT LOUIS,Saint Clair,IL
+ROBIN WOLFE,17,female,black,1308625,endangeredRunaway,2000,2017,CHICAGO,Cook,IL
+SELENA WOULLARD,18,female,white,1227766,endangeredRunaway,1999,2013,CHICAGO,Cook,IL
+SAVANNAH YAGER,17,female,white,1260885,endangeredRunaway,2000,2016,BARTLETT,Cook,IL
+APRIL ZANE,57,female,white,1065452,endangeredMissing,1960,1977,FRANKFORT,Will,IL

@@ -1,0 +1,83 @@
+name,age,gender,ethnicity,NCMEC_case#,case_type,birth_year,missing_year,missing_city,missing_county,missing_state
+CASEY AL-HECHAMI,18,male,white,1306372,missing,1999,2017,NASHVILLE,Davidson,TN
+JEREMY BECHTEL,34,male,white,906820,endangeredMissing,1982,2000,SPARTA,White,TN
+DILLEN BELL,17,male,white,1305488,endangeredRunaway,2000,2017,MARYVILLE,Blount,TN
+DAMIAN BERRY,17,male,white,1302966,endangeredRunaway,2000,2017,KNOXVILLE,Knox,TN
+CHELSIE BISHOP,16,female,white,1307310,endangeredRunaway,2001,2017,KNOXVILLE,Knox,TN
+UTOPIA BLAIR,17,female,white,1293087,endangeredRunaway,2000,2017,CLEVELAND,Bradley,TN
+DEVIN BOND,16,male,white,1292997,endangeredRunaway,2000,2017,MURFREESBORO,Rutherford,TN
+KRISTINA BRANUM,28,female,white,1137994,endangeredMissing,1988,2006,SAVANNAH,Hardin,TN
+MADISEN BYARD,18,female,white,1295757,endangeredRunaway,1999,2017,CLARKSVILLE,Montgomery County,TN
+ZACHARY CABLE,16,male,white,1305677,endangeredRunaway,2000,2017,JOHNSON CITY,Washington,TN
+OSCAR CAMPOS,25,male,white,1121489,endangeredRunaway,1992,2008,ANTIOCH,Davidson,TN
+COLTON CANNON,15,male,white,1287731,endangeredRunaway,2002,2017,PINSON,Madison,TN
+TONETTA CARLISLE,44,female,black,722063,nonFamilyAbduct,1973,1989,CHATTANOOGA,Hamilton,TN
+ANGEL CARTER,17,female,biracial,1276057,endangeredRunaway,2000,2016,MEMPHIS,Shelby,TN
+AMBER CATES,29,female,white,1110243,endangeredRunaway,1988,2004,COLUMBIA,Maury,TN
+MARLENA CHILDRESS,34,female,white,600739,nonFamilyAbduct,1983,1987,UNION CITY,Obion,TN
+MARIA CONTRERAS LOPEZ,17,female,hispanic,1278008,endangeredRunaway,2000,2016,OAK RIDGE,Anderson,TN
+CHAD COOK,17,male,black,1280093,endangeredRunaway,2000,2016,MARYVILLE,Blount,TN
+JACKSON DALTON,17,male,white,1307693,endangeredRunaway,2000,2017,SPRING HILL,Maury,TN
+CHRISTOPHER DANIEL,12,male,white,1203253,endangeredMissing,2005,2012,UNIONVILLE,Bedford,TN
+LUIS DELGADO,16,male,hispanic,1293802,endangeredRunaway,2001,2017,ANTIOCH,Davidson,TN
+BREANA DENNIS,15,female,black,1303886,endangeredRunaway,2001,2017,MEMPHIS,Shelby,TN
+LAURYN DICKENS,7,female,black,1156424,nonFamilyAbduct,2009,2010,MEMPHIS,Shelby,TN
+JANE DOE1975,-1,female,black,1184255,unidentified,,,,,
+JANE DOE1976,-1,female,white,1167334,unidentified,,,,,
+JOHN DOE1983,-1,male,black,1193984,unidentified,,,,,
+JANE DOE1985,-1,female,white,1105475,unidentified,,,,,
+JANE DOE1985,-1,female,white,1106925,unidentified,,,,,
+JANE DOE1985,-1,female,white,1184609,unidentified,,,,,
+JANE DOE2003,-1,female,black,1184608,unidentified,,,,,
+JOHN DOE2003,-1,male,hispanic,1106240,unidentified,,,,,
+ADRIONNA DULL,16,female,biracial,1304726,endangeredRunaway,2000,2017,HOHENWALD,Lewis,TN
+ERIN FOSTER,35,female,white,1135880,missing,1982,2000,SPARTA,White,TN
+ZAYLEE FRYAR,6,female,biracial,1171321,endangeredMissing,2011,2011,MILLERSVILLE,Davidson,TN
+MARTA GAMEZ-CRUZ,17,female,hispanic,1255049,endangeredRunaway,2000,2015,ANTIOCH,Davidson,TN
+AUSTIN GIBSON,17,male,white,1291984,endangeredRunaway,2000,2017,SEVIERVILLE,Sevier,TN
+TRENNY GIBSON,57,female,white,1155760,endangeredMissing,1960,1976,GREAT SMOKY MOUNTAINS,Sevier,TN
+OGDIN GOMEZ CASTILLO,18,male,hispanic,1266909,endangeredRunaway,1999,2016,CROSSVILLE,Cumberland,TN
+MARTHA GREEN,47,female,white,601576,nonFamilyAbduct,1970,1987,WHITE BLUFF,Dickson,TN
+KELSEY GUESS-WHITEHEAD,17,female,white,1288880,endangeredRunaway,2000,2017,ROGERSVILLE,Hawkins,TN
+CHARLIE HALL,51,male,black,601646,endangeredMissing,1966,1981,NASHVILLE,Davidson,TN
+LADERIUS HARDY,17,male,black,1305184,endangeredRunaway,2000,2017,MEMPHIS,Shelby,TN
+RAYLENE HELSLEY,46,female,white,601681,nonFamilyAbduct,1970,1983,RUSTON,,LA
+JARED HUGUELEY,14,male,white,1291590,endangeredRunaway,2003,2017,MEMPHIS,Shelby,TN
+ASHLEY JONES,25,female,white,823352,endangeredMissing,1992,1996,MEMPHIS,Shelby,TN
+JAMES JONES,16,male,white,1307409,endangeredRunaway,2000,2017,KNOXVILLE,Knox,TN
+LAKISHA JONES,33,female,black,917915,endangeredMissing,1984,1999,NASHVILLE,Davidson,TN
+DEVON KIMPSON,17,male,biracial,1300205,endangeredRunaway,1999,2017,CHATTANOOGA,Hamilton,TN
+GREGORY KNOWLES,17,male,white,1282574,endangeredRunaway,1999,2016,NASHVILLE,Bradley,TN
+KIRSTEN KRYSZAK,34,female,white,1086789,missing,1982,2000,MEMPHIS,Shelby,TN
+JOSHUA LAYNE-DUNGAN,17,male,white,1308015,endangeredRunaway,2000,2017,JACKSON,Madison,TN
+CHRISTOPHER DANIEL,12,male,white,1203253,endangeredMissing,2005,2012,UNIONVILLE,Bedford,TN
+DYLAN LINER,18,male,white,1303588,endangeredRunaway,1999,2017,KNOXVILLE,Knox,TN
+EVA LOPEZ,17,female,hispanic,1255161,endangeredRunaway,2000,2015,WINCHESTER,Franklin,TN
+TAESEAN MAGGETTE,17,male,black,1303209,endangeredRunaway,2000,2017,MEMPHIS,Shelby,TN
+TYLON MANESS,17,male,biracial,1306512,endangeredRunaway,1999,2017,MEMPHIS,Shelby,TN
+BETHANY MARKOWSKI,27,female,white,906662,endangeredMissing,1990,2001,JACKSON,Madison,TN
+DENNIS MARTIN,55,male,white,1178747,endangeredMissing,1962,1969,GREAT SMOKY MOUNTAINS,Blount,TN
+CAYCE MCDANIEL,35,female,white,822496,endangeredMissing,1982,1996,MILAN,Gibson,TN
+LUCY MEADOWS,24,female,asian,821146,nonFamilyAbduct,1992,1996,GOODLETTSVILLE,Davidson,TN
+RANDLE MEDLIN,16,male,white,1301201,endangeredRunaway,2000,2017,KNOXVILLE,Knox,TN
+BRIANA NASH,16,female,white,1307511,endangeredRunaway,2000,2017,PIGEON FORGE,,TN
+CATARINA NOLASCO QUINONEZ,16,female,hispanic,1265897,endangeredRunaway,2001,2015,SHELBYVILLE,Bedford,TN
+LOGAN PLEASANT,15,male,biracial,1308073,endangeredRunaway,2002,2017,LOUISVILLE,Blount,TN
+LEYLA PRECIADO MARISCAL,9,female,hispanic,1296621,familyAbduct,2008,2017,ANTIOCH,Davidson,TN
+KAMA RICHARDSON,18,female,biracial,1260074,endangeredRunaway,1998,2015,CROSSVILLE,Cumberland,TN
+PASCUAL SANCHEZ-AGUILAR,19,male,hispanic,1253185,endangeredRunaway,1998,2015,CHATTANOOGA,Hamilton,TN
+REBECCA SAULS,17,female,white,1292310,endangeredRunaway,2000,2017,HUNTLAND,Franklin,TN
+ISAAC SAVOIE,16,male,biracial,1129388,familyAbduct,2000,2009,FRANKLIN,Williamson,TN
+ISAAC SAVOIE,16,male,biracial,1129388,familyAbduct,2000,2009,FRANKLIN,Williamson,TN
+RAY'ZHAWN SCRUGGS,17,male,black,1303662,endangeredRunaway,1999,2017,CROSSVILLE,Cumberland,TN
+ANA SEBASTIAN LORENZO,16,female,hispanic,1274291,endangeredRunaway,2000,2016,LEWISBURG,Marshall,TN
+ARIEL SMITH,16,female,white,1308711,endangeredRunaway,2001,2017,MORRISTOWN,Hamblen,TN
+CHRISTIAN SMITH,18,male,white,1273398,endangeredRunaway,1999,2016,MEMPHIS,Shelby,TN
+CALVIN STORIE,15,male,white,1305553,endangeredRunaway,2002,2017,KNOXVILLE,Knox,TN
+TABITHA TUDERS,27,female,white,961685,endangeredMissing,1990,2003,NASHVILLE,Davidson,TN
+JOCELYN TURCIOS,15,female,hispanic,1009633,familyAbduct,2001,2004,FRANKLIN,Williamson,TN
+CHINA VIDEON,34,female,white,874543,endangeredMissing,1982,1999,CHRISTIANA,Rutherford,TN
+STEVEN WALLER,18,male,biracial,1292228,missing,1998,2017,DOWELLTOWN,DeKalb,TN
+DAVID WARNER,46,male,white,601934,nonFamilyAbduct,1971,1983,JEFFERSON CITY,Jefferson,TN
+PHILANDERIA WILLIAMS,17,female,black,1295578,endangeredRunaway,2000,2017,NASHVILLE,Davidson,TN
+ADRIANNA WIX,15,female,white,985513,endangeredMissing,2002,2004,CROSS PLAINS,Robertson,TN

@@ -1,0 +1,111 @@
+name,age,gender,ethnicity,NCMEC_case#,case_type,birth_year,missing_year,missing_city,missing_county,missing_state
+ETHAN ALLINSON,16,male,white,1304180,endangeredRunaway,2001,2017,FRAMINGHAM,Middlesex,MA
+JAYSALLY ALVES,17,female,hispanic,1307759,endangeredRunaway,2000,2017,MALDEN,Middlesex,MA
+ANDREW AMATO,43,male,white,600090,endangeredMissing,1974,1978,WEBSTER,Worcester,MA
+ANNA ANDERSON,15,female,white,1291502,endangeredRunaway,2002,2017,FITCHBURG,Worcester,MA
+ISABELA ANDRADE-FONTES,17,female,black,1300242,endangeredRunaway,2000,2017,ARLINGTON,,MA
+KALI ATHUKORALA,10,female,biracial,1135175,familyAbduct,2007,2009,BELCHERTOWN,Hampshire,MA
+GENESIS AVALOS DIONICIO,14,female,hispanic,1296632,endangeredRunaway,2002,2017,CHARLESTOWN,Suffolk,MA
+DESTINY BASS,17,female,black,1285915,endangeredRunaway,1999,2016,SPRINGFIELD,Hampden,MA
+KENDRA BIANCO,17,female,white,1295561,endangeredRunaway,2000,2017,NEW BEDFORD,Bristol,MA
+NOOR BOWER,16,male,white,1129599,familyAbduct,2001,2009,NEWTON,Middlesex,MA
+NOOR BOWER,16,male,white,1129599,familyAbduct,2001,2009,NEWTON,Middlesex,MA
+ALLEN BRISCOE,47,male,black,600428,nonFamilyAbduct,1969,1985,PHILADELPHIA,,PA
+KAYANNA BUTLER,16,female,black,1300250,endangeredRunaway,2001,2017,FALL RIVER,Bristol,MA
+XORREL CABRERA,17,male,black,1306842,endangeredRunaway,2000,2017,METHUEN,Essex,MA
+NAYELI CANCEL,15,female,hispanic,1302770,endangeredRunaway,2002,2017,WORCESTER,Worcester,MA
+MIA CARNEVALE,16,female,white,1281672,endangeredRunaway,2001,2016,REVERE,Suffolk,MA
+NAZAYAH CARRASQUILLO,17,male,hispanic,1300559,endangeredRunaway,1999,2017,HAVERHILL,Essex,MA
+JASEA CARVALHO,17,female,white,1300374,endangeredRunaway,2000,2017,FALL RIVER,Bristol,MA
+JUDITH CHARTIER,53,female,white,600731,nonFamilyAbduct,1964,1982,CHELMSFORD,Middlesex,MA
+ALEXANDRIA CONCEPCION,15,female,hispanic,1294057,endangeredRunaway,2002,2017,ARLINGTON,Middlesex,MA
+MELVIN CRUZ DIAZ,18,male,hispanic,1305807,endangeredRunaway,1999,2017,BOSTON,Suffolk,MA
+JESUS DE LA CRUZ,27,male,hispanic,823722,nonFamilyAbduct,1990,1996,LYNN,,MA
+JOSHUA DELEON,16,male,hispanic,1285531,endangeredRunaway,2001,2016,BERKLEY,Bristol,MA
+NELIDA DEL VALLE,50,female,hispanic,600988,nonFamilyAbduct,1967,1976,BOSTON,,MA
+EVE DIAZ,13,female,biracial,1307128,endangeredRunaway,2003,2017,SPRINGFIELD,Hampden,MA
+JOHN DOE1988,-1,male,black,1184477,unidentified,,,,,
+OLIVIA EDWARDS-TUTTLE,27,female,white,777914,familyAbduct,1990,1991,BARRE,Worcester,MA
+LINDA ELDAM,17,female,white,1306933,endangeredRunaway,2000,2017,FRAMINGHAM,Middlesex,MA
+BENJAMIN EMANUEL,17,male,white,1296983,endangeredRunaway,2000,2017,QUINCY,Norfolk,MA
+JUAN ESPINOZA CERNA,16,male,hispanic,1296277,endangeredRunaway,2001,2017,BOSTON,Suffolk,MA
+JENNIFER FAY,44,female,white,762300,endangeredMissing,1972,1989,BROCKTON,Plymouth,MA
+HAYDEE FERNANDEZ,17,female,hispanic,1247499,endangeredRunaway,2000,2015,SOUTH GRAFTON,Worcester,MA
+SELENA FIGUEROA,17,female,hispanic,1286776,endangeredRunaway,2000,2016,DORCHESTER,Suffolk,MA
+MARIA FRANCISCO,16,female,hispanic,1260086,endangeredRunaway,2000,2015,WORCESTER,Worcester,MA
+HAILEY GALLINO,16,female,white,1305566,endangeredRunaway,2000,2017,BELMONT,Middlesex,MA
+EVA GARLAND,17,female,biracial,1305333,endangeredRunaway,1999,2017,FRAMINGHAM,,MA
+WAYNE GOFF,37,male,black,833320,endangeredMissing,1979,1997,MATTAPAN,Suffolk,MA
+GIOVANNI GONZALEZ-COLON,14,male,hispanic,1103452,endangeredMissing,2003,2008,LYNN,Essex,MA
+MATTHEW HALE,4,male,white,1299614,familyAbduct,2013,2016,WEBSTER,,MA
+JOSE HARDING,17,male,white,1305764,endangeredRunaway,1999,2017,FALL RIVER,Bristol,MA
+CALEIGH HARRISON,8,female,white,2012-500-A01452,missing,2009,,,,
+THIARRA HERNANDEZ,16,female,biracial,1303944,endangeredRunaway,2001,2017,LYNN,Essex County,MA
+KAYLYN HOISINGTON,4,female,white,1307667,familyAbduct,2013,2017,NORTH ADAMS,Berkshire,MA
+TAYSHIA HOISINGTON,17,female,biracial,1285256,endangeredRunaway,2000,2016,WESTFIELD,Hampden,MA
+JANAE JOHNSON,17,female,black,1278835,endangeredRunaway,1999,2016,NEW BEDFORD,Bristol,MA
+JORDAN JONES,18,male,white,M352724852,endangeredRunaway,1998,2015,WAREHAM,,MA
+NATIVIDAD JOSE,18,female,hispanic,1260087,endangeredRunaway,1999,2015,WORCESTER,Worcester,MA
+ANDREW LABBE,15,male,white,1295789,endangeredRunaway,2001,2017,PLYMOUTH,Plymouth,MA
+RHONDA LABBE,60,female,white,1153090,endangeredMissing,1956,1974,LOWELL,Essex,MA
+NERLEY LAZARE,17,female,biracial,1306165,endangeredRunaway,2000,2017,HYDE PARK,Suffolk,MA
+MELVIN LAZO-MARTINEZ,21,male,hispanic,1217571,endangeredRunaway,1996,2013,WORCESTER,Worcester,MA
+KAILEY LEGRAND,17,female,biracial,1308959,endangeredRunaway,2000,2017,LYNN,,MA
+BRIANA LEONE,18,female,biracial,1295029,endangeredRunaway,1999,2017,SALEM,Essex,MA
+KRISTOPHER LEWIS,17,male,biracial,1230071,endangeredRunaway,2000,2014,BOSTON,Suffolk,MA
+ANAIYA LOPEZ,15,female,hispanic,1307614,endangeredRunaway,2001,2017,ARLINGTON,Middlesex,MA
+ALIAH LUNA,16,female,biracial,1308127,endangeredRunaway,2001,2017,PITTSFIELD,Berkshire,MA
+JAMIE LUSHER,40,male,white,774510,endangeredMissing,1976,1992,WESTFIELD,Hampden,MA
+GABRIELLA MACHADO,17,female,white,1298342,endangeredRunaway,2000,2017,PLYMOUTH,Plymouth,MA
+CATHERINE MALCOLMSON,48,female,white,601807,nonFamilyAbduct,1969,1985,STOW,Middlesex,MA
+LILACIA MARTINEZ,16,female,hispanic,1298578,endangeredRunaway,2000,2017,LYNN,Essex,MA
+SAMANTHA MATHIESON,16,female,white,1295815,endangeredRunaway,2000,2017,CHELSEA,Suffolk,MA
+JADA MCCAFFREY,17,female,biracial,1304038,endangeredRunaway,2000,2017,FALL RIVER,Bristol,MA
+IZAYA MCGONNELL,18,male,white,1306764,endangeredRunaway,1999,2017,HOPEDALE,Worcester,MA
+MELANIE MELANSON,42,female,white,732768,endangeredMissing,1974,1989,WOBURN,Middlesex,MA
+DANIELLA MERCADO,16,female,hispanic,1265794,endangeredRunaway,2001,2016,CHELSEA,Suffolk,MA
+RUTH MEZA,15,female,hispanic,1302523,endangeredRunaway,2002,2017,WORCESTER,Worcester,MA
+SAVANT MINOT,16,male,black,1283852,endangeredRunaway,2000,2015,BOSTON,Suffolk,MA
+ARNEIZA MINOT-JONES,14,female,black,1265056,endangeredRunaway,2003,2016,ARLINGTON,Middlesex,MA
+ELVIN MORALES,16,male,hispanic,1306821,endangeredRunaway,2000,2017,HOLYOKE,Hampden,MA
+SHIBRE MOUNDS,15,female,biracial,1306196,endangeredRunaway,2002,2017,ARLINGTON,Middlesex,MA
+TAJ NARBONNE,46,male,white,603378,nonFamilyAbduct,1971,1981,LEOMINSTER,Worcester,MA
+ZY'RESHEIA ORTIZ,18,female,hispanic,1264345,endangeredRunaway,1999,2016,SPRINGFIELD,Hampden,MA
+GIOVANNI PADILLA,17,male,hispanic,1306823,endangeredRunaway,2000,2017,SPRINGFIELD,Hampden,MA
+REBECCA PANAMENO,15,female,hispanic,1302573,endangeredRunaway,2001,2017,ARLINGTON,Middlesex,MA
+CARSON PETERPAUL,17,male,white,1305945,endangeredRunaway,1999,2017,SPRINGFIELD,Hampden,MA
+ANGELO PUGLISI,52,male,white,601871,nonFamilyAbduct,1965,1976,LAWRENCE,Essex,MA
+DEBORAH QUIMBY,53,female,white,727916,endangeredMissing,1963,1977,TOWNSEND,Middlesex,MA
+NELKWON QUINTANA,17,male,black,1298348,endangeredRunaway,2000,2017,NEW BEDFORD,Bristol,MA
+SOOMAIIAH QURAIISHI,24,female,white,1017621,familyAbduct,1993,2001,QUINCY,Suffolk County,MA
+LAURA REGO,17,female,white,1284417,endangeredRunaway,2000,2016,NEW BEDFORD,Bristol,MA
+SHY-HEEMA REID,15,female,black,1304098,endangeredRunaway,2002,2017,SPRINGFIELD,Hampden,MA
+DAVID REYNOLDS,29,male,white,1191026,endangeredRunaway,1988,2004,FITCHBURG,Worcester,MA
+CHRISTOPHER RICE,16,male,biracial,1297971,endangeredRunaway,2001,2017,BROCKTON,Plymouth,MA
+SIMONE RIDINGER,57,female,white,1060967,endangeredMissing,1960,1977,NATICK,Middlesex,MA
+JAIMILEE RIVERA GARCIA,16,female,hispanic,1302259,endangeredRunaway,2001,2017,FALMOUTH,Barnstable,MA
+MARILANE RODRIGUEZ,16,female,hispanic,1289520,endangeredRunaway,2001,2017,WORCESTER,Worcester,MA
+SELENA RODRIGUEZ,17,female,hispanic,1301894,endangeredRunaway,2000,2017,BOSTON,Suffolk,MA
+YANELY ROSADO,15,female,hispanic,1305579,endangeredRunaway,2002,2017,RUTLAND,Worcester,MA
+ANGEL ROURE,15,male,hispanic,1297940,endangeredRunaway,2002,2017,WORCESTER,Worcester,MA
+ESMERANDA SANCHEZ,17,female,hispanic,1283139,endangeredRunaway,1999,2016,HYDE PARK,Suffolk,MA
+SHERYLIN SANCHEZ,18,female,hispanic,1300605,endangeredRunaway,1999,2017,FITCHBURG,Worcester,MA
+NAILAH SANON,18,female,black,1273900,endangeredRunaway,1999,2016,CAMBRIDGE,Middlesex,MA
+MICHAEL SANTOS,18,male,white,1281244,endangeredRunaway,1999,2016,SOUTH YARMOUTH,Barnstable,MA
+LEIGH SAVOIE,53,male,white,909064,endangeredMissing,1963,1974,REVERE,Suffolk,MA
+KAYLA SEERATTAN,18,female,white,1278694,endangeredRunaway,1999,2016,BERKLEY,Bristol County,MA
+ATHENA SHEETZ,8,female,hispanic,1239816,familyAbduct,2008,2010,LYNN,Barnstable,MA
+ATHENA SHEETZ,8,female,hispanic,1239816,familyAbduct,2008,2010,LYNN,Barnstable,MA
+MAXIMILLIAN SOLOVIEV,15,male,white,1061765,endangeredMissing,2002,2006,BELMONT,Middlesex,MA
+HALEY SOUSA,16,female,white,1283848,endangeredRunaway,2001,2016,METHUEN,Essex,MA
+MATTHEW SPRAGUE,16,male,white,1305505,endangeredRunaway,2001,2017,WORCESTER,Worcester,MA
+MICHAEL SUGURA,17,male,hispanic,1262755,endangeredRunaway,2000,2016,ATTLEBORO,Bristol County,MA
+STACIA SWEET,17,female,white,1290667,endangeredRunaway,2000,2017,NORTH ADAMS,Berkshire,MA
+TRINITY SWEGEL,15,female,white,1305183,endangeredRunaway,2001,2017,SPRINGFIELD,Hampden,MA
+ANTOININA THOMAS,16,female,white,1307773,endangeredRunaway,2000,2017,BROCKTON,Plymouth,MA
+JUSTIN TORRES,14,male,hispanic,1308688,endangeredRunaway,2002,2017,SPRINGFIELD,Hampden,MA
+KADEN TREMBLEY,16,male,white,1302436,endangeredRunaway,2000,2017,HAVERHILL,Essex,MA
+ADA VALENTIN,18,female,biracial,M962998857,endangeredMissing,1999,2015,WESTFIELD,,MA
+LAURA VELEZ,16,female,biracial,1282605,endangeredRunaway,2000,2016,PEABODY,Essex,MA
+MACAYLA WALKEY,18,female,white,1298991,endangeredRunaway,1999,2017,HAVERHILL,Essex,MA
+MARLIN YANES,13,female,hispanic,1308578,endangeredRunaway,2004,2017,LYNN,Essex,MA

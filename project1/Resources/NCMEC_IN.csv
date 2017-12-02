@@ -1,0 +1,62 @@
+name,age,gender,ethnicity,NCMEC_case#,case_type,birth_year,missing_year,missing_city,missing_county,missing_state
+DASON ANDIS,16,male,white,1295813,endangeredRunaway,2001,2017,BROWNSTOWN,Jackson County,IN
+BRAEDON BANDY,18,male,white,1307360,endangeredRunaway,1999,2017,GREENTOWN,Howard County,IN
+TERRANCE BONILLA,17,male,biracial,1238514,endangeredRunaway,2000,2014,BEECH GROVE,Marion,IN
+DAYRL BOTHELL JR,16,male,white,1302223,endangeredRunaway,2001,2017,INDIANAPOLIS,Marion,IN
+STEPHANIE BOWERS,17,,white,1305113,endangeredRunaway,2000,2017,SOUTH BEND,St Joseph,IN
+DERICA BURNETT,17,female,black,1302608,endangeredRunaway,2000,2017,INDIANAPOLIS,Marion County,IN
+DEBRA COLE,48,female,white,600785,endangeredMissing,1969,1981,LEBANON,,IN
+MELINDA CREECH,52,female,white,1036765,endangeredMissing,1965,1979,ANDERSON,Madison,IN
+JADA DIGGS,18,female,biracial,1301417,endangeredRunaway,1999,2017,INDIANAPOLIS,Marion County,IN
+JOHN DOE1983,-1,male,black,1184271,unidentified,,,,,
+JOHN DOE1983,-1,male,white,1202842,unidentified,,,,,
+JOHN DOE2003,-1,male,hispanic,1184596,unidentified,,,,,
+TARSHAE DRAPER,15,female,black,1288231,endangeredRunaway,2001,2017,INDIANAPOLIS,Marion,IN
+DESTINY EDWARDS,15,female,white,1303104,endangeredRunaway,2001,2017,CONNERSVILLE,Fayette,IN
+CAMRON FAIR,18,male,black,1298072,endangeredRunaway,1999,2017,INDIANAPOLIS,Marion,IN
+WENDY FELTON,46,female,white,772531,endangeredMissing,1971,1987,MARION,Grant,IN
+MORGAN FLANAGAN,18,female,white,1305382,endangeredRunaway,1999,2017,INDIANAPOLIS,Marion,IN
+NATHANIEL FRANKLIN,16,male,white,1308277,endangeredRunaway,2001,2017,EATON,Delaware,IN
+DERIANA FRENCH,15,female,black,1292034,endangeredRunaway,2002,2017,INDIANAPOLIS,Marion County,IN
+CHRISTINA FUSIK,17,female,white,1307920,endangeredRunaway,2000,2017,FORT WAYNE,Allen,IN
+JOHN GEORGE,17,male,white,1297626,endangeredRunaway,2000,2017,INDIANAPOLIS,Marion County,IN
+MIREYA GLICK,2,female,asian,1275885,familyAbduct,2015,2016,INDIANAPOLIS,Marion,IN
+BRITTANY GRAY,19,female,black,1296644,missing,1997,2017,GARY,Lake,IN
+JAYDEN GREEN,8,male,black,1307726,familyAbduct,2009,2017,GARY,Lake County,IN
+BEN'YANA HARPER,16,female,black,1306212,endangeredRunaway,2000,2017,FORT WAYNE,Allen,IN
+CARNA HENRY,17,female,black,1302497,endangeredRunaway,2000,2017,INDIANAPOLIS,Marion County,IN
+SUMMER HERNANDEZ,16,female,biracial,1306281,endangeredRunaway,2001,2017,GRIFFITH,Lake County,IN
+FARRAH HISER-SMITH,17,female,white,1299770,endangeredRunaway,1999,2017,CORYDON,Harrison County,IN
+MYJABREANN JACKSON,17,female,black,1287204,endangeredRunaway,1999,2017,MICHIGAN CITY,LaPorte County,IN
+NAKESHA JACKSON,17,female,black,1307831,endangeredRunaway,2000,2017,INDIANAPOLIS,Marion,IN
+AUSTIN KEENER,14,male,white,1303830,endangeredRunaway,2003,2017,NORTH VERNON,Jennings County,IN
+MISHA KUNKLE,17,male,white,1290853,endangeredRunaway,1999,2017,PERRYSVILLE,Vermillion County,IN
+RICHARD LANDERS,28,male,white,rlanders,familyAbduct,1988,1994,LAGRANGE,LAGRANGE,IN
+VINCENT MATHENY,17,male,white,1278987,endangeredRunaway,2000,2016,MIDDLETOWN,Henry,IN
+DAMIAN MILLER,14,male,white,1300763,endangeredRunaway,2002,2016,HAMMOND,Lake County,IN
+DEVIN OVERTON,17,female,black,1301947,endangeredRunaway,2000,2017,INDIANAPOLIS,Marion County,IN
+DEANDREEKA PHILLIPS,18,female,black,1286090,endangeredRunaway,1999,2016,EAST CHICAGO,Lake County,IN
+SANDRA POWELL,47,female,black,734036,endangeredMissing,1970,1987,SOUTH BEND,St. Joseph,IN
+ALAINA RAMIREZ,17,female,hispanic,1302399,endangeredRunaway,1999,2017,MUNCIE,Delaware County,IN
+EDEN RANGEL,17,male,white,1302405,endangeredRunaway,1999,2017,FORT WAYNE,Allen,IN
+DARREN RATLIFF,14,male,white,1304140,endangeredRunaway,2002,2017,MUNCIE,Delaware County,IN
+IVY REESE,17,female,white,1291478,endangeredRunaway,1999,2017,INDIANAPOLIS,Marion County,IN
+JOHNATHAN REEVES,10,male,black,1291386,familyAbduct,2007,2017,SOUTH BEND,St Joseph County,IN
+TRICIA REITLER,43,female,white,780520,missing,1974,1993,MARION,Grant,IN
+ANTONIO RIVERA,16,male,white,1292777,endangeredRunaway,2001,2017,CROWN POINT,,IN
+ANASTASIA RODRIGUEZ,16,female,hispanic,1308455,endangeredRunaway,2001,2017,ALBION,Noble,IN
+CRISTIAN SANCHEZ-RAMOS,17,male,hispanic,1301653,endangeredRunaway,2000,2017,HOBART,Lake,IN
+SHANNON SHERRILL,37,female,white,601901,nonFamilyAbduct,1980,1986,THORNTOWN,Boone,IN
+LAUREN SPIERER,26,female,white,1173375,missing,1991,2011,BLOOMINGTON,Monroe,IN
+BROOKLYN TAYLOR,17,male,biracial,1280204,endangeredRunaway,2000,2016,MEMPHIS,Clark County,IN
+AMBER THOMAS,13,female,white,1308898,endangeredRunaway,2003,2017,JEFFERSONVILLE,Clark,IN
+RICKY THOMAS,33,male,white,840241,endangeredMissing,1983,1997,BRISTOW,Perry,IN
+MARIANO TOJIN DE LEON,14,male,hispanic,1288167,endangeredRunaway,2002,2017,INDIANAPOLIS,Marion,IN
+SKILAR VAN DAMME,16,female,white,1305728,endangeredRunaway,2001,2017,INDIANAPOLIS,Marion County,IN
+ZANE VAUGHT,17,male,white,1301238,endangeredRunaway,1999,2017,MOORESVILLE,Morgan County,IN
+CAMRYN WALKER,18,female,white,1292057,endangeredRunaway,1999,2017,MUNCIE,Delaware County,IN
+KING WALKER,4,male,black,1252008,familyAbduct,2013,2015,GARY,Lake,IN
+JESSICA WILKERSON,15,female,white,1308164,endangeredRunaway,2001,2017,INDIANAPOLIS,Johnson County,IN
+DELANO WILSON,3,male,black,1237049,nonFamilyAbduct,2014,2014,INDIANAPOLIS,Marion,IN
+SEQAYLAH YOUNG,18,female,black,1291291,endangeredRunaway,1999,2016,SOUTH BEND,St Joseph County,IN
+AURORA ZIMMER,17,female,white,1305813,endangeredRunaway,1999,2017,INDIANAPOLIS,Marion,IN
