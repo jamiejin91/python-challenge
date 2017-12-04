@@ -39,18 +39,18 @@ def metadata(sample):
                               samples_md.AGE, 
                               samples_md.BBTYPE,
                               samples_md.LOCATION).filter_by(SAMPLEID = sample[3:]).all()
-    result = {"age":md_query[3],
-               "bb_type":md_query[4],
-               "ethnicity":md_query[1], 
-               "gender":md_query[2],
-               "location":md_query[5],
-               "sample_id":md_query[0]}
+    result = {"AGE":md_query[3],
+              "BBTYPE":md_query[4],
+              "ETHNICITY":md_query[1], 
+              "GENDER":md_query[2],
+              "LOCATION":md_query[5],
+              "SAMPLEID":md_query[0]}
     return jsonify(result)
 
 @app.route('/wfreq/<sample>')
 def wfreq(sample):
     wash_query = session.query(samples_md.WFREQ).filter_by(SAMPLEID = sample[3:]).all()
-    result = {"wfreq":wash_query[0][0]}
+    result = {"WFREQ":wash_query[0][0]}
     return jsonify(result)
 
 @app.route('/samples/<sample>')
