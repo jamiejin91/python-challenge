@@ -10,9 +10,9 @@ engine = create_engine("sqlite:///data/belly_button_biodiversity.sqlite")
 Base = automap_base()
 Base.prepare(engine, reflect=True)
 
-otu = Base.classes.otu
-samples = Base.classes.samples
-samples_md = Base.classes.samples_metadata
+Otu = Base.classes.otu
+Samples = Base.classes.samples
+Samples_md = Base.classes.samples_metadata
 session = Session(engine)
 
 @app.route("/")
@@ -21,24 +21,22 @@ def home():
 
 @app.route("/names")
 def names():
-    sample_names = [name.key for name in samples.__table__.columns if name.key != "otu_id"]
+    sample_names = [name.key for name in Samples.__table__.columns if name.key != "otu_id"]
     return jsonify(sample_names)
 
 @app.route('/otu')
 def otu():
-    otu_query = session.query(otu.otu_id,otu.lowest_taxonomic_unit_found).all()
-    result = {"otu_id":otu_query[0],
-             "lowest_taxonomic_unit_found":otu_query[1]}
-    return jsonify(result)
+    otu_query = session.query(Otu.lowest_taxonomic_unit_found).all()
+    return jsonify(otu_query)
 
 @app.route("/metadata/<sample>")
 def metadata(sample):
-    md_query = session.query(samples_md.SAMPLEID,
-                              samples_md.ETHNICITY,
-                              samples_md.GENDER,
-                              samples_md.AGE, 
-                              samples_md.BBTYPE,
-                              samples_md.LOCATION).filter_by(SAMPLEID = sample[3:]).all()
+    md_query = session.query(Samples_md.SAMPLEID,
+                              Samples_md.ETHNICITY,
+                              Samples_md.GENDER,
+                              Samples_md.AGE, 
+                              Samples_md.BBTYPE,
+                              Samples_md.LOCATION).filter_by(SAMPLEID = sample[3:]).all()
     result = {"AGE":md_query[3],
               "BBTYPE":md_query[4],
               "ETHNICITY":md_query[1], 
@@ -49,13 +47,13 @@ def metadata(sample):
 
 @app.route('/wfreq/<sample>')
 def wfreq(sample):
-    wash_query = session.query(samples_md.WFREQ).filter_by(SAMPLEID = sample[3:]).all()
+    wash_query = session.query(Samples_md.WFREQ).filter_by(SAMPLEID = sample[3:]).all()
     result = {"WFREQ":wash_query[0][0]}
     return jsonify(result)
 
 @app.route('/samples/<sample>')
 def samples(sample):
-    samples_query = session.query(samples.otu_id, "samples.{}".format(sample)).order_by(desc("samples.{}".format(sample))).all()
+    samples_query = session.query(Samples.otu_id, "samples.{}".format(sample)).order_by(desc("samples.{}".format(sample))).all()
     result = [{"otu_ids":samples_query[i][0], "sample_values":samples_query[i][1]} for i in range(len(samples_query))]
     return jsonify(result)
 
