@@ -31,23 +31,25 @@ def otu():
 
 @app.route("/metadata/<sample>")
 def metadata(sample):
+    sample_name = sample[3:]
     md_query = session.query(Samples_md.SAMPLEID,
                               Samples_md.ETHNICITY,
                               Samples_md.GENDER,
                               Samples_md.AGE, 
                               Samples_md.BBTYPE,
-                              Samples_md.LOCATION).filter_by(SAMPLEID = sample[3:]).all()
-    result = {"AGE":md_query[3],
-              "BBTYPE":md_query[4],
-              "ETHNICITY":md_query[1], 
-              "GENDER":md_query[2],
-              "LOCATION":md_query[5],
-              "SAMPLEID":md_query[0]}
+                              Samples_md.LOCATION).filter_by(SAMPLEID = sample_name).all()
+    result = [{"SAMPLEID":query[0],
+              "ETHNICITY":query[1],
+              "GENDER":query[2],
+              "AGE":query[3],
+              "BBTYPE":query[4],
+              "LOCATION":query[5]} for query in md_query]
     return jsonify(result)
 
 @app.route('/wfreq/<sample>')
 def wfreq(sample):
-    wash_query = session.query(Samples_md.WFREQ).filter_by(SAMPLEID = sample[3:]).all()
+    sample_name = sample[3:]
+    wash_query = session.query(Samples_md.WFREQ).filter_by(SAMPLEID = sample_name).all()
     result = {"WFREQ":wash_query[0][0]}
     return jsonify(result)
 
