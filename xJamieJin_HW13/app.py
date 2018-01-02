@@ -43,20 +43,22 @@ def metadata(sample):
               "GENDER":query[2],
               "AGE":query[3],
               "BBTYPE":query[4],
-              "LOCATION":query[5]} for query in md_query]
+              "LOCATION":query[5]} for query in md_query][0]
     return jsonify(result)
 
 @app.route('/wfreq/<sample>')
 def wfreq(sample):
     sample_name = sample[3:]
     wash_query = session.query(Samples_md.WFREQ).filter_by(SAMPLEID = sample_name).all()
-    result = {"WFREQ":wash_query[0][0]}
+    result = wash_query[0][0]
     return jsonify(result)
 
 @app.route('/samples/<sample>')
 def samples(sample):
     samples_query = session.query(Samples.otu_id, "samples.{}".format(sample)).order_by(desc("samples.{}".format(sample))).all()
-    result = [{"otu_ids":samples_query[i][0], "sample_values":samples_query[i][1]} for i in range(len(samples_query))]
+    otu_ids = [samples_query[i][0] for i in range(len(samples_query))]
+    sample_values = [samples_query[i][1] for i in range(len(samples_query))]
+    result = [{"otu_ids":otu_ids, "sample_values":sample_values}]
     return jsonify(result)
 
 if __name__ == '__main__':
